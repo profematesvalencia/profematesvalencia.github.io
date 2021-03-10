@@ -50,13 +50,13 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: customize
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can be edited in Forestry
-    CMS.
+  headline: Desde el año 2005, me he dedicado a impartir clases particulares de matemáticas,
+    física y química a estudiantes de ESO, bachillerato y de universidad para superar
+    deficiencias en áreas numéricas y preparación de exámenes.
+  content: ''
   media:
-    image: "/uploads/2018/06/21/edit.gif"
-    alt_text: Customize Blocks
+    image: "/uploads/2021/03/10/particulares.png"
+    alt_text: tutor
 - template: 1-column-text
   block: one-column-1
   slug: responsive
