@@ -23,7 +23,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: uBuild <br><strong>design blocks</strong>
+  headline: "<strong>Ayudándote hoy para que seas parte del mañana</strong>"
   content: The tool that allows you to build beautiful sites<br>all inside Forestry's
     content manager.
   cta:
@@ -31,8 +31,8 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
-    alt_text: Product Shot
+    image: ''
+    alt_text: ''
   background_image: "/uploads/2021/03/10/maths-board.jpg"
 - template: content-feature
   block: feature-1
