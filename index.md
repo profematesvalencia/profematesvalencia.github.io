@@ -13,7 +13,8 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: Ayudándote hoy para que seas parte del mañana
+  headline: "<style> body {text-align: right;}</style>Ayudándote hoy para que seas
+    parte del mañana"
   content: ''
   cta:
     enabled: false
