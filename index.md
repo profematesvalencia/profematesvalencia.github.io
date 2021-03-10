@@ -26,9 +26,9 @@ page_sections:
   headline: "<strong>Ayudándote hoy para que seas parte del mañana</strong>"
   content: ''
   cta:
-    enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    enabled: false
+    url: ''
+    button_text: ''
   image:
     image: ''
     alt_text: ''
