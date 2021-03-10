@@ -32,7 +32,7 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  background_image: ''
+  background_image: "/uploads/2021/03/10/calculus-board.jpeg"
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -79,5 +79,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
+published: false
 
 ---
