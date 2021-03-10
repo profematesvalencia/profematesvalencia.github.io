@@ -5,10 +5,10 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2021/03/10/logo_large.png"
+  logo: "/uploads/2021/03/10/logo_extra_large.png"
   navigation:
   - link: "/"
-    link_text: Ubuild
+    link_text: Inicio
   - link: "#swap"
     link_text: Swap
   - link: "#customize"
