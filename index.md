@@ -24,8 +24,7 @@ page_sections:
   block: hero-2
   slug: features
   headline: "<strong>Ayudándote hoy para que seas parte del mañana</strong>"
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  content: ''
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
