@@ -39,12 +39,12 @@ page_sections:
   slug: bio
   headline: Soy ingeniero industrial e ingeniero en aviación comercial de la Universidad
     Técnica Federico Santa María (Chile) con un máster en gestión de la calidad en
-    la Universitat de València.<img src="/uploads/2021/03/10/industrial.png">
+    la Universitat de València.
   content: Desde el año 2005, me he dedicado a impartir clases particulares de matemáticas,
     física y probabilidad &amp; estadística a estudiantes de ESO, bachillerato y de
     universidad para superar deficiencias en áreas numéricas y preparación de exámenes.
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
+    image: "/uploads/2021/03/10/industrial.png"
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
