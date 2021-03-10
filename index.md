@@ -37,13 +37,13 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: bio
-  headline: ''
-  content: Soy ingeniero industrial e ingeniero en aviación comercial de la Universidad
+  headline: Soy ingeniero industrial e ingeniero en aviación comercial de la Universidad
     Técnica Federico Santa María (Chile) con un master en gestión de la calidad en
     la Universitat de València.<br><br>En este año 2021 daré comienzo a un doctorado
     en optimización y estadística que ofrece en conjunto la Universitat Politécnica
     de València y la Universitat de València, la formación continua es de suma importancia
     para mi.
+  content: ''
   media:
     image: "/uploads/2021/03/10/industrial.png"
     alt_text: uBuild Blocks Mock-Up
