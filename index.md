@@ -41,8 +41,7 @@ page_sections:
     Técnica Federico Santa María (Chile) con un master en gestión de la calidad en
     la Universitat de València.<br><br>En este año 2021 daré comienzo a un doctorado
     en optimización y estadística que ofrece en conjunto la Universitat Politécnica
-    de València y la Universitat de València, la formación continua es de suma importancia
-    para mi.
+    de València y la UV.
   content: ''
   media:
     image: "/uploads/2021/03/10/industrial.png"
