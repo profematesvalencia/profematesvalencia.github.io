@@ -45,18 +45,18 @@ page_sections:
   content: ''
   media:
     image: "/uploads/2021/03/10/industrial.png"
-    alt_text: uBuild Blocks Mock-Up
+    alt_text: ingeniería industrial
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  slug: customize
+  slug: classes
   headline: Desde el año 2005, me he dedicado a impartir clases particulares de matemáticas,
     física y química a estudiantes de ESO, bachillerato y de universidad para superar
     deficiencias en áreas numéricas y preparación de exámenes.
   content: ''
   media:
     image: "/uploads/2021/03/10/particulares.png"
-    alt_text: tutor
+    alt_text: tutor classes
 - template: 1-column-text
   block: one-column-1
   slug: responsive
