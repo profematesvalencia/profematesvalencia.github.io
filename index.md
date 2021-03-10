@@ -13,8 +13,8 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<strong>&lt;style&gt; body {<br>text-align: right;}&lt;/style&gt;Ayudándote
-    hoy para que seas parte del mañana</strong>"
+  headline: "<pre><code>&lt;style&gt; body {text-align: right;}&lt;/style&gt;Ayudándote
+    hoy para que seas parte del mañana</code></pre>"
   content: ''
   cta:
     enabled: false
