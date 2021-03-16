@@ -14,7 +14,8 @@ page_sections:
   block: hero-2
   slug: features
   headline: "<style> .block-hero-2 h1 {color: IndianRed; font-weight: bolder !important;}
-    </style>Ayudándote hoy para que seas parte del mañana"
+    h1 span.light {font-weight: 900; }</style>Ayudándote hoy para que seas parte del
+    mañana"
   content: ''
   cta:
     enabled: false
