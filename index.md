@@ -13,7 +13,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<style> .block-hero-2 h1 {color: red; font-weight: bolder !important;}
+  headline: "<style> .block-hero-2 h1 {color: IndianRed; font-weight: bolder !important;}
     </style>Ayudándote hoy para que seas parte del mañana"
   content: ''
   cta:
