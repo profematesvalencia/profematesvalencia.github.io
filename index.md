@@ -13,8 +13,9 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<style> .block-hero-2 h1 {color: IndianRed; background: Grey;} h1 span.light
-    {font-weight: 700; }</style>Ayudándote hoy para que seas parte del mañana"
+  headline: "<style> .block-hero-2 h1 {color: IndianRed; background: Grey; height:
+    30%;} h1 span.light {font-weight: 700; }</style>Ayudándote hoy para que seas parte
+    del mañana"
   content: ''
   cta:
     enabled: false
