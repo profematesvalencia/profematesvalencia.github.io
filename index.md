@@ -11,7 +11,7 @@ page_sections:
   block: hero-2
   slug: features
   headline: "<style> .block-hero-2 h1 {color: rgb(184, 184, 184); background-color:
-    rgba(204,0,0,.7); padding: 120px 0px 100px 45px; border-radius: 25px;} h1 span.light
+    rgba(204,0,0,.7); padding: 120px 0px 100px 40px; border-radius: 25px;} h1 span.light
     {font-weight: 550; }</style>Instrúyete hoy para que seas parte del día de mañana"
   content: ''
   cta:
