@@ -13,6 +13,7 @@ fields:
     required: true
   label: heading text
   hidden: false
+  description: Heading text that doesn't work...
 - type: field_group
   name: col_1
   label: Column 1
