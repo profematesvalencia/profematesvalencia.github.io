@@ -81,7 +81,7 @@ page_sections:
       proponerte ejercicios del mismo nivel y así asegures una excelente calificación.​
   headline: ''
   content: "<h1></h1>"
-  heading_text: ''
+  heading_text: "¿Como te puedo ayudar?"
 - template: 1-column-text
   block: one-column-1
   slug: responsive
