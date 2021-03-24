@@ -10,7 +10,7 @@ fields:
 - name: 3_column_heading_text
   type: include
   config: {}
-  template: simple-header
+  template: text-1
   label: 3_column_heading_text
 - type: field_group
   name: col_1
