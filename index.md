@@ -46,6 +46,20 @@ page_sections:
   media:
     image: "/uploads/2021/03/10/particulares.png"
     alt_text: tutor classes
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: ''
+    slug: ''
+    content: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
 - template: 1-column-text
   block: one-column-1
   slug: responsive
