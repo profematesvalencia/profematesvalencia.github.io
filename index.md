@@ -71,7 +71,7 @@ page_sections:
       que te pediré tus apuntes y guías de ejercicios que te hayan entregado para
       proponerte ejercicios del mismo nivel y así asegures una excelente calificación.​
   headline: ''
-  content: "<h1>¿Como te puedo ayudar?</h1>"
+  content: "<h1></h1>"
 - template: 1-column-text
   block: one-column-1
   slug: responsive
