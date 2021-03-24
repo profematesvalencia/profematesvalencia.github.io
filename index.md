@@ -46,6 +46,15 @@ page_sections:
   media:
     image: "/uploads/2021/03/10/particulares.png"
     alt_text: tutor classes
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "¿Como te puedo ayudar?"
+  slug: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
