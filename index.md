@@ -70,6 +70,8 @@ page_sections:
     content: Muchos de mis alumnos, buscan prepararse para un examen. Es por esto
       que te pediré tus apuntes y guías de ejercicios que te hayan entregado para
       proponerte ejercicios del mismo nivel y así asegures una excelente calificación.​
+  headline: "¿Como te puedo ayudar?"
+  content: ''
 - template: 1-column-text
   block: one-column-1
   slug: responsive
