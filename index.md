@@ -14,7 +14,7 @@ page_sections:
   block: hero-2
   slug: features
   headline: "<style> .block-hero-2 h1 {color: Red; background-color: rgba(198,198,198,.1);
-    padding: 110px 10px 10px;} h1 span.light {font-weight: 700; }</style>Ayudándote
+    padding: 110px 10px 50px;} h1 span.light {font-weight: 700; }</style>Ayudándote
     hoy para que seas parte del mañana"
   content: ''
   cta:
