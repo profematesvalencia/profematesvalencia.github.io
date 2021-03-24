@@ -10,9 +10,9 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<style> .block-hero-2 h1 {color: #3D348B; background-color: rgba(198,198,198,.3);
-    padding: 100px 100px 100px 100px;} h1 span.light {font-weight: 500; }</style>AYUDÁNDOTE
-    HOY PARA QUE SEAS PARTE DEL MAÑANA"
+  headline: "<style> .block-hero-2 h1 {color: #433E0E; background-color: rgba(198,198,198,.4);
+    padding: 100px 100px 100px 100px;} h1 span.light {font-weight: 500; }</style>Ayudándote
+    hoy para que seas parte del mañana"
   content: ''
   cta:
     enabled: false
