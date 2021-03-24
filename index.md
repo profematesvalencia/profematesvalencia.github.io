@@ -49,17 +49,27 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: ''
+    headline: Clases presenciales
     slug: ''
-    content: ''
+    content: "<strong>¿Como te puedo ayudar?</strong><br><br>Es la forma más tradicional
+      de enseñar. Nos reunimos, te enseño la teoría, te muestro algunos ejercicios
+      y después el protagonista eres tú. Lo más importante es que tú los hagas y desarrolles
+      esa capacidad tan importante de saber que hacer en cada caso."
   col_2:
-    headline: ''
+    headline: Clases en línea
     slug: ''
-    content: ''
+    content: Dada la situación actual y los escasos tiempos que todos tenemos, he
+      diseñado una forma muy efectiva de hacer clases por video llamada, en donde
+      ves en tiempo real lo que escribo con mi lápiz en mi Ipad. Pero no te confíes...
+      que el que hace el trabajo duro sigues siendo tú... yo solo te guiaré.​<br><br>Al
+      final de la sesión te envío el apunte que hicimos en conjunto en formato PDF
+      a tu correo para que después lo estudies​
   col_3:
-    headline: ''
+    headline: Preparación para el examen
     slug: ''
-    content: ''
+    content: Muchos de mis alumnos, buscan prepararse para un examen. Es por esto
+      que te pediré tus apuntes y guías de ejercicios que te hayan entregado para
+      proponerte ejercicios del mismo nivel y así asegures una excelente calificación.​
 - template: 1-column-text
   block: one-column-1
   slug: responsive
