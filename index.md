@@ -7,17 +7,10 @@ page_sections:
   block: header-1
   logo: "/uploads/2021/03/24/logo_large.png"
   navigation: []
-- template: navigation-header-w-button
-  block: header-2
-  logo: "/uploads/2021/03/24/logo_large.png"
-  navigation: []
-  cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: CONTÁCTAME
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<style> .block-hero-2 h1 {color: Red; background-color: rgba(198,198,198,.3);
+  headline: "<style> .block-hero-2 h1 {color: #1982C4; background-color: rgba(198,198,198,.3);
     padding: 100px 100px 100px 100px;} h1 span.light {font-weight: 500; }</style>Ayudándote
     hoy para que seas parte del mañana"
   content: ''
