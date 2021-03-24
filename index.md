@@ -51,10 +51,10 @@ page_sections:
   col_1:
     headline: Clases presenciales
     slug: ''
-    content: "<strong>¿Como te puedo ayudar?</strong><br><br>Es la forma más tradicional
-      de enseñar. Nos reunimos, te enseño la teoría, te muestro algunos ejercicios
-      y después el protagonista eres tú. Lo más importante es que tú los hagas y desarrolles
-      esa capacidad tan importante de saber que hacer en cada caso."
+    content: Es la forma más tradicional de enseñar. Nos reunimos, te enseño la teoría,
+      te muestro algunos ejercicios y después el protagonista eres tú. Lo más importante
+      es que tú los hagas y desarrolles esa capacidad tan importante de saber que
+      hacer en cada caso.
   col_2:
     headline: Clases en línea
     slug: ''
