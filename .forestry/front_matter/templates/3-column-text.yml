@@ -11,8 +11,9 @@ fields:
 - name: heading_text
   type: text
   config:
-    required: false
+    required: true
   label: heading text
+  hidden: false
 - type: field_group
   name: col_1
   label: Column 1
