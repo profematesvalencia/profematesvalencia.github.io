@@ -40,7 +40,7 @@ page_sections:
   media_alignment: Right
   slug: classes
   headline: Desde el año 2005, me he dedicado a impartir clases particulares de matemáticas,
-    física y química a estudiantes de ESO, bachillerato y de universidad para superar
+    física y química a estudiantes de ESO, bachillerato y de la universidad para superar
     deficiencias en áreas numéricas y preparación de exámenes.
   content: ''
   media:
