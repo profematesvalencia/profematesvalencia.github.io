@@ -7,11 +7,11 @@ fields:
   label: block
   name: block
   default: three-column-1
-- name: 3_column_heading_text
-  type: include
-  config: {}
-  template: text-1
-  label: 3_column_heading_text
+- name: heading_text
+  type: text
+  config:
+    required: false
+  label: heading text
 - type: field_group
   name: col_1
   label: Column 1
