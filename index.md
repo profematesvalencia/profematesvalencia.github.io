@@ -12,7 +12,7 @@ page_sections:
   slug: features
   headline: "<style> .block-hero-2 h1 {color: #FF8585; background-color: rgba(198,198,198,.6);
     padding: 100px 100px 100px 100px; align: right;} h1 span.light {font-weight: 500;
-    }</style>Ayudándote hoy para que seas parte del mañana"
+    }</style>Instrúyete el día de hoy para que seas parte del mañana"
   content: ''
   cta:
     enabled: false
