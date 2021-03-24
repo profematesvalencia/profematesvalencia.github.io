@@ -10,7 +10,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<style> .block-hero-2 h1 {color: rgb(184,0,0); background-color: rgba(184,
+  headline: "<style> .block-hero-2 h1 {color: rgb(204,0,0); background-color: rgba(184,
     184, 184,.7); padding: 100px 50px 100px 50px;} h1 span.light {font-weight: 550;
     }</style>Instrúyete el día de hoy para que seas parte del mañana"
   content: ''
