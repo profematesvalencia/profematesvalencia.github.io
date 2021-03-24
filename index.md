@@ -3,6 +3,10 @@ layout: blocks
 title: Homepage
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
+- template: navigation-header
+  block: header-1
+  logo: "/uploads/2021/03/24/logo_large.png"
+  navigation: []
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2021/03/24/logo_large.png"
