@@ -7,18 +7,6 @@ fields:
   label: block
   name: block
   default: three-column-1
-- name: heading_text
-  type: text
-  config:
-    required: true
-  label: heading text
-  hidden: false
-  description: Heading text that doesn't work...
-- name: heading_text_1
-  type: include
-  config: {}
-  template: text-only-hero-banner
-  label: heading text 1
 - type: field_group
   name: col_1
   label: Column 1
