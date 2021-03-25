@@ -48,6 +48,7 @@ page_sections:
     alt_text: tutor classes
 - template: 3-column-text
   block: three-column-1
+  headline: ¿Como te puedo ayudar?
   col_1:
     headline: Clases presenciales
     slug: ''
