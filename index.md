@@ -10,11 +10,10 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: ''
-  content: "&lt;style&gt; .block-hero-2 h1 {color: rgb(204,0,0); background-color:
-    rgba(184, 184, 184,.8); padding: 100px 50px 100px 50px; border-radius: 40px;}
-    h1 span.light {font-weight: 550;}&lt;/style&gt;Instrúyete hoy para que seas parte
-    del día de mañana"
+  headline: "<style> .block-hero-2 h1 {color: rgb(204,0,0); background-color: rgba(184,
+    184, 184,.8); padding: 100px 50px 100px 50px; border-radius: 40px;} h1 span.light
+    {font-weight: 550;}</style>Instrúyete hoy para que seas parte del día de mañana"
+  content: ''
   cta:
     enabled: false
     url: ''
