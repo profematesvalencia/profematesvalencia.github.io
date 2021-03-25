@@ -20,7 +20,9 @@ page_sections:
     button_text: ''
   image:
     image: ''
-    alt_text: ''
+    alt_text: "<style> .block-hero-2 h1 {color: rgb(204,0,0); background-color: rgba(184,
+      184, 184,.8); padding: 100px 50px 100px 50px; border-radius: 40px;} h1 span.light
+      {font-weight: 550;}</style>Instrúyete hoy para que seas parte del día de mañana"
   background_image: "/uploads/2021/03/10/calculus-board-1.jpeg"
 - template: content-feature
   block: feature-1
