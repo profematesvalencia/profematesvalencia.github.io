@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Homepage
-date: 2017-11-22 23:00:00 +0000
+date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header
   block: header-1
@@ -48,7 +48,7 @@ page_sections:
     alt_text: tutor classes
 - template: 3-column-text
   block: three-column-1
-  headline: ¿Como te puedo ayudar?
+  headline: ''
   col_1:
     headline: Clases presenciales
     slug: ''
@@ -71,9 +71,8 @@ page_sections:
     content: Muchos de mis alumnos, buscan prepararse para un examen. Es por esto
       que te pediré tus apuntes y guías de ejercicios que te hayan entregado para
       proponerte ejercicios del mismo nivel y así asegures una excelente calificación.​
-  headline: ''
   content: "<h1></h1>"
-  heading_text: "¿Como te puedo ayudar?"
+  heading_text: "<h2>¿Como te puedo ayudar?</h2>"
   heading: "¿Como te puedo ayudar?"
 - template: 1-column-text
   block: one-column-1
