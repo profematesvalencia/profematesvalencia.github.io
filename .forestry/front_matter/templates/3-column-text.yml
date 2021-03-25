@@ -17,7 +17,7 @@ fields:
 - name: heading_text_1
   type: include
   config: {}
-  template: simple-header
+  template: text-only-hero-banner
   label: heading text 1
 - type: field_group
   name: col_1
