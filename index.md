@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Homepage
-date: 2017-11-22T23:00:00.000+00:00
+date: 2017-11-22 23:00:00 +0000
 page_sections:
 - template: navigation-header
   block: header-1
@@ -48,7 +48,6 @@ page_sections:
     alt_text: tutor classes
 - template: 3-column-text
   block: three-column-1
-  headline: ¿Como te puedo ayudar?
   col_1:
     headline: Clases presenciales
     slug: ''
