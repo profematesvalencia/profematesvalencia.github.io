@@ -73,6 +73,7 @@ page_sections:
   headline: ''
   content: "<h1></h1>"
   heading_text: "¿Como te puedo ayudar?"
+  heading: "¿Como te puedo ayudar?"
 - template: 1-column-text
   block: one-column-1
   slug: responsive
