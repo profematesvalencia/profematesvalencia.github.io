@@ -58,12 +58,10 @@ page_sections:
   col_2:
     headline: Clases en línea
     slug: ''
-    content: Dada la situación actual y los escasos tiempos que todos tenemos, he
-      diseñado una forma muy efectiva de hacer clases por video llamada, en donde
-      ves en tiempo real lo que escribo con mi lápiz en mi Ipad. Pero no te confíes...
-      que el que hace el trabajo duro sigues siendo tú... yo solo te guiaré.​<br><br>Al
-      final de la sesión te envío el apunte que hicimos en conjunto en formato PDF
-      a tu correo para que después lo estudies​
+    content: Dada la situación actual, he diseñado una forma efectiva de realizar
+      clases no presenciales, en donde ves en tiempo real lo que escribo en mi dispositivo
+      digital de enseñanza. Al final de la sesión te envío los apuntes que hicimos
+      en conjunto en formato PDF.
   col_3:
     headline: Preparación para el examen
     slug: ''
