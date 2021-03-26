@@ -87,25 +87,14 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: ''
-  content: <p>Una de mis principales cualidades como profesor es la importancia que
-    le doy al proceso de aprendizaje. Las personas aprendemos de diversas formas y
-    es labor del profesor identificar cuales son los métodos que mejor dan resultado
-    para cada estudiante. No todos tenemos las mismas bases de aprendizaje, a veces
-    es importante volver atrás para solucionar o reforzar algunos conceptos o materias
-    faltantes. No tiene mucho sentido aprender, por ejemplo, a derivar, si es que
-    no comprendemos bien que es una función, ya que no haríamos otra cosa que construir
-    un "castillo en el aire" y lo que necesitamos son cimientos sólidos. Te aseguro
-    que los necesitarás.​Mi experiencia me ha permitido conocer bien las necesidades
-    de estudiantes de ESO, bachillerato y universidad y me hace muy feliz ver como
-    logro traspasar conocimientos de forma efectiva a mis estudiantes. Me es gratificante
-    ver que comprenden lo que les explico. Académicamente, puedo asegurar que cuento
-    con bases muy sólidas para enseñar matemáticas, física y probabilidades y estadística.
-    Soy ingeniero industrial e ingeniero en aviación comercial de la Universidad Técnica
-    Federico Santa María, la cual se caracteriza por tener una exigencia muy alta,
-    sobre todo en asignaturas numéricas​Trabajé por varios años en una prestigiosa
-    aerolínea, líder en latinoamérica, en donde apliqué directamente conocimientos
-    de probabilidad y estadística. Comunicar y enseñar, definitivamente son áreas
-    que me gustan y lo notarás cuando estés en clases conmigo.</p>
+  content: "<p>Una de mis principales cualidades es la importancia que le doy al proceso
+    de aprendizaje. Las personas aprendemos de diversas formas y es labor del profesor
+    identificar cuales son los métodos que mejores resultados generan, siendo lo mas
+    importante el volver atrás para solucionar o reforzar algunos conceptos clave.
+    </p><p>Mi experiencia me ha permitido conocer bien las necesidades de los estudiantes
+    y me hace muy feliz ver como logro traspasar el saber de forma efectiva a mis
+    aprendices. Me es gratificante ver que comprenden lo que les explico. </p><p>Académicamente,
+    puedo asegurar que cuento con bases muy sólidas para enseñar distintas disciplinas.</p>"
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
