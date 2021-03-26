@@ -58,10 +58,10 @@ page_sections:
   col_2:
     headline: Clases en línea
     slug: ''
-    content: Dada la situación actual, he diseñado una forma efectiva de realizar
+    content: Dada la situación actual, he diseñado una efectiva metodología de realizar
       clases no presenciales, en donde ves en tiempo real lo que escribo en mi dispositivo
-      digital de enseñanza. Al final de la sesión te envío los apuntes que hicimos
-      en conjunto en formato PDF.
+      digital de enseñanza. Al final de la sesión te envío los apuntes que realicemos
+      en conjunto por medio de un archivo PDF.
   col_3:
     headline: Preparación parcial
     slug: ''
