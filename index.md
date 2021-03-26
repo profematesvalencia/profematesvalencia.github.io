@@ -86,7 +86,8 @@ page_sections:
   slug: blocks
 - template: detail-content
   block: text-1
-  headline: Una de mis principales cualidades como profesor es la importancia que
+  headline: ''
+  content: <p>Una de mis principales cualidades como profesor es la importancia que
     le doy al proceso de aprendizaje. Las personas aprendemos de diversas formas y
     es labor del profesor identificar cuales son los métodos que mejor dan resultado
     para cada estudiante. No todos tenemos las mismas bases de aprendizaje, a veces
@@ -104,8 +105,7 @@ page_sections:
     sobre todo en asignaturas numéricas​Trabajé por varios años en una prestigiosa
     aerolínea, líder en latinoamérica, en donde apliqué directamente conocimientos
     de probabilidad y estadística. Comunicar y enseñar, definitivamente son áreas
-    que me gustan y lo notarás cuando estés en clases conmigo.
-  content: <p><img src="/uploads/2021/03/26/marcel_orig.jpg"></p>
+    que me gustan y lo notarás cuando estés en clases conmigo.</p>
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
