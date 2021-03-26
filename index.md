@@ -88,13 +88,13 @@ page_sections:
   block: text-1
   headline: <img style="width:100%; height:auto; border-radius:50%;}" src="https://profematesvalencia.net/uploads/1/3/5/5/135504880/marcel_orig.jpg"
     alt="Girl in a jacket" width="500" height="600">
-  content: <p>&lt;/br&gt;</p><p>Una de mis principales cualidades es la importancia
-    que le doy al proceso de aprendizaje. Las personas aprendemos de diversas formas
-    y es labor del profesor identificar cuales son los métodos que mejores resultados
-    generan, siendo lo mas importante el volver atrás para solucionar o reforzar algunos
-    conceptos clave.</p><p>No tiene mucho sentido aprender, por ejemplo, a derivar,
-    si es que no comprendemos bien que es una función, ya que no haríamos un "castillo
-    en el aire" y lo que necesitamos son cimientos sólidos, te aseguro que los necesitarás.</p><p>Mi
+  content: <p></p><p>Una de mis principales cualidades es la importancia que le doy
+    al proceso de aprendizaje. Las personas aprendemos de diversas formas y es labor
+    del profesor identificar cuales son los métodos que mejores resultados generan,
+    siendo lo mas importante el volver atrás para solucionar o reforzar algunos conceptos
+    clave.</p><p>No tiene mucho sentido aprender, por ejemplo, a derivar, si es que
+    no comprendemos bien que es una función, ya que no haríamos un "castillo en el
+    aire" y lo que necesitamos son cimientos sólidos, te aseguro que los necesitarás.</p><p>Mi
     experiencia me ha permitido conocer bien las necesidades de los estudiantes y
     me hace muy feliz ver como logro traspasar el saber de forma efectiva a mis aprendices.
     Me es gratificante ver que comprenden lo que les explico.</p><p>Académicamente,
