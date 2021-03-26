@@ -88,17 +88,17 @@ page_sections:
   block: text-1
   headline: <img style="width:100%; height:auto; border-radius:60%;}" src="https://profematesvalencia.net/uploads/1/3/5/5/135504880/marcel_orig.jpg"
     alt="Girl in a jacket" width="500" height="600">
-  content: <p>&lt;p&gt;Una de mis principales cualidades es la importancia que le
-    doy al proceso de aprendizaje. Las personas aprendemos de diversas formas y es
-    labor del profesor identificar cuales son los métodos que mejores resultados generan,
-    siendo lo mas importante el volver atrás para solucionar o reforzar algunos conceptos
-    clave.</p><p>No tiene mucho sentido aprender, por ejemplo, a derivar, si es que
-    no comprendemos bien que es una función, ya que no haríamos un "castillo en el
-    aire" y lo que necesitamos son cimientos sólidos, te aseguro que los necesitarás.</p><p>Mi
+  content: <h5>Una de mis principales cualidades es la importancia que le doy al proceso
+    de aprendizaje. Las personas aprendemos de diversas formas y es labor del profesor
+    identificar cuales son los métodos que mejores resultados generan, siendo lo mas
+    importante el volver atrás para solucionar o reforzar algunos conceptos clave.</h5><h5>No
+    tiene mucho sentido aprender, por ejemplo, a derivar, si es que no comprendemos
+    bien que es una función, ya que no haríamos un "castillo en el aire" y lo que
+    necesitamos son cimientos sólidos, te aseguro que los necesitarás.</h5><h5>Mi
     experiencia me ha permitido conocer bien las necesidades de los estudiantes y
     me hace muy feliz ver como logro traspasar el saber de forma efectiva a mis aprendices.
-    Me es gratificante ver que comprenden lo que les explico.</p><p>Académicamente,
-    puedo asegurar que cuento con bases muy sólidas para enseñar distintas disciplinas.&lt;/p&gt;</p>
+    Me es gratificante ver que comprenden lo que les explico.</h5><h5>Académicamente,
+    puedo asegurar que cuento con bases muy sólidas para enseñar distintas disciplinas.</h5>
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
