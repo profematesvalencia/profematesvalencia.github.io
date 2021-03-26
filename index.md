@@ -63,7 +63,7 @@ page_sections:
       digital de enseñanza. Al final de la sesión te envío los apuntes que hicimos
       en conjunto en formato PDF.
   col_3:
-    headline: Preparación para el examen
+    headline: Preparación parcial
     slug: ''
     content: Muchos de mis alumnos buscan como prepararse para un examen. Es por esto
       que te pediré los apuntes y guías de ejercicios que te hayan sido entregados,
