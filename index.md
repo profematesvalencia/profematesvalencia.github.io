@@ -65,9 +65,9 @@ page_sections:
   col_3:
     headline: Preparación para el examen
     slug: ''
-    content: Muchos de mis alumnos, buscan prepararse para un examen. Es por esto
-      que te pediré tus apuntes y guías de ejercicios que te hayan entregado, para
-      proponerte ejercicios del mismo nivel y así te asegures una excelente calificación.​
+    content: Muchos de mis alumnos buscan como prepararse para un examen. Es por esto
+      que te pediré los apuntes y guías de ejercicios que te hayan sido entregados,
+      para proponerte ejercicios del mismo nivel y así asegures una excelente calificación.​
   content: "<h1></h1>"
   heading_text: "<h2>¿Como te puedo ayudar?</h2>"
   heading: "¿Como te puedo ayudar?"
