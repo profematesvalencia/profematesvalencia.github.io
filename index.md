@@ -86,7 +86,7 @@ page_sections:
   slug: blocks
 - template: detail-content
   block: text-1
-  headline: <img src="https://profematesvalencia.net/uploads/1/3/5/5/135504880/marcel_orig.jpg"
+  headline: <img style="width:100%; height:auto;}" src="https://profematesvalencia.net/uploads/1/3/5/5/135504880/marcel_orig.jpg"
     alt="Girl in a jacket" width="500" height="600">
   content: "<p>Una de mis principales cualidades es la importancia que le doy al proceso
     de aprendizaje. Las personas aprendemos de diversas formas y es labor del profesor
