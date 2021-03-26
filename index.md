@@ -72,7 +72,7 @@ page_sections:
       que te pediré tus apuntes y guías de ejercicios que te hayan entregado para
       proponerte ejercicios del mismo nivel y así asegures una excelente calificación.​
   content: "<h1></h1>"
-  heading_text: "<h2>¿Como te puedo ayudar?</h2>"
+  heading_text: "¿Como te puedo ayudar?"
   heading: "¿Como te puedo ayudar?"
 - template: 1-column-text
   block: one-column-1
