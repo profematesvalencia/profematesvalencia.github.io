@@ -86,12 +86,26 @@ page_sections:
   slug: blocks
 - template: detail-content
   block: text-1
-  headline: Steps to Build a Site!
-  content: <p>uBuild is an open-source Jekyll based demo that doubles as a builder
-    tool inside the Forestry content manager.</p><ol><li><p><a href="https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll">Import
-    this demo in Forestry</a>.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
-    article</a> and create your own Blocks.</p></li><li><p>Add and customize the available
-    Blocks and preview them as you go along.</p></li></ol>
+  headline: Una de mis principales cualidades como profesor es la importancia que
+    le doy al proceso de aprendizaje. Las personas aprendemos de diversas formas y
+    es labor del profesor identificar cuales son los métodos que mejor dan resultado
+    para cada estudiante. No todos tenemos las mismas bases de aprendizaje, a veces
+    es importante volver atrás para solucionar o reforzar algunos conceptos o materias
+    faltantes. No tiene mucho sentido aprender, por ejemplo, a derivar, si es que
+    no comprendemos bien que es una función, ya que no haríamos otra cosa que construir
+    un "castillo en el aire" y lo que necesitamos son cimientos sólidos. Te aseguro
+    que los necesitarás.​Mi experiencia me ha permitido conocer bien las necesidades
+    de estudiantes de ESO, bachillerato y universidad y me hace muy feliz ver como
+    logro traspasar conocimientos de forma efectiva a mis estudiantes. Me es gratificante
+    ver que comprenden lo que les explico. Académicamente, puedo asegurar que cuento
+    con bases muy sólidas para enseñar matemáticas, física y probabilidades y estadística.
+    Soy ingeniero industrial e ingeniero en aviación comercial de la Universidad Técnica
+    Federico Santa María, la cual se caracteriza por tener una exigencia muy alta,
+    sobre todo en asignaturas numéricas​Trabajé por varios años en una prestigiosa
+    aerolínea, líder en latinoamérica, en donde apliqué directamente conocimientos
+    de probabilidad y estadística. Comunicar y enseñar, definitivamente son áreas
+    que me gustan y lo notarás cuando estés en clases conmigo.
+  content: <p><img src="/uploads/2021/03/26/marcel_orig.jpg"></p>
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
