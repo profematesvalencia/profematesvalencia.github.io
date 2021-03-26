@@ -54,7 +54,7 @@ page_sections:
     slug: ''
     content: Es la forma más tradicional de enseñar. Nos reunimos, te enseño la teoría,
       te muestro algunos ejercicios y después el protagonista eres tú. Lo más importante
-      es que desarrolles la capacidad tan importante de saber que hacer en cada caso.
+      es que desarrolles la tan importante capacidad de saber que hacer en cada caso.
   col_2:
     headline: Clases en línea
     slug: ''
