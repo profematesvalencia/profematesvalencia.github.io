@@ -91,5 +91,11 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Nicaragua
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/03/24/logo_large.png"
+  col_2: ''
+  col_3: ''
+  col_4: ''
 
 ---
