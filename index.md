@@ -99,9 +99,8 @@ page_sections:
     bien las necesidades de los estudiantes y me hace muy feliz ver como logro traspasar
     el saber de forma efectiva a mis aprendices. Me es gratificante ver que comprenden
     lo que les explico.</strong></p><p><strong>Académicamente, cuento con bases muy
-    sólidas para enseñar distintas disciplinas, y, profesionalmente, cuento con la
-    habilidad de lograr que asimiles fácilmente el material impartido durante nuestros
-    encuentros.</strong></p>
+    sólidas para enseñar distintas disciplinas, y, profesionalmente, con la habilidad
+    de lograr que asimiles el material impartido.</strong></p>
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
