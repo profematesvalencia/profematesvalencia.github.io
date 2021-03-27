@@ -71,19 +71,6 @@ page_sections:
   content: "<h1></h1>"
   heading_text: "<h2>¿Como te puedo ayudar?</h2>"
   heading: "¿Como te puedo ayudar?"
-- template: 1-column-text
-  block: one-column-1
-  slug: responsive
-  headline: 16 Fully Responsive Design Blocks
-  content: |
-    The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
-    create new sites and make them fully customizable.
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
-  slug: blocks
 - template: detail-content
   block: text-1
   headline: <img style="width:85%; height:auto; border-radius:60%;}" src="https://profematesvalencia.net/uploads/1/3/5/5/135504880/marcel_orig.jpg"
