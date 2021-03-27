@@ -93,8 +93,38 @@ page_sections:
   content: Made with ❤︎ in Nicaragua
 - template: 4-column-footer
   block: footer-2
-  image: "/uploads/2021/03/24/logo_large.png"
-  col_2: ''
+  image: ''
+  col_2: '&lt;style&gt;@import url(<a href="https://fonts.googleapis.com/css?family=Lato"
+    title="https://fonts.googleapis.com/css?family=Lato" target="_blank">https://fonts.googleapis.com/css?family=Lato</a>);@import
+    url(<a href="https://fonts.googleapis.com/css?family=Lato" title="https://fonts.googleapis.com/css?family=Lato"
+    target="_blank">https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css</a>);body
+    {    font-family: ''Lato'', sans-serif;    color: #FFF;    background: #322f30;    -webkit-font-smoothing:
+    antialiased;}a {    text-decoration: none;    color: #fff;}p &gt; a:hover{    color:
+    #d9d9d9;    text-decoration:  underline;}h1,h2,h3,h4,h5,h6 {    margin:  1% 0
+    1% 0;}._12 {    font-size: 1.2em;}._14 {    font-size: 1.4em;}ul {    padding:0;    list-style:
+    none;}.footer-social-icons {    width: 350px;    display:block;    margin: 0 auto;}.social-icon
+    {    color: #fff;}ul.social-icons {    margin-top: 10px;}.social-icons li {    vertical-align:
+    top;    display: inline;    height: 100px;}.social-icons a {    color: #fff;    text-decoration:
+    none;}.fa-facebook {    padding:10px 14px;    -o-transition:.5s;    -ms-transition:.5s;    -moz-transition:.5s;    -webkit-transition:.5s;    transition:
+    .5s;    background-color: #322f30;}.fa-facebook:hover {    background-color: #3d5b99;}.fa-twitter
+    {    padding:10px 12px;    -o-transition:.5s;    -ms-transition:.5s;    -moz-transition:.5s;    -webkit-transition:.5s;    transition:
+    .5s;    background-color: #322f30;}.fa-twitter:hover {    background-color: #00aced;}.fa-rss
+    {    padding:10px 14px;    -o-transition:.5s;    -ms-transition:.5s;    -moz-transition:.5s;    -webkit-transition:.5s;    transition:
+    .5s;    background-color: #322f30;}.fa-rss:hover {    background-color: #eb8231;}.fa-youtube
+    {    padding:10px 14px;    -o-transition:.5s;    -ms-transition:.5s;    -moz-transition:.5s;    -webkit-transition:.5s;    transition:
+    .5s;    background-color: #322f30;}.fa-youtube:hover {    background-color: #e64a41;}.fa-linkedin
+    {    padding:10px 14px;    -o-transition:.5s;    -ms-transition:.5s;    -moz-transition:.5s;    -webkit-transition:.5s;    transition:
+    .5s;    background-color: #322f30;}.fa-linkedin:hover {    background-color: #0073a4;}.fa-github
+    {    padding:10px 14px;    -o-transition:.5s;    -ms-transition:.5s;    -moz-transition:.5s;    -webkit-transition:.5s;    transition:
+    .5s;    background-color: #322f30;}.fa-github:hover {    background-color: #5a32a3;}
+    &lt;/style&gt;<br>&lt;div class="footer-social-icons"&gt;    &lt;h4 class="_14"&gt;Follow
+    us on&lt;/h4&gt;    &lt;ul class="social-icons"&gt;        &lt;li&gt;&lt;a href=""
+    class="social-icon"&gt; &lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;        &lt;li&gt;&lt;a
+    href="" class="social-icon"&gt; &lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;        &lt;li&gt;&lt;a
+    href="" class="social-icon"&gt; &lt;i class="fa fa-rss"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;        &lt;li&gt;&lt;a
+    href="" class="social-icon"&gt; &lt;i class="fa fa-youtube"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;        &lt;li&gt;&lt;a
+    href="" class="social-icon"&gt; &lt;i class="fa fa-linkedin"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;        &lt;li&gt;&lt;a
+    href="" class="social-icon"&gt; &lt;i class="fa fa-github"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;    &lt;/ul&gt;&lt;/div&gt;'
   col_3: ''
   col_4: ''
 
