@@ -90,6 +90,6 @@ page_sections:
     de lograr que asimiles el material impartido.</strong></p>
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎ in Canada
+  content: Made with ❤︎ in Nicaragua
 
 ---
