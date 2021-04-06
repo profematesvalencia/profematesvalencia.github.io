@@ -13,7 +13,7 @@ page_sections:
   headline: |-
     <style> .knockout {
 
-      background: url(https://c.files.bbci.co.uk/1814F/production/_105693689_gettyimages-834039852.jpg) -80px -80px;
+      background: url(https://epsilonmag.com/wp-content/uploads/2017/07/El-mito-del-numero-de-oro-y-la-sucesion-de-fibonacci.jpg) -80px -80px;
 
       color: red;
 
