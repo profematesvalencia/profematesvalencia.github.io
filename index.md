@@ -10,9 +10,32 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<style> .block-hero-2 h1 {color: rgb(204,0,0); background-color: rgba(184,
-    184, 184,.8); padding: 100px 50px 100px 50px; border-radius: 40px;} h1 span.light
-    {font-weight: 550;}</style>Instrúyete hoy para que seas parte del día de mañana"
+  headline: |-
+    <style> .knockout {
+
+      background: url(![](http://apod.nasa.gov/apod/image/0603/coma_misti.jpg)) -80px -80px;
+
+      color: red;
+
+      -webkit-text-fill-color: transparent;
+
+      -webkit-background-clip: text;
+
+      font-weight: bold;
+
+      font-size: 100px;
+
+      font-family: arial, helvetica;
+
+      width: 600px;
+
+      margin: 50px auto;
+
+      text-align: center;
+
+    }</style>
+
+    <div class="knockout"><a href="[http://mksht.crisnoble.com](http://mksht.crisnoble.com "http://mksht.crisnoble.com")" rel="Like cool shit? visit my site">mksht</a></div>
   content: ''
   cta:
     enabled: false
