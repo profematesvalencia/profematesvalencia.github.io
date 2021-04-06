@@ -15,77 +15,15 @@ page_sections:
 
     @import url(https://fonts.googleapis.com/css?family=Glegoo);
 
-    html {
+    html {background: #222;color: #fff;font-family: 'Glegoo', serif;}
 
-      background: #222;
+    blockquote {position: relative;margin: 80px auto;width: 400px;font-size: 96px;line-height: 56px;padding-left: 40px;border-left: 2px solid #fff;}
 
-      color: #fff;
+    blockquote span {display: block;text-align: right;font-size: 48px;line-height: 40px;margin-top: 10px;text-transform: uppercase;}
 
-      font-family: 'Glegoo', serif;
+    blockquote.tweet-this:hover p {opacity: 0.5;transition: opacity 0.2s ease;}
 
-    }
-
-    blockquote {
-
-      position: relative;
-
-      margin: 80px auto;
-
-      width: 400px;
-
-      font-size: 96px;
-
-      line-height: 56px;
-
-      padding-left: 40px;
-
-      border-left: 2px solid #fff;
-
-    }
-
-    blockquote span {
-
-      display: block;
-
-      text-align: right;
-
-      font-size: 48px;
-
-      line-height: 40px;
-
-      margin-top: 10px;
-
-      text-transform: uppercase;
-
-    }
-
-    blockquote.tweet-this:hover p {
-
-      opacity: 0.5;
-
-      transition: opacity 0.2s ease;
-
-    }
-
-    blockquote.tweet-this .tweet-quote {
-
-      position: absolute;
-
-      top: 50%;
-
-      left: 50%;
-
-      width: 74px;
-
-      height: 26px;
-
-      margin-top: -13px;
-
-      margin-left: -36px;
-
-      transition: all 0.2s ease;
-
-    }
+    blockquote.tweet-this .tweet-quote {position: absolute;top: 50%; left: 50%;width: 74px;height: 26px;margin-top: -13px;margin-left: -36px;transition: all 0.2s ease;}
 
     </style>
 
