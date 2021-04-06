@@ -10,15 +10,13 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<style>\n\nblockquote { background-image: url(); background-position:
-    10px 10%; background-repeat: no-repeat no-repeat; padding: 150px 0; } \n\np {
-    color: #f2f2f2; background: #ff4a4a; font-size: 75px; line-height: 74px; font-weight:
-    700; margin: 0 5px 24px; float: left; padding: 10px; margin: 0 5px 24px; font-family:
-    'Libre Baskerville', serif; } \n\n.punchline p { background: #f2f2f2; color: #ff4a4a;
-    } \n\na { color: #adadad; font-size: 25px; text-decoration: none; float: right;
-    font-family: 'Libre Baskerville', serif; line-height: 4; }\n\na:hover { color:
-    #ff4a4a; text-decoration: none; }\n\n</style>\n\n<p>Aquel que lo intentó y no
-    lo consiguió es superior al que ni lo intentó</p>"
+  headline: "<style>\n\np { color: #f2f2f2; background: #ff4a4a; font-size: 75px;
+    line-height: 74px; font-weight: 700; margin: 0 5px 24px; float: left; padding:
+    10px; margin: 0 5px 24px; font-family: 'Libre Baskerville', serif; } \n\na { color:
+    #adadad; font-size: 25px; text-decoration: none; float: right; font-family: 'Libre
+    Baskerville', serif; line-height: 4; }\n\na:hover { color: #ff4a4a; text-decoration:
+    none; }\n\n</style>\n\n<p>Aquel que lo intentó y no lo consiguió es superior al
+    que ni lo intentó</p>"
   content: ''
   cta:
     enabled: false
