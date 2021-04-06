@@ -14,10 +14,10 @@ page_sections:
     relative;\n\n font-family: 'Barlow Condensed', sans-serif;\n\n max-width: 620px;\n\n
     margin: 80px auto;\n\n align-self: center;\n\n}\n\n/* Blockquote header */\n\n.blockquote
     h1 {\n\n font-family: 'Abril Fatface', cursive;\n\n position: relative; /* for
-    pseudos */\n\n color: #e74848;\n\n font-size:4rem;\n\n font-weight: 600;\n\n line-height:
-    1;\n\n margin: 0;\n\n border: 2px solid #fff;\n\n border: solid 2px;\n\n border-radius:20px;\n\n
+    pseudos */\n\n color: #e74848;\n\n font-size:4rem;\n\n font-weight: 500;\n\n line-height:
+    1;\n\n margin: 0;\n\n border: 5px solid #fff;\n\n border: solid 2px;\n\n border-radius:20px;\n\n
     padding: 25px;\n\n}\n\n/* Blockquote right double quotes */\n\n.blockquote h1:after
-    {\n\n content:\"\";\n\n position: absolute;\n\n border: 2px solid #e74848;\n\n
+    {\n\n content:\"\";\n\n position: absolute;\n\n border: 5px solid #e74848;\n\n
     border-radius: 0 50px 0 0;\n\n width: 60px;\n\n height: 60px;\n\n bottom: -62px;\n\n
     left: 50px;\n\n border-bottom: none;\n\n border-left: none;\n\n z-index: 3; \n\n}\n\n.blockquote
     h1:before {\n\n content:\"\";\n\n position: absolute;\n\n width: 80px;\n\n border:
@@ -25,7 +25,7 @@ page_sections:
     increase header size after 600px */\n\n@media all and (min-width: 600px) {\n\n
     .blockquote h1 {\n\n font-size: 3.7rem;\n\n line-height: 1.2;\n\n }\n\n}\n\n/*
     Blockquote subheader */\n\n.blockquote h4 {\n\n position: relative;\n\n color:
-    #ffffff;\n\n font-size: 1.3rem;\n\n font-weight: 500;\n\n line-height: 1.2;\n\n
+    #ffffff;\n\n font-size: 1.5rem;\n\n font-weight: 500;\n\n line-height: 1.2;\n\n
     margin: 0;\n\n padding-top: 15px;\n\n z-index: 1;\n\n margin-left:150px;\n\n padding-left:12px;\n\n}\n\n
     \n\n.blockquote h4:first-letter {\n\n margin-left:-12px;\n\n}\n\n</style>\n\n<div
     class=\"blockquote-wrapper\">\n\n<div class=\"blockquote\">\n\n<h1>Aquel que lo
