@@ -13,7 +13,7 @@ page_sections:
   headline: |-
     <style> .knockout {
 
-      background: url(https://w9wypxhswgdacg.instant.forestry.io//uploads/2021/03/10/calculus-board-1.jpeg) -80px -80px;
+      background: url(https://www.edu-casio.es/wp-content/uploads/2018/05/casio-educasio-header-libros-sobre-matematicas-1000x563.png) -80px -80px;
 
       color: red;
 
@@ -44,7 +44,7 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  background_image: "/uploads/2021/04/06/descarga.jpeg"
+  background_image: "/uploads/2021/03/10/calculus-board-1.jpeg"
 - template: content-feature
   block: feature-1
   media_alignment: Left
