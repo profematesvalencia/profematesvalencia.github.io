@@ -36,30 +36,6 @@ page_sections:
     }</style>
 
     <div class="knockout">Instrúyete hoy para que seas parte del día de mañana</div>
-
-      background: url(http://i.pinimg.com/originals/36/2d/87/362d87b00aec0ef94733712db80b9f02.jpg) -80px -80px;
-
-      color: red;
-
-      -webkit-text-fill-color: transparent;
-
-      -webkit-background-clip: text;
-
-      font-weight: bold;
-
-      font-size: 100px;
-
-      font-family: arial, helvetica;
-
-      width: 600px;
-
-      margin: 50px auto;
-
-      text-align: center;
-
-    }</style>
-
-    <div class="knockout"><a href="" rel="Like cool shit? visit my site">Instrúyete hoy para que seas parte del día de mañana</a></div>
   content: ''
   cta:
     enabled: false
