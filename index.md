@@ -14,7 +14,7 @@ page_sections:
     relative;\n\n font-family: 'Barlow Condensed', sans-serif;\n\n max-width: 620px;\n\n
     margin: 80px auto;\n\n align-self: center;\n\n}\n\n/* Blockquote header */\n\n.blockquote
     h1 {\n\n font-family: 'Abril Fatface', cursive;\n\n position: relative; /* for
-    pseudos */\n\n color: #e74848;\n\n font-size: 3.3rem;\n\n font-weight: 600;\n\n
+    pseudos */\n\n color: #e74848;\n\n font-size: 3.6rem;\n\n font-weight: 600;\n\n
     line-height: 1;\n\n margin: 0;\n\n border: 2px solid #fff;\n\n border: solid 2px;\n\n
     border-radius:20px;\n\n padding: 25px;\n\n}\n\n/* Blockquote right double quotes
     */\n\n.blockquote h1:after {\n\n content:\"\";\n\n position: absolute;\n\n border:
