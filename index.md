@@ -30,7 +30,8 @@ page_sections:
     \n\n.blockquote h4:first-letter {\n\n margin-left:-12px;\n\n}\n\n</style>\n\n<div
     class=\"blockquote-wrapper\">\n\n<div class=\"blockquote\">\n\n<h1>Aquel que lo
     intentó y no lo consiguió <span style=\"color:#ffffff\">es superior</span> al
-    que ni lo intentó.</h1>\n\n<h4>—Arquímedes</h4>\n\n </div>\n\n</div>"
+    que ni lo intentó.</h1>\n\n<h4>-Arquímedes<br><em>Astrónomo, físico y matemático
+    griego</em></h4>\n\n </div>\n\n</div>"
   content: ''
   cta:
     enabled: false
