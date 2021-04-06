@@ -10,48 +10,90 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<style>\n\n@font-face {\n\n    font-family: 'Sketch Block';\n\n    src:
-    url('http://tangledindesign.com/codepen/fonts/sketch_block-webfont.eot');\n\n
-    \   src: url('http://tangledindesign.com/codepen/fonts/sketch_block-webfont.eot?#iefix')
-    format('embedded-opentype'),\n\n         url('http://tangledindesign.com/codepen/fonts/sketch_block-webfont.woff')
-    format('woff'),\n\n         url('http://tangledindesign.com/codepen/fonts/sketch_block-webfont.ttf')
-    format('truetype'),\n\n         url('http://tangledindesign.com/codepen/fonts/sketch_block-webfont.svg#SketchBlockBold')
-    format('svg');\n\n}\n\n@font-face {\n\n    font-family: 'Museo 700';\n\n    src:
-    url('http://tangledindesign.com/codepen/fonts/Museo700-Regular-webfont.eot');\n\n
-    \   src: url('http://tangledindesign.com/codepen/fonts/Museo700-Regular-webfont.eot?#iefix')
-    format('embedded-opentype'),\n\n         url('http://tangledindesign.com/codepen/fonts/Museo700-Regular-webfont.woff')
-    format('woff'),\n\n         url('http://tangledindesign.com/codepen/fonts/Museo700-Regular-webfont.ttf')
-    format('truetype'),\n\n         url('http://tangledindesign.com/codepen/fonts/Museo700-Regular-webfont.svg#SketchBlockBold')
-    format('svg');\n\n}\n\n@font-face {\n\n    font-family: 'CallunaRegular';\n\n
-    \   src: url('http://tangledindesign.com/codepen/fonts/Calluna-Regular-webfont.eot');\n\n
-    \   src: url('http://tangledindesign.com/codepen/fonts/Calluna-Regular-webfont.eot?#iefix')
-    format('embedded-opentype'),\n\n         url('http://tangledindesign.com/codepen/fonts/Calluna-Regular-webfont.woff')
-    format('woff'),\n\n         url('http://tangledindesign.com/codepen/fonts/Calluna-Regular-webfont.ttf')
-    format('truetype'),\n\n         url('http://tangledindesign.com/codepen/fonts/Calluna-Regular-webfont.svg#CallunaRegular')
-    format('svg');\n\n}\n\nbody {\n\n\tbackground: #333;\n\n\tcolor: #fff;\n\n}\n\n\t.container
-    {\n\n\t\twidth: 590px;\n\n\t\tmargin: 140px auto;\n\n\t\tposition: relative;\n\n\t}\n\n\tblockquote
-    {\n\n\t\twidth: 565px;\n\n\t\tfont: 2.65em CallunaRegular;\n\n\t\tletter-spacing:
-    .075em;\n\n\t\tfloat: left;\n\n\t\tpadding: 45px 0 30px 25px;\n\n\t\tmargin: 0;\n\n\t\tborder-top:
-    2px dotted #858585;\n\n\t\tborder-bottom: 2px dotted #858585;\n\n\t\t-webkit-transform:
-    rotate(-3deg);\n\n\t\t-moz-transform: rotate(-3deg);\n\n\t}\n\n\t.container:before
-    {\n\n\t\tcontent: \"“\";\n\n\t\tfont-size: 1.625em;\n\n\t\tposition: absolute;\n\n\t\tleft:
-    -100px;\n\n\t\tcolor: #666;\n\n\t}\n\n\t.container:after {\n\n\t\tcontent: \"”\";\n\n\t\tfont-size:
-    1.625em;\n\n\t\tposition: absolute;\n\n\t\tright: -100px;\n\n\t\ttop: 150px;\n\n\t\tcolor:
-    #666;\n\n\t}\n\n\t\tblockquote:first-line {\n\n\t\t\tfont: 1.85em \"Sketch Block\";\n\n\t\t\tcolor:
-    #fff79e;\n\n\t\t}\n\n\t\tblockquote:first-letter {\n\n\t\t\tfont-size: 0.3625em;\n\n\t\t\ttext-transform:
-    lowercase;\n\n\t\t\tfloat: left;\n\n\t\t\tline-height: .065em;\n\n\t\t\tmargin-right:
-    -18px;\n\n\t\t\tposition: relative;\n\n\t\t\tz-index: 1;\n\n\t\t}\n\n\t\tblockquote
-    strong:first-child {\n\n\t\t\tmargin-left: 8px;\n\n\t\t\tletter-spacing: 0;\n\n\t\t}\n\n\t\tblockquote
-    strong:last-child {\n\n\t\t\tfont: 2em \"Museo 700\";\n\n\t\t\ttext-transform:
-    uppercase;\n\n\t\t\tletter-spacing: 0;\n\n\t\t}\n\n\t\tblockquote em {\n\n\t\t\tborder-bottom:
-    2px dotted #858585;\n\n\t\t}\n\n\t\tblockquote + b {\n\n\t\t\tfloat: right;\n\n\t\t\tmargin-top:
-    10px;\n\n\t\t\tfont: 1.6em CallunaRegular;\n\n\t\t\tletter-spacing: .15em;\n\n\t\t}\n\n\t\tblockquote
-    + b:first-letter {\n\n\t\t\tcolor: #fff79e;\n\n\t\t\tfont-size: 0.3625em;\n\n\t\t\tfont-style:
-    italic;\n\n\t\t\tletter-spacing: .03125em;\n\n\t\t}\n\n\t\t@-moz-document url-prefix()
-    { \n\n\t\t\tblockquote:first-letter {\n\n\t\t\t\tmargin-top: -29px;\n\n\t\t\t}\n\n\t\t}\n\n</style>\n\n<article
-    class=\"container\">\n\n\t\t<blockquote>\n\n\t\t\t<strong>Imagination</strong>
-    is <em>more important</em> than <strong>knowledge</strong>\n\n\t\t</blockquote>\n\n\t\t<b>Einstein,
-    A.</b>\n\n\t</article>"
+  headline: |-
+    <style>
+
+    @import url(https://fonts.googleapis.com/css?family=Glegoo);
+
+    html {
+
+      background: #222;
+
+      color: #fff;
+
+      font-family: 'Glegoo', serif;
+
+    }
+
+    blockquote {
+
+      position: relative;
+
+      margin: 80px auto;
+
+      width: 400px;
+
+      font-size: 48px;
+
+      line-height: 56px;
+
+      padding-left: 40px;
+
+      border-left: 2px solid #fff;
+
+    }
+
+    blockquote span {
+
+      display: block;
+
+      text-align: right;
+
+      font-size: 24px;
+
+      line-height: 40px;
+
+      margin-top: 10px;
+
+      text-transform: uppercase;
+
+    }
+
+    blockquote.tweet-this:hover p {
+
+      opacity: 0.5;
+
+      transition: opacity 0.2s ease;
+
+    }
+
+    blockquote.tweet-this .tweet-quote {
+
+      position: absolute;
+
+      top: 50%;
+
+      left: 50%;
+
+      width: 74px;
+
+      height: 26px;
+
+      margin-top: -13px;
+
+      margin-left: -36px;
+
+      transition: all 0.2s ease;
+
+    }
+
+    </style>
+
+    <blockquote class="tweet-this"><p>It's not that I'm so smart, it's just that I stay with problems longer.
+
+      <span>- Albert Einstein</span></p>
+
+    </blockquote>
   content: ''
   cta:
     enabled: false
