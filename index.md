@@ -34,11 +34,11 @@ page_sections:
     .075em;\n\n\t\tfloat: left;\n\n\t\tpadding: 45px 0 30px 25px;\n\n\t\tmargin: 0;\n\n\t\tborder-top:
     2px dotted #858585;\n\n\t\tborder-bottom: 2px dotted #858585;\n\n\t\t-webkit-transform:
     rotate(-3deg);\n\n\t\t-moz-transform: rotate(-3deg);\n\n\t}\n\n\t.container:before
-    {\n\n\t\tcontent: \"“\";\n\n\t\tfont-size: 4.3em;\n\n\t\tposition: absolute;\n\n\t\tleft:
+    {\n\n\t\tcontent: \"“\";\n\n\t\tfont-size: 1.625em;\n\n\t\tposition: absolute;\n\n\t\tleft:
     -100px;\n\n\t\tcolor: #666;\n\n\t}\n\n\t.container:after {\n\n\t\tcontent: \"”\";\n\n\t\tfont-size:
-    4.3em;\n\n\t\tposition: absolute;\n\n\t\tright: -100px;\n\n\t\ttop: 150px;\n\n\t\tcolor:
+    1.625em;\n\n\t\tposition: absolute;\n\n\t\tright: -100px;\n\n\t\ttop: 150px;\n\n\t\tcolor:
     #666;\n\n\t}\n\n\t\tblockquote:first-line {\n\n\t\t\tfont: 1.85em \"Sketch Block\";\n\n\t\t\tcolor:
-    #fff79e;\n\n\t\t}\n\n\t\tblockquote:first-letter {\n\n\t\t\tfont-size: 0.9em;\n\n\t\t\ttext-transform:
+    #fff79e;\n\n\t\t}\n\n\t\tblockquote:first-letter {\n\n\t\t\tfont-size: 0.3625em;\n\n\t\t\ttext-transform:
     lowercase;\n\n\t\t\tfloat: left;\n\n\t\t\tline-height: .52em;\n\n\t\t\tmargin-right:
     -18px;\n\n\t\t\tposition: relative;\n\n\t\t\tz-index: 1;\n\n\t\t}\n\n\t\tblockquote
     strong:first-child {\n\n\t\t\tmargin-left: 8px;\n\n\t\t\tletter-spacing: 0;\n\n\t\t}\n\n\t\tblockquote
@@ -46,7 +46,7 @@ page_sections:
     uppercase;\n\n\t\t\tletter-spacing: 0;\n\n\t\t}\n\n\t\tblockquote em {\n\n\t\t\tborder-bottom:
     2px dotted #858585;\n\n\t\t}\n\n\t\tblockquote + b {\n\n\t\t\tfloat: right;\n\n\t\t\tmargin-top:
     10px;\n\n\t\t\tfont: 1.6em CallunaRegular;\n\n\t\t\tletter-spacing: .15em;\n\n\t\t}\n\n\t\tblockquote
-    + b:first-letter {\n\n\t\t\tcolor: #fff79e;\n\n\t\t\tfont-size: 0.45em;\n\n\t\t\tfont-style:
+    + b:first-letter {\n\n\t\t\tcolor: #fff79e;\n\n\t\t\tfont-size: 0.3625em;\n\n\t\t\tfont-style:
     italic;\n\n\t\t\tletter-spacing: .25em;\n\n\t\t}\n\n\t\t@-moz-document url-prefix()
     { \n\n\t\t\tblockquote:first-letter {\n\n\t\t\t\tmargin-top: -29px;\n\n\t\t\t}\n\n\t\t}\n\n</style>\n\n<article
     class=\"container\">\n\n\t\t<blockquote>\n\n\t\t\t<strong>Imagination</strong>
