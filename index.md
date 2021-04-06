@@ -11,13 +11,13 @@ page_sections:
   block: hero-2
   slug: features
   headline: |-
-    <style>h1 { color: #fff; font-family: 'Righteous', cursive; font-size: 65px; font-weight: normal; line-height: 60px; margin: 10px 0 20px; text-transform: uppercase; text-shadow: 2px 2px 0 #000, margin: 10px 0 24px; text-align: center; }
-    h2 { font-size: 30px; letter-spacing: -1px; color: #DFBF84; text-transform: uppercase; text-shadow: 1px 1px 0 #000, margin: 10px 0 24px; text-align: center; line-height: 50px; }
-    p { color: #f6f6f6; font-family: 'Orienta', sans-serif; font-size: 16px; line-height: 24px; margin: 0 0 24px; text-align: center; }
-    a { color: #e8d4a7; text-decoration: none; text-align: right; padding: 15px; font-size: 20px; }
-    a:hover { color: #da9650; text-decoration: blink; }</style>
+    <style> h1 {  font-family:Georgia,serif;  color:#666666;  font-size:30px;  line-height:1em;  margin:0 0 0 60px;  }  h1 strong{  color:#A80C1E;  display:block;  font-size:85px;  font-weight:normal;  letter-spacing:-3.5px;  line-height:1em;  }</style>
 
-    <h2> Un mayorista.</h2>
+    <div id="container">
+
+     <h1><strong>We believe</strong>that the internet should be public, open and accessible.</h1>
+
+     </div>
   content: ''
   cta:
     enabled: false
