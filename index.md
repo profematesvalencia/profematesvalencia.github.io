@@ -19,7 +19,7 @@ page_sections:
     50%, ellipse closest-side, #444, black);\n\n  z-index: -1;\n\n}\n\nh1 a {\n\n
     \ background: black;\n\n  display: block;\n\n  padding: 20px;\n\n  text-decoration:
     none;\n\n  letter-spacing: 30px;\n\n  color: white;\n\n}\n\n</style>\n\n<h1><a
-    href=\"#0\">CSS-Tricks</a></h1>"
+    href=\"#0\">Aquel que lo intentó y no lo consiguió es superior al que ni lo intentó.</a></h1>CC0000"
   content: ''
   cta:
     enabled: false
