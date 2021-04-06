@@ -10,16 +10,35 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<style>\n\nh1 { \n\n  text-align: center;\n\n  color: white;\n\n  text-transform:
-    uppercase;\n\n  padding: 1px;\n\n  font-family: 'Raleway', cursive;\n\n  font-weight:
-    100;\n\n  position: relative;\n\n  background: linear-gradient(to right, black,
-    #eee, black);\n\n}\n\nh1::before {\n\n  content: \"\";\n\n  position: absolute;\n\n
-    \ left: 50%;\n\n  top: -50px;\n\n  width: 600px;\n\n  margin-left: -300px;\n\n
-    \ margin-top: -220px;\n\n  height: 600px;\n\n  background: radial-gradient(50%
-    50%, ellipse closest-side, #444, black);\n\n  z-index: -1;\n\n}\n\nh1 a {\n\n
-    \ background: black;\n\n  display: block;\n\n  padding: 20px;\n\n  text-decoration:
-    none;\n\n  letter-spacing: 30px;\n\n  color: white;\n\n}\n\n</style>\n\n<h1><a
-    href=\"#0\">Iinstrúyete hoy para que seas parte del día de mañana.</a></h1>CC0000"
+  headline: "<style>\n\n\\*\n\n  margin: 0\n\n  box-sizing: border-box\n\n  \n\nhtml,\n\nbody\n\n
+    \ height: 100%\n\nbody\n\n  background-color: black\n\n  \n\n  display: flex\n\n
+    \ flex-direction: row\n\n  justify-content: center\n\n  align-items: center\n\n
+    \ padding: 1rem\n\nblockquote\n\n  display: block\n\n  margin: 0 auto\n\n  text-align:
+    center\n\n  max-width: 900px\n\n  \n\np,\n\ncite\n\n  text-rendering: optimizeLegibility;\n\n
+    \ -webkit-font-smoothing: antialiased;\n\n  -moz-osx-font-smoothing: grayscale;\n\n
+    \ \n\np\n\n  font-family: Georgia\n\n  color: white\n\n  font-size: 2.7rem\n\n
+    \ font-style: italic\n\n  font-weight: 300  \n\n  padding-bottom: 2rem\n\n \n\nspan\n\n
+    \ will-change: opacity\n\n  opacity: 0\n\n  &.animate\n\n    opacity: 1\n\n    -webkit-filter:
+    blur(0) !important\n\n   \n\ncite\n\n  font-family: verdana\n\n  font-size: .9rem\n\n
+    \ color: #aaa\n\n  opacity: 0\n\n  \n\n  font-style: normal\n\n  font-weight:
+    500\n\n  \n\n  &.animate\n\n    opacity: 1\n\n</style>\n\n<blockquote>\n\n <p>\n\n
+    \ <span data-duration=\"1.1\" data-delay=\".23\" data-blur=\"6\">“Two&nbsp;</span>\n\n
+    \ <span data-duration=\"1.4\" data-delay=\".43\" data-blur=\"3\">things&nbsp;</span>\n\n
+    \ <span data-duration=\"1.8\" data-delay=\".42\" data-blur=\"5\">are&nbsp;</span>\n\n
+    \ <span data-duration=\"1.2\" data-delay=\".25\" data-blur=\"9\">infinite:&nbsp;</span>\n\n
+    \ <span data-duration=\"1.7\" data-delay=\".30\" data-blur=\"4\">the&nbsp;</span>\n\n
+    \ <span data-duration=\"1.2\" data-delay=\".29\" data-blur=\"3\">universe&nbsp;</span>\n\n
+    \ <span data-duration=\"1.4\" data-delay=\".26\" data-blur=\"5\">and&nbsp;</span>\n\n
+    \ <span data-duration=\"1.7\" data-delay=\".19\" data-blur=\"9\">human&nbsp;</span>\n\n
+    \ <span data-duration=\"1.2\" data-delay=\".11\" data-blur=\"5\">stupidity;&nbsp;</span>\n\n
+    \ <span data-duration=\"1.9\" data-delay=\".19\" data-blur=\"2\" >and&nbsp;</span>\n\n
+    \ <span data-duration=\"1.2\" data-delay=\".36\" data-blur=\"9\" >I'm&nbsp;</span>\n\n
+    \ <span data-duration=\"1.8\" data-delay=\".17\" data-blur=\"3\" >not&nbsp;</span>\n\n
+    \ <span data-duration=\"1.2\" data-delay=\".30\" data-blur=\"10\" >sure&nbsp;</span>\n\n
+    \ <span data-duration=\"1.5\" data-delay=\".50\" data-blur=\"4\" >about&nbsp;</span>\n\n
+    \ <span data-duration=\"1.8\" data-delay=\".19\" data-blur=\"2\" >the&nbsp;</span>\n\n
+    \ <span data-duration=\"1.3\" data-delay=\".18\" data-blur=\"4\" >universe.”&nbsp;</span>\n\n
+    </p>\n\n <cite>Albert Einstein</cite>\n\n</blockquote>"
   content: ''
   cta:
     enabled: false
