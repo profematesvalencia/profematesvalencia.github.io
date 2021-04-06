@@ -23,7 +23,7 @@ page_sections:
 
       font-weight: bold;
 
-      font-size: 100px;
+      font-size: 60px;
 
       font-family: arial, helvetica;
 
