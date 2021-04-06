@@ -13,7 +13,7 @@ page_sections:
   headline: |-
     <style> .knockout {
 
-      background: url(https://www.edu-casio.es/wp-content/uploads/2018/05/casio-educasio-header-libros-sobre-matematicas-1000x563.png) -80px -80px;
+      background: url(https://c.files.bbci.co.uk/1814F/production/_105693689_gettyimages-834039852.jpg) -80px -80px;
 
       color: red;
 
