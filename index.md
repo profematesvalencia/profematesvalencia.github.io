@@ -17,8 +17,8 @@ page_sections:
     'Libre Baskerville', serif; } \n\n.punchline p { background: #f2f2f2; color: #ff4a4a;
     } \n\na { color: #adadad; font-size: 25px; text-decoration: none; float: right;
     font-family: 'Libre Baskerville', serif; line-height: 4; }\n\na:hover { color:
-    #ff4a4a; text-decoration: none; }\n\n</style>\n\nAquel que lo intentó y no lo
-    consiguió es superior al que ni lo intentó"
+    #ff4a4a; text-decoration: none; }\n\n</style>\n\n<div class=\"punchline\"><p>Aquel
+    que lo intentó y no lo consiguió es superior al que ni lo intentó</p></div>"
   content: ''
   cta:
     enabled: false
