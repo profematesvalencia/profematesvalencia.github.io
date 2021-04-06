@@ -10,28 +10,46 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<style>\n\n/* Blockquote main style */\n\n.blockquote {\n\n position:
-    relative;\n\n font-family: 'Barlow Condensed', sans-serif;\n\n max-width: 620px;\n\n
-    margin: 80px auto;\n\n align-self: center;\n\n}\n\n/* Blockquote header */\n\n.blockquote
-    h1 {\n\n font-family: 'Abril Fatface', cursive;\n\n position: relative; /* for
-    pseudos */\n\n color: #e74848;\n\n font-size:4rem;\n\n font-weight: 600;\n\n line-height:
-    1;\n\n margin: 0;\n\n border: 3px solid #fff;\n\n border: solid 3px;\n\n border-radius:20px;\n\n
-    padding: 25px;\n\n}\n\n/* Blockquote right double quotes */\n\n.blockquote h1:after
-    {\n\n content:\"\";\n\n position: absolute;\n\n border: 3px solid #e74848;\n\n
-    border-radius: 0 50px 0 0;\n\n width: 60px;\n\n height: 60px;\n\n bottom: -62px;\n\n
-    left: 50px;\n\n border-bottom: none;\n\n border-left: none;\n\n z-index: 3; \n\n}\n\n.blockquote
-    h1:before {\n\n content:\"\";\n\n position: absolute;\n\n width: 80px;\n\n border:
-    3px solid #292a2b;\n\n bottom: -3px;\n\n left: 50px;\n\n z-index: 2;\n\n}\n\n/*
-    increase header size after 600px */\n\n@media all and (min-width: 600px) {\n\n
-    .blockquote h1 {\n\n font-size: 3.7rem;\n\n line-height: 1.2;\n\n }\n\n}\n\n/*
-    Blockquote subheader */\n\n.blockquote h4 {\n\n position: relative;\n\n color:
-    #ffffff;\n\n font-size: 1.5rem;\n\n font-weight: 500;\n\n line-height: 1.2;\n\n
-    margin: 0;\n\n padding-top: 15px;\n\n z-index: 1;\n\n margin-left:150px;\n\n padding-left:12px;\n\n}\n\n
-    \n\n.blockquote h4:first-letter {\n\n margin-left:-12px;\n\n}\n\n</style>\n\n<div
-    class=\"blockquote-wrapper\">\n\n<div class=\"blockquote\">\n\n<h1>Aquel que lo
-    intentó y no lo consiguió <span style=\"color:#ffffff\">es superior</span> al
-    que ni lo intentó.</h1>\n\n<h4>-Arquímedes<br><em>Astrónomo, físico y matemático
-    griego</em></h4>\n\n </div>\n\n</div>"
+  headline: |-
+    <style>
+
+    /* Blockquote main style */
+
+    .blockquote { position: relative; font-family: 'Barlow Condensed', sans-serif; max-width: 620px; margin: 80px auto; align-self: center;}
+
+    /* Blockquote header */
+
+    .blockquote h1 { font-family: 'Abril Fatface', cursive; position: relative; /* for pseudos */ color: #e74848; font-size:4rem; font-weight: 600; line-height: 1; margin: 0; border: 3px solid #fff; border: solid 3px; border-radius:20px; padding: 25px;}
+
+    /* Blockquote right double quotes */
+
+    .blockquote h1:after { content:""; position: absolute; border: 3px solid #e74848; border-radius: 0 50px 0 0; width: 60px; height: 60px; bottom: -62px; left: 50px; border-bottom: none; border-left: none; z-index: 3; }
+
+    .blockquote h1:before { content:""; position: absolute; width: 80px; border: 3px solid #292a2b; bottom: -3px; left: 50px; z-index: 2;}
+
+    /* increase header size after 600px */
+
+    @media all and (min-width: 600px) { .blockquote h1 { font-size: 3.7rem; line-height: 1.2; }}
+
+    /* Blockquote subheader */
+
+    .blockquote h4 { position: relative; color: #ffffff; font-size: 1.5rem; font-weight: 500; line-height: 1.2; margin: 0; padding-top: 15px; z-index: 1; margin-left:150px; padding-left:12px;}
+
+    .blockquote h4:first-letter {margin-left:-12px;}
+
+    </style>
+
+    <div class="blockquote-wrapper">
+
+    <div class="blockquote">
+
+    <h1>Aquel que lo intentó y no lo consiguió <span style="color:#ffffff">es superior</span> al que ni lo intentó.</h1>
+
+    <h4>- Arquímedes.<br><em>Astrónomo, físico y matemático griego</em></h4>
+
+     </div>
+
+    </div>
   content: ''
   cta:
     enabled: false
