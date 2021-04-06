@@ -13,7 +13,7 @@ page_sections:
   headline: |-
     <style> .knockout {
 
-      background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq-lmSDHq6GfUJGmbC9n8EC9MPHSDoWUSqbg&usqp=CAU) -80px -80px;
+      background: url(https://investopedia.com/thmb/F7gbhJDe-Y4nedJtYjl5ZRtnUU4=/1920x1080/filters:fill(auto,1)/fibonacci-3594147-b8ea7104874040fbbe495d0a3435171e.png) -80px -80px;
 
       color: red;
 
