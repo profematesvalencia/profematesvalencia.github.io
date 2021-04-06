@@ -13,7 +13,7 @@ page_sections:
   headline: |-
     <style> .knockout {
 
-      background: url(https://lh3.googleusercontent.com/proxy/YIdglPgRV8Vh8K7unU09CSaVGvzYiO6rslyZx-Ee-XvQF8pdk7nJuHEIZlFbXxrT1AfVtxVCJtcBDOinT4gD-gQocHw0ofHcNc5V5EKepOyibMmvjsFjqo6Vl6PNUBaD0g) -80px -80px;
+      background: url(https://i0.wp.com/blog.education.nationalgeographic.org/wp-content/uploads/2018/04/arithmatic.jpg?ssl=1) -80px -80px;
 
       color: red;
 
