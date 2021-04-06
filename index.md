@@ -15,7 +15,7 @@ page_sections:
 
     <div id="container">
 
-     <h1><strong>We believe</strong>that the internet should be public, open and accessible.</h1>
+     <h1><strong>We believethat the internet should be public, open and accessible.</strong></h1>
 
      </div>
   content: ''
