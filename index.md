@@ -14,7 +14,7 @@ page_sections:
     relative;\n\n font-family: 'Barlow Condensed', sans-serif;\n\n max-width: 620px;\n\n
     margin: 80px auto;\n\n align-self: center;\n\n}\n\n/* Blockquote header */\n\n.blockquote
     h1 {\n\n font-family: 'Abril Fatface', cursive;\n\n position: relative; /* for
-    pseudos */\n\n color: #e74848;\n\n font-size: 4rem;\n\n font-weight: normal;\n\n
+    pseudos */\n\n color: #e74848;\n\n font-size: 3rem;\n\n font-weight: normal;\n\n
     line-height: 1;\n\n margin: 0;\n\n border: 2px solid #fff;\n\n border: solid 2px;\n\n
     border-radius:20px;\n\n padding: 25px;\n\n}\n\n/* Blockquote right double quotes
     */\n\n.blockquote h1:after {\n\n content:\"\";\n\n position: absolute;\n\n border:
@@ -23,7 +23,7 @@ page_sections:
     none;\n\n z-index: 3; \n\n}\n\n.blockquote h1:before {\n\n content:\"\";\n\n position:
     absolute;\n\n width: 80px;\n\n border: 6px solid #292a2b;\n\n bottom: -3px;\n\n
     left: 50px;\n\n z-index: 2;\n\n}\n\n/* increase header size after 600px */\n\n@media
-    all and (min-width: 600px) {\n\n .blockquote h1 {\n\n font-size: 3rem;\n\n line-height:
+    all and (min-width: 600px) {\n\n .blockquote h1 {\n\n font-size: 4rem;\n\n line-height:
     1.2;\n\n }\n\n}\n\n/* Blockquote subheader */\n\n.blockquote h4 {\n\n position:
     relative;\n\n color: #ffffff;\n\n font-size: 1.3rem;\n\n font-weight: 400;\n\n
     line-height: 1.2;\n\n margin: 0;\n\n padding-top: 15px;\n\n z-index: 1;\n\n margin-left:150px;\n\n
