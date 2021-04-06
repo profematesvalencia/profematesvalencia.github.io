@@ -35,9 +35,7 @@ page_sections:
 
     }</style>
 
-    [https://ibb.co/FWtH10Q](https://ibb.co/FWtH10Q "https://ibb.co/FWtH10Q")
-
-    <div class="knockout"><a href="[http://mksht.crisnoble.com](http://mksht.crisnoble.com "http://mksht.crisnoble.com")" rel="Like cool shit? visit my site">Instrúyete hoy para que seas parte del día de mañana</a></div>
+    <div class="knockout"><a href="" rel="Like cool shit? visit my site">Instrúyete hoy para que seas parte del día de mañana</a></div>
   content: ''
   cta:
     enabled: false
