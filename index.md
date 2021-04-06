@@ -10,27 +10,25 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<style>\n\n/* center the blockquote in the page */\n.blockquote-wrapper
-    {\n   display: flex;\n   height: 100vh;\n   padding: 0 20px;\n}\n\n/* Blockquote
-    main style */\n.blockquote {\n    position: relative;\n    font-family: 'Barlow
-    Condensed', sans-serif;\n    max-width: 620px;\n    margin: 80px auto;\n    align-self:
-    center;\n}\n\n/* Blockquote header */\n.blockquote h1 {\n    font-family: 'Abril
-    Fatface', cursive;\n    position: relative; /* for pseudos */\n    color: #e74848;\n
-    \   font-size: 2.8rem;\n    font-weight: normal;\n    line-height: 1;\n    margin:
-    0;\n    border: 2px solid #fff;\n    border: solid 2px;\n    border-radius:20px;\n
-    \   padding: 25px;\n}\n\n/* Blockquote right double quotes */\n.blockquote h1:after
-    {\n    content:\"\";\n    position: absolute;\n    border: 2px solid #e74848;\n
-    \   border-radius: 0 50px 0 0;\n    width: 60px;\n    height: 60px;\n    bottom:
-    -62px;\n    left: 50px;\n    border-bottom: none;\n    border-left: none;\n    z-index:
-    3; \n}\n\n.blockquote h1:before {\n    content:\"\";\n    position: absolute;\n
-    \   width: 80px;\n    border: 6px solid #292a2b;\n    bottom: -3px;\n    left:
-    50px;\n    z-index: 2;\n}\n\n/* increase header size after 600px */\n@media all
-    and (min-width: 600px) {\n    .blockquote h1 {\n        font-size: 3rem;\n        line-height:
-    1.2;\n   }\n\n}\n\n/* Blockquote subheader */\n.blockquote h4 {\n    position:
-    relative;\n    color: #ffffff;\n    font-size: 1.3rem;\n    font-weight: 400;\n
-    \   line-height: 1.2;\n    margin: 0;\n    padding-top: 15px;\n    z-index: 1;\n
-    \   margin-left:150px;\n    padding-left:12px;\n}\n\n \n.blockquote h4:first-letter
-    {\n  margin-left:-12px;\n}\n\n</style>\n\n<div class=\"blockquote-wrapper\">\n
+  headline: "<style>  \n\n /* Blockquote main style */ \n\n.blockquote {    position:
+    rela_ive;\n    font-family: 'Barlow Condensed', sans-serif;\n    max-width: 620px;\n
+    \   margin: 80px auto;\n    align-self: center;\n}\n\n/* Blockquote header */\n.blockquote
+    h1 {\n    font-family: 'Abril Fatface', cursive;\n    position: relative; /* for
+    pseudos */\n    color: #e74848_;\n_   font-size: 2.8rem;\n    font-weight: normal;\n
+    \   line-height: 1;\n    margin: 0;\n    border: 2px solid #fff;\n    border:
+    solid 2px;\n    border-radius:20px;\n    padding: 25px;\n}\n\n/* Blockquote right
+    double quotes */\n.blockquote h1:after {\n    content:\"\";\n    position: absolute;\n
+    \   border: 2px solid #e74848;\n    border-radius: 0 50px 0 0;\n    width: 60px;\n
+    \   height: 60px;\n    bottom: -62px;\n    left: 50px;\n    border-bottom: none;\n
+    \   border-left: none;\n    z-index: 3; \n}\n\n.blockquote h1:before {\n    content:\"\";\n
+    \   position: absolute;\n    width: 80px;\n    border: 6px solid #292a2b;\n    bottom:
+    -3px;\n    left: 50px;\n    z-index: 2;\n}\n\n/* increase header size after 600px
+    */\n@media all and (min-width: 600px) {\n    .blockquote h1 {\n        font-size:
+    3rem;\n        line-height: 1.2;\n   }\n\n}\n\n/* Blockquote subheader */\n.blockquote
+    h4 {\n    position: relative;\n    color: #ffffff;\n    font-size: 1.3rem;\n    font-weight:
+    400;\n    line-height: 1.2;\n    margin: 0;\n    padding-top: 15px;\n    z-index:
+    1;\n    margin-left:150px;\n    padding-left:12px;\n}\n\n \n.blockquote h4:first-letter
+    {\n  margin-left:-12px_;\n}\n\n</style>\n\n<div class=\"blockquote-wrapper\">\n
     \ <div class=\"blockquote\">\n    <h1>\n     Intuitive design happens when <span
     style=\"color:#ffffff\">current knowledge</span> is the same as the <span style=\"color:#ffffff\">target
     knowledge.</span>\n     </h1>\n    <h4>&mdash;Jared Spool<br><em>Web Site Usability:
