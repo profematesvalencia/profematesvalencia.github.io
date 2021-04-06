@@ -35,7 +35,7 @@ page_sections:
 
     }</style>
 
-    <div class="knockout">Instrúyete hoy para que seas parte del día de mañana</a></div>
+    <div class="knockout">Instrúyete hoy para que seas parte del día de mañana</div>
 
       background: url(http://i.pinimg.com/originals/36/2d/87/362d87b00aec0ef94733712db80b9f02.jpg) -80px -80px;
 
