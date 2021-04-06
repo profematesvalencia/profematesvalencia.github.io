@@ -13,7 +13,7 @@ page_sections:
   headline: |-
     <style> .knockout {
 
-      background: url(![](http://apod.nasa.gov/apod/image/0603/coma_misti.jpg)) -80px -80px;
+      background: url(![](https://ih1.redbubble.net/image.454514378.1480/flat,750x1000,075,f.u2.jpg)) -80px -80px;
 
       color: red;
 
