@@ -10,22 +10,31 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<style>\n\n@import url('[https://fonts.googleapis.com/css?family=Montserrat](https://fonts.googleapis.com/css?family=Montserrat
-    \"https://fonts.googleapis.com/css?family=Montserrat\")');\n\nbody {\n\n\tbackground-color:
-    #111;\n\n}\n\n.title {\n\n\tfont-family: \"Montserrat\";\n\n\ttext-align: center;\n\n\tcolor:
-    #FFF;\n\n\tdisplay: flex;\n\n\tflex-direction: column;\n\n\talign-items: center;\n\n\tjustify-content:
-    center;\n\n\theight: 100vh;\n\n\tletter-spacing: 1px;\n\n}\n\nh1 {\n\n\tbackground-image:
-    url([https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif](https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif
-    \"https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif\"));\n\n\tbackground-size:
-    cover;\n\n\tcolor: transparent;\n\n\t-moz-background-clip: text;\n\n\t-webkit-background-clip:
-    text;\n\n\ttext-transform: uppercase;\n\n\tfont-size: 120px;\n\n\tline-height:
-    .75;\n\n\tmargin: 10px 0;\n\n}\n\n/* styling my button */\n\n.white-mode {\n\n\ttext-decoration:
-    none;\n\n\tpadding: 7px 10px;\n\n\tbackground-color: #122;\n\n\tborder-radius:
-    3px;\n\n\tcolor: #FFF;\n\n\ttransition: .35s ease-in-out;\n\n\tposition: absolute;\n\n\tleft:
-    15px;\n\n\tbottom: 15px;\n\n\tfont-family: \"Montserrat\";\n\n}\n\n.white-mode:hover
-    {\n\n\tbackground-color: #FFF;\n\n\tcolor: #122;\n\n}\n\n</style>\n\n<div class=\"title\">\n\n
-    <h1>thanks<br/>codePen</h1>\n\n <a target=\"_blank\" href=\"[http://codepen.io/Moslim/](http://codepen.io/Moslim/
-    \"http://codepen.io/Moslim/\")\" class=\"white-mode\">OTHER PENS</a>\n\n</div>"
+  headline: "<style>\n\nbody { \n  background-color: #292a2b;\n }\n\n/* center the
+    blockquote in the page */\n.blockquote-wrapper {\n   display: flex;\n   height:
+    100vh;\n   padding: 0 20px;\n}\n\n/* Blockquote main style */\n.blockquote {\n
+    \   position: relative;\n    font-family: 'Barlow Condensed', sans-serif;\n    max-width:
+    620px;\n    margin: 80px auto;\n    align-self: center;\n}\n\n/* Blockquote header
+    */\n.blockquote h1 {\n    font-family: 'Abril Fatface', cursive;\n    position:
+    relative; /* for pseudos */\n    color: #e74848;\n    font-size: 2.8rem;\n    font-weight:
+    normal;\n    line-height: 1;\n    margin: 0;\n    border: 2px solid #fff;\n    border:
+    solid 2px;\n    border-radius:20px;\n    padding: 25px;\n}\n\n/* Blockquote right
+    double quotes */\n.blockquote h1:after {\n    content:\"\";\n    position: absolute;\n
+    \   border: 2px solid #e74848;\n    border-radius: 0 50px 0 0;\n    width: 60px;\n
+    \   height: 60px;\n    bottom: -62px;\n    left: 50px;\n    border-bottom: none;\n
+    \   border-left: none;\n    z-index: 3; \n}\n\n.blockquote h1:before {\n    content:\"\";\n
+    \   position: absolute;\n    width: 80px;\n    border: 6px solid #292a2b;\n    bottom:
+    -3px;\n    left: 50px;\n    z-index: 2;\n}\n\n/* increase header size after 600px
+    */\n@media all and (min-width: 600px) {\n    .blockquote h1 {\n        font-size:
+    3rem;\n        line-height: 1.2;\n   }\n\n}\n\n/* Blockquote subheader */\n.blockquote
+    h4 {\n    position: relative;\n    color: #ffffff;\n    font-size: 1.3rem;\n    font-weight:
+    400;\n    line-height: 1.2;\n    margin: 0;\n    padding-top: 15px;\n    z-index:
+    1;\n    margin-left:150px;\n    padding-left:12px;\n}\n\n \n.blockquote h4:first-letter
+    {\n  margin-left:-12px;\n}\n\n</style>\n\n<div class=\"blockquote-wrapper\">\n
+    \ <div class=\"blockquote\">\n    <h1>\n     Intuitive design happens when <span
+    style=\"color:#ffffff\">current knowledge</span> is the same as the <span style=\"color:#ffffff\">target
+    knowledge.</span>\n     </h1>\n    <h4>&mdash;Jared Spool<br><em>Web Site Usability:
+    A Designer's Guide</em></h4>\n  </div>\n</div>"
   content: ''
   cta:
     enabled: false
