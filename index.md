@@ -53,7 +53,7 @@ page_sections:
     {\n\n        content: \"“\";\n\n        font-size: 13em;\n\n        position:
     absolute;\n\n        left: -100px;\n\n        color: #666;\n\n    }\n\n    .container:after
     {\n\n        content: \"”\";\n\n        font-size: 13em;\n\n        position:
-    absolute;\n\n        right: -100px;\n\n        top: 150px;\n\n        color: #666;\n\n
+    absolute;\n\n        right: 100px;\n\n        top: 150px;\n\n        color: #666;\n\n
     \   }\n\n        blockquote:first-line {\n\n            font: 1.85em \"Sketch
     Block\";\n\n            color: #fff79e;\n\n        }\n\n        blockquote:first-letter
     {\n\n            font-size: 2.9em;\n\n            text-transform: lowercase;\n\n
