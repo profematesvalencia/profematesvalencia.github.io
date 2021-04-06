@@ -48,8 +48,10 @@ page_sections:
     10px;\n\n\t\t\tfont: 1.6em CallunaRegular;\n\n\t\t\tletter-spacing: .15em;\n\n\t\t}\n\n\t\tblockquote
     + b:first-letter {\n\n\t\t\tcolor: #fff79e;\n\n\t\t\tfont-size: 1.3em;\n\n\t\t\tfont-style:
     italic;\n\n\t\t\tletter-spacing: .25em;\n\n\t\t}\n\n\t\t@-moz-document url-prefix()
-    { \n\n\t\t\tblockquote:first-letter {\n\n\t\t\t\tmargin-top: -29px;\n\n\t\t\t}\n\n\t\t}\n\n</style>\n\n<p>Aquel
-    que lo intentó y no lo consiguió es superior al que ni lo intentó</p>"
+    { \n\n\t\t\tblockquote:first-letter {\n\n\t\t\t\tmargin-top: -29px;\n\n\t\t\t}\n\n\t\t}\n\n</style>\n\n<article
+    class=\"container\">\n\n\t\t<blockquote>\n\n\t\t\t<strong>Imagination</strong>
+    is <em>more important</em> than <strong>knowledge</strong>\n\n\t\t</blockquote>\n\n\t\t<b>Einstein,
+    A.</b>\n\n\t</article>"
   content: ''
   cta:
     enabled: false
