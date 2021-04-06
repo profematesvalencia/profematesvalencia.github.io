@@ -44,7 +44,7 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  background_image: "/uploads/2021/04/06/arithmatic.jpg"
+  background_image: "/uploads/2021/04/06/800px-la_scuola_di_atene.jpg"
 - template: content-feature
   block: feature-1
   media_alignment: Left
