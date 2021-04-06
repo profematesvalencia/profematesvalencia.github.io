@@ -13,7 +13,7 @@ page_sections:
   headline: |-
     <style> .knockout {
 
-      background: url(https://i0.wp.com/blog.education.nationalgeographic.org/wp-content/uploads/2018/04/arithmatic.jpg?ssl=1) -80px -80px;
+      background: url(https://w9wypxhswgdacg.instant.forestry.io//uploads/2021/03/10/calculus-board-1.jpeg) -80px -80px;
 
       color: red;
 
