@@ -35,8 +35,6 @@ page_sections:
 
     }</style>
 
-    [https://ibb.co/FWtH10Q](https://ibb.co/FWtH10Q "https://ibb.co/FWtH10Q")
-
     <div class="knockout"><a href="[http://mksht.crisnoble.com](http://mksht.crisnoble.com "http://mksht.crisnoble.com")" rel="Like cool shit? visit my site">Instrúyete hoy para que seas parte del día de mañana</a></div>
 
       background: url(http://i.pinimg.com/originals/36/2d/87/362d87b00aec0ef94733712db80b9f02.jpg) -80px -80px;
