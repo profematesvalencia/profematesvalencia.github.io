@@ -11,7 +11,9 @@ page_sections:
   block: hero-2
   slug: features
   headline: |-
-    <style> blockquote { background-position: 10px 10%; background-repeat: no-repeat no-repeat; padding: 150px 0; }
+    <style>
+
+    blockquote { background-position: 10px 10%; background-repeat: no-repeat no-repeat; padding: 150px 0; }
 
     p { color: #f2f2f2; background: #ff4a4a; font-size: 75px; line-height: 74px; font-weight: 700; margin: 0 5px 24px; float: left; padding: 10px; margin: 0 5px 24px; font-family: 'Libre Baskerville', serif; }
 
@@ -19,11 +21,11 @@ page_sections:
 
     a { color: #adadad; font-size: 25px; text-decoration: none; float: right; font-family: 'Libre Baskerville', serif; line-height: 4; }
 
-    a:hover { color: #ff4a4a; text-decoration: none; }</style>
+    a:hover { color: #ff4a4a; text-decoration: none; }
 
-     <h1><strong>We believe that the internet should be public, open and accessible.</strong></h1>
+    </style>
 
-     </div>
+     <p>beauty of words</p>
   content: ''
   cta:
     enabled: false
