@@ -45,7 +45,7 @@ page_sections:
     \"http://tangledindesign.com/codepen/fonts/Calluna-Regular-webfont.svg#CallunaRegular\")')
     format('svg');\n\n}\n\nbody {\n\n    background: #333;\n\n    color: #fff;\n\n}\n\n
     \   .container {\n\n        width: 590px;\n\n        margin: 140px auto;\n\n        position:
-    relative;\n\n    }\n\n    blockquote {\n\n        width: 565px;\n\n        font:
+    relative;\n\n    }\n\n    blockquote {\n\n        width: 56px;\n\n        font:
     2.65em CallunaRegular;\n\n        letter-spacing: .075em;\n\n        float: left;\n\n
     \       padding: 45px 0 30px 25px;\n\n        margin: 0;\n\n        border-top:
     2px dotted #858585;\n\n        border-bottom: 2px dotted #858585;\n\n        -webkit-transform:
@@ -53,7 +53,7 @@ page_sections:
     {\n\n        content: \"“\";\n\n        font-size: 13em;\n\n        position:
     absolute;\n\n        left: -100px;\n\n        color: #666;\n\n    }\n\n    .container:after
     {\n\n        content: \"”\";\n\n        font-size: 13em;\n\n        position:
-    absolute;\n\n        right: 100px;\n\n        top: 150px;\n\n        color: #666;\n\n
+    absolute;\n\n        right: -100px;\n\n        top: 150px;\n\n        color: #666;\n\n
     \   }\n\n        blockquote:first-line {\n\n            font: 1.85em \"Sketch
     Block\";\n\n            color: #fff79e;\n\n        }\n\n        blockquote:first-letter
     {\n\n            font-size: 2.9em;\n\n            text-transform: lowercase;\n\n
