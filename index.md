@@ -11,9 +11,7 @@ page_sections:
   block: hero-2
   slug: features
   headline: |-
-    <style> h1 {  font-family:Georgia,serif;  color:#666666;  font-size:30px;  line-height:1em;  margin:0 0 0 60px;  }  h1 strong{  color:#A80C1E;  display:block;  font-size:85px;  font-weight:normal;  letter-spacing:-3.5px;  line-height:1em;  }</style>
-
-    <div id="container">
+    <style> h1 { font-family: "Arial Black", sans-serif; font-size: 4.5em; letter-spacing: -1px; background-color: black; color: white; }</style>
 
      <h1><strong>We believethat the internet should be public, open and accessible.</strong></h1>
 
