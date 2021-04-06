@@ -13,7 +13,7 @@ page_sections:
   headline: |-
     <style> .knockout {
 
-      background: url(http://i0.wp.com/benalmadelman.com/wp-content/uploads/2013/05/Fibonacci-en-la-natualeza.jpg?resize=640%2C330) -80px -80px;
+      background: url(http://i.pinimg.com/originals/36/2d/87/362d87b00aec0ef94733712db80b9f02.jpg) -80px -80px;
 
       color: red;
 
