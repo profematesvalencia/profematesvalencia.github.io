@@ -10,29 +10,28 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<style>\n\n\n/* Blockquote main style */\n.blockquote {\n    position:
-    relative;\n    font-family: 'Barlow Condensed', sans-serif;\n    max-width: 620px;\n
-    \   margin: 80px auto;\n    align-self: center;\n}\n\n/* Blockquote header */\n.blockquote
-    h1 {\n    font-family: 'Abril Fatface', cursive;\n    position: relative; /* for
-    pseudos */\n    color: #e74848;\n    font-size: 2.8rem;\n    font-weight: normal;\n
-    \   line-height: 1;\n    margin: 0;\n    border: 2px solid #fff;\n    border:
-    solid 2px;\n    border-radius:20px;\n    padding: 25px;\n}\n\n/* Blockquote right
-    double quotes */\n.blockquote h1:after {\n    content:\"\";\n    position: absolute;\n
-    \   border: 2px solid #e74848;\n    border-radius: 0 50px 0 0;\n    width: 60px;\n
-    \   height: 60px;\n    bottom: -62px;\n    left: 50px;\n    border-bottom: none;\n
-    \   border-left: none;\n    z-index: 3; \n}\n\n.blockquote h1:before {\n    content:\"\";\n
-    \   position: absolute;\n    width: 80px;\n    border: 6px solid #292a2b;\n    bottom:
-    -3px;\n    left: 50px;\n    z-index: 2;\n}\n\n/* increase header size after 600px
-    */\n@media all and (min-width: 600px) {\n    .blockquote h1 {\n        font-size:
-    3rem;\n        line-height: 1.2;\n   }\n\n}\n\n/* Blockquote subheader */\n.blockquote
-    h4 {\n    position: relative;\n    color: #ffffff;\n    font-size: 1.3rem;\n    font-weight:
-    400;\n    line-height: 1.2;\n    margin: 0;\n    padding-top: 15px;\n    z-index:
-    1;\n    margin-left:150px;\n    padding-left:12px;\n}\n\n \n.blockquote h4:first-letter
-    {\n  margin-left:-12px;\n}\n\n</style>\n\n<div class=\"blockquote-wrapper\">\n
-    \ <div class=\"blockquote\">\n    <h1>\n     Intuitive design happens when <span
-    style=\"color:#ffffff\">current knowledge</span> is the same as the <span style=\"color:#ffffff\">target
-    knowledge.</span>\n     </h1>\n    <h4>&mdash;Jared Spool<br><em>Web Site Usability:
-    A Designer's Guide</em></h4>\n  </div>\n</div>"
+  headline: "<style>\n\n/* Blockquote main style */\n\n.blockquote {\n\n position:
+    relative;\n\n font-family: 'Barlow Condensed', sans-serif;\n\n max-width: 620px;\n\n
+    margin: 80px auto;\n\n align-self: center;\n\n}\n\n/* Blockquote header */\n\n.blockquote
+    h1 {\n\n font-family: 'Abril Fatface', cursive;\n\n position: relative; /* for
+    pseudos */\n\n color: #e74848;\n\n font-size: 3rem;\n\n font-weight: normal;\n\n
+    line-height: 1;\n\n margin: 0;\n\n border: 2px solid #fff;\n\n border: solid 2px;\n\n
+    border-radius:20px;\n\n padding: 25px;\n\n}\n\n/* Blockquote right double quotes
+    */\n\n.blockquote h1:after {\n\n content:\"\";\n\n position: absolute;\n\n border:
+    2px solid #e74848;\n\n border-radius: 0 50px 0 0;\n\n width: 60px;\n\n height:
+    60px;\n\n bottom: -62px;\n\n left: 50px;\n\n border-bottom: none;\n\n border-left:
+    none;\n\n z-index: 3; \n\n}\n\n.blockquote h1:before {\n\n content:\"\";\n\n position:
+    absolute;\n\n width: 80px;\n\n border: 6px solid #292a2b;\n\n bottom: -3px;\n\n
+    left: 50px;\n\n z-index: 2;\n\n}\n\n/* increase header size after 600px */\n\n@media
+    all and (min-width: 600px) {\n\n .blockquote h1 {\n\n font-size: 3rem;\n\n line-height:
+    1.2;\n\n }\n\n}\n\n/* Blockquote subheader */\n\n.blockquote h4 {\n\n position:
+    relative;\n\n color: #ffffff;\n\n font-size: 1.3rem;\n\n font-weight: 400;\n\n
+    line-height: 1.2;\n\n margin: 0;\n\n padding-top: 15px;\n\n z-index: 1;\n\n margin-left:150px;\n\n
+    padding-left:12px;\n\n}\n\n \n\n.blockquote h4:first-letter {\n\n margin-left:-12px;\n\n}\n\n</style>\n\n<div
+    class=\"blockquote-wrapper\">\n\n <div class=\"blockquote\">\n\n <h1>\n\n Intuitive
+    design happens when <span style=\"color:#ffffff\">current knowledge</span> is
+    the same as the <span style=\"color:#ffffff\">target knowledge.</span>\n\n </h1>\n\n
+    <h4>—Jared Spool<br><em>Web Site Usability: A Designer's Guide</em></h4>\n\n </div>\n\n</div>"
   content: ''
   cta:
     enabled: false
