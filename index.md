@@ -13,7 +13,7 @@ page_sections:
   headline: |-
     <style> .knockout {
 
-      background: url(https://i.pinimg.com/originals/c8/db/eb/c8dbeb73422acb63f6dde8773023a839.jpg) -80px -80px;
+      background: url(https://i.pinimg.com/originals/30/e5/21/30e5210c7024693e1631eb54ab402b07.jpg) -80px -80px;
 
       color: red;
 
