@@ -13,7 +13,7 @@ page_sections:
   headline: |-
     <style> .knockout {
 
-      background: url(https://plainbackground.com/download.php?imagename=660000.png) -80px -80px;
+      background: url(https://www.color-hex.com/palettes/8243.png) -80px -80px;
 
       color: red;
 
