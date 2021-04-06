@@ -10,12 +10,16 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<style>\n\ncyber-text {\n\n  position: relative;\n\n  text-transform:
-    uppercase;\n\n  font-family: 'Catamaran', sans-serif;\n\n  color: hex(#b8b8b8,
-    0.8);\n\n}\n\ncyber-text:before {\n\n  position: absolute;\n\n  color: hex(#e74c3c,
-    0.8);\n\n  top: 5px;\n\n  left: 10px;\n\n}\n\ncyber-text:after {\n\n  z-index:
-    -1;\n\n  position: absolute;\n\n  color: hex(#CC0000, 0.8);\n\n  top: -5px;\n\n
-    \ left: 8px;\n\n}\n\n</style>\n\n  \n<div class='cyber-text'>digital highway</div>"
+  headline: "<style>\n\nh1 { \n\n  text-align: center;\n\n  color: white;\n\n  text-transform:
+    uppercase;\n\n  padding: 1px;\n\n  font-family: 'Raleway', cursive;\n\n  font-weight:
+    100;\n\n  position: relative;\n\n  background: linear-gradient(to right, black,
+    #eee, black);\n\n}\n\nh1::before {\n\n  content: \"\";\n\n  position: absolute;\n\n
+    \ left: 50%;\n\n  top: -50px;\n\n  width: 600px;\n\n  margin-left: -300px;\n\n
+    \ margin-top: -220px;\n\n  height: 600px;\n\n  background: radial-gradient(50%
+    50%, ellipse closest-side, #444, black);\n\n  z-index: -1;\n\n}\n\nh1 a {\n\n
+    \ background: black;\n\n  display: block;\n\n  padding: 20px;\n\n  text-decoration:
+    none;\n\n  letter-spacing: 30px;\n\n  color: white;\n\n}\n\n</style>\n\n<h1><a
+    href=\"#0\">CSS-Tricks</a></h1>"
   content: ''
   cta:
     enabled: false
