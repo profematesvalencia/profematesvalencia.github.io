@@ -10,35 +10,22 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<style>\n\n\\*\n\n  margin: 0\n\n  box-sizing: border-box\n\n  \n\nhtml,\n\nbody\n\n
-    \ height: 100%\n\nbody\n\n  background-color: black\n\n  \n\n  display: flex\n\n
-    \ flex-direction: row\n\n  justify-content: center\n\n  align-items: center\n\n
-    \ padding: 1rem\n\nblockquote\n\n  display: block\n\n  margin: 0 auto\n\n  text-align:
-    center\n\n  max-width: 900px\n\n  \n\np,\n\ncite\n\n  text-rendering: optimizeLegibility;\n\n
-    \ -webkit-font-smoothing: antialiased;\n\n  -moz-osx-font-smoothing: grayscale;\n\n
-    \ \n\np\n\n  font-family: Georgia\n\n  color: white\n\n  font-size: 2.7rem\n\n
-    \ font-style: italic\n\n  font-weight: 300  \n\n  padding-bottom: 2rem\n\n \n\nspan\n\n
-    \ will-change: opacity\n\n  opacity: 0\n\n  &.animate\n\n    opacity: 1\n\n    -webkit-filter:
-    blur(0) !important\n\n   \n\ncite\n\n  font-family: verdana\n\n  font-size: .9rem\n\n
-    \ color: #aaa\n\n  opacity: 0\n\n  \n\n  font-style: normal\n\n  font-weight:
-    500\n\n  \n\n  &.animate\n\n    opacity: 1\n\n</style>\n\n<blockquote>\n\n <p>\n\n
-    \ <span data-duration=\"1.1\" data-delay=\".23\" data-blur=\"6\">“Two&nbsp;</span>\n\n
-    \ <span data-duration=\"1.4\" data-delay=\".43\" data-blur=\"3\">things&nbsp;</span>\n\n
-    \ <span data-duration=\"1.8\" data-delay=\".42\" data-blur=\"5\">are&nbsp;</span>\n\n
-    \ <span data-duration=\"1.2\" data-delay=\".25\" data-blur=\"9\">infinite:&nbsp;</span>\n\n
-    \ <span data-duration=\"1.7\" data-delay=\".30\" data-blur=\"4\">the&nbsp;</span>\n\n
-    \ <span data-duration=\"1.2\" data-delay=\".29\" data-blur=\"3\">universe&nbsp;</span>\n\n
-    \ <span data-duration=\"1.4\" data-delay=\".26\" data-blur=\"5\">and&nbsp;</span>\n\n
-    \ <span data-duration=\"1.7\" data-delay=\".19\" data-blur=\"9\">human&nbsp;</span>\n\n
-    \ <span data-duration=\"1.2\" data-delay=\".11\" data-blur=\"5\">stupidity;&nbsp;</span>\n\n
-    \ <span data-duration=\"1.9\" data-delay=\".19\" data-blur=\"2\" >and&nbsp;</span>\n\n
-    \ <span data-duration=\"1.2\" data-delay=\".36\" data-blur=\"9\" >I'm&nbsp;</span>\n\n
-    \ <span data-duration=\"1.8\" data-delay=\".17\" data-blur=\"3\" >not&nbsp;</span>\n\n
-    \ <span data-duration=\"1.2\" data-delay=\".30\" data-blur=\"10\" >sure&nbsp;</span>\n\n
-    \ <span data-duration=\"1.5\" data-delay=\".50\" data-blur=\"4\" >about&nbsp;</span>\n\n
-    \ <span data-duration=\"1.8\" data-delay=\".19\" data-blur=\"2\" >the&nbsp;</span>\n\n
-    \ <span data-duration=\"1.3\" data-delay=\".18\" data-blur=\"4\" >universe.”&nbsp;</span>\n\n
-    </p>\n\n <cite>Albert Einstein</cite>\n\n</blockquote>"
+  headline: "<style>\n\n@import url('[https://fonts.googleapis.com/css?family=Montserrat](https://fonts.googleapis.com/css?family=Montserrat
+    \"https://fonts.googleapis.com/css?family=Montserrat\")');\n\nbody {\n\n\tbackground-color:
+    #111;\n\n}\n\n.title {\n\n\tfont-family: \"Montserrat\";\n\n\ttext-align: center;\n\n\tcolor:
+    #FFF;\n\n\tdisplay: flex;\n\n\tflex-direction: column;\n\n\talign-items: center;\n\n\tjustify-content:
+    center;\n\n\theight: 100vh;\n\n\tletter-spacing: 1px;\n\n}\n\nh1 {\n\n\tbackground-image:
+    url([https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif](https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif
+    \"https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif\"));\n\n\tbackground-size:
+    cover;\n\n\tcolor: transparent;\n\n\t-moz-background-clip: text;\n\n\t-webkit-background-clip:
+    text;\n\n\ttext-transform: uppercase;\n\n\tfont-size: 120px;\n\n\tline-height:
+    .75;\n\n\tmargin: 10px 0;\n\n}\n\n/* styling my button */\n\n.white-mode {\n\n\ttext-decoration:
+    none;\n\n\tpadding: 7px 10px;\n\n\tbackground-color: #122;\n\n\tborder-radius:
+    3px;\n\n\tcolor: #FFF;\n\n\ttransition: .35s ease-in-out;\n\n\tposition: absolute;\n\n\tleft:
+    15px;\n\n\tbottom: 15px;\n\n\tfont-family: \"Montserrat\";\n\n}\n\n.white-mode:hover
+    {\n\n\tbackground-color: #FFF;\n\n\tcolor: #122;\n\n}\n\n</style>\n\n<div class=\"title\">\n\n
+    <h1>thanks<br/>codePen</h1>\n\n <a target=\"_blank\" href=\"[http://codepen.io/Moslim/](http://codepen.io/Moslim/
+    \"http://codepen.io/Moslim/\")\" class=\"white-mode\">OTHER PENS</a>\n\n</div>"
   content: ''
   cta:
     enabled: false
