@@ -28,10 +28,10 @@ page_sections:
     relative;\n\n color: #ffffff;\n\n font-size: 1.3rem;\n\n font-weight: 400;\n\n
     line-height: 1.2;\n\n margin: 0;\n\n padding-top: 15px;\n\n z-index: 1;\n\n margin-left:150px;\n\n
     padding-left:12px;\n\n}\n\n \n\n.blockquote h4:first-letter {\n\n margin-left:-12px;\n\n}\n\n</style>\n\n<div
-    class=\"blockquote-wrapper\">\n\n <div class=\"blockquote\">\n\n <h1>\n\n Intuitive
-    design happens when <span style=\"color:#ffffff\">current knowledge</span> is
-    the same as the <span style=\"color:#ffffff\">target knowledge.</span>\n\n </h1>\n\n
-    <h4>—Jared Spool<br><em>Web Site Usability: A Designer's Guide</em></h4>\n\n </div>\n\n</div>"
+    class=\"blockquote-wrapper\">\n\n <div class=\"blockquote\">\n\n <h1>\n\nAquel
+    que lo intentó y no lo consiguió <span style=\"color:#ffffff\">es superior</span>
+    al que ni lo intentó.\n\n </h1>\n\n <h4>—Jared Spool<br><em>Web Site Usability:
+    A Designer's Guide</em></h4>\n\n </div>\n\n</div>"
   content: ''
   cta:
     enabled: false
