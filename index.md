@@ -11,7 +11,11 @@ page_sections:
   block: hero-2
   slug: features
   headline: |-
-    <style>h1 { color: #666; font-family: 'Helvetica Neue', sans-serif; font-size: 27px; font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: center; } h2 { color: #111; font-family: 'Open Sans', sans-serif; font-size: 30px; font-weight: 300; line-height: 32px; margin: 0 0 72px; text-align: center; } p { color: #685206; font-family: 'Helvetica Neue', sans-serif; font-size: 14px; line-height: 24px; margin: 0 0 24px; text-align: justify; text-justify: inter-word; }</style>
+    <style>h1 { color: #fff; font-family: 'Righteous', cursive; font-size: 65px; font-weight: normal; line-height: 60px; margin: 10px 0 20px; text-transform: uppercase; text-shadow: 2px 2px 0 #000, margin: 10px 0 24px; text-align: center; }
+    h2 { font-size: 30px; letter-spacing: -1px; color: #DFBF84; text-transform: uppercase; text-shadow: 1px 1px 0 #000, margin: 10px 0 24px; text-align: center; line-height: 50px; }
+    p { color: #f6f6f6; font-family: 'Orienta', sans-serif; font-size: 16px; line-height: 24px; margin: 0 0 24px; text-align: center; }
+    a { color: #e8d4a7; text-decoration: none; text-align: right; padding: 15px; font-size: 20px; }
+    a:hover { color: #da9650; text-decoration: blink; }</style>
 
     <h1> Un mayorista.</h1>
   content: ''
