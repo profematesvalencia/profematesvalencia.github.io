@@ -10,22 +10,12 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: |-
-    <style>
-
-    blockquote { background-position: 10px 10%; background-repeat: no-repeat no-repeat; padding: 150px 0; }
-
-    p { color: #f2f2f2; background: #ff4a4a; font-size: 75px; line-height: 74px; font-weight: 700; margin: 0 5px 24px; float: left; padding: 10px; margin: 0 5px 24px; font-family: 'Libre Baskerville', serif; }
-
-    .punchline p { background: #f2f2f2; color: #ff4a4a; }
-
-    a { color: #adadad; font-size: 25px; text-decoration: none; float: right; font-family: 'Libre Baskerville', serif; line-height: 4; }
-
-    a:hover { color: #ff4a4a; text-decoration: none; }
-
-    </style>
-
-     <p>beauty of words</p>
+  headline: "<style>\n\ncyber-text {\n\n  position: relative;\n\n  text-transform:
+    uppercase;\n\n  font-family: 'Catamaran', sans-serif;\n\n  color: hex(#b8b8b8,
+    0.8);\n\n}\n\ncyber-text:before {\n\n  position: absolute;\n\n  color: hex(#e74c3c,
+    0.8);\n\n  top: 5px;\n\n  left: 10px;\n\n}\n\ncyber-text:after {\n\n  z-index:
+    -1;\n\n  position: absolute;\n\n  color: hex(#CC0000, 0.8);\n\n  top: -5px;\n\n
+    \ left: 8px;\n\n}\n\n</style>\n\n  \n<div class='cyber-text'>digital highway</div>"
   content: ''
   cta:
     enabled: false
