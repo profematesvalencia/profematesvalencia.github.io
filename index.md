@@ -25,7 +25,7 @@ page_sections:
 
     </style>
 
-    <div class="knockout"><a href="" rel="Like cool shit? visit my site">Instrúyete hoy para que seas parte del día de mañana</a></div>
+    <p>Instrúyete hoy para que seas parte del día de mañana</p>
   content: ''
   cta:
     enabled: false
