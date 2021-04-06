@@ -10,27 +10,20 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<style> @import url('https://fonts.googleapis.com/css?family=Saira+Semi+Condensed')\n\n$font:
-    'Saira Semi Condensed', sans-serif\n\n$font-color: #ffffff\n\n$background: #39393B\n\n$transition:
-    .6s\n\n$font-size: 5vw\n\n@mixin center\n\n  position: absolute\n\n  top: 50%\n\n
-    \ left: 50%\n\n  transform: translate(-50%, -50%)\n\nbody\n\n  background: $background\n\n
-    \ font-family: $font\n\n  \n\n.main-container\n\n  +center\n\n  color: $font-color\n\n.first-container,
-    .second-container\n\n  cursor: pointer\n\n  position: relative\n\n  \n\n  h1\n\n
-    \   position: relative\n\n    letter-spacing: 2px\n\n    font-size: $font-size\n\n
-    \   \n\n.first-container\n\n  margin-bottom: 15px\n\n  \n\nspan\n\n  display:
-    inline-block\n\n  position: relative\n\n  margin-right: 5px\n\n  &:after\n\n    content:
-    ''\n\n    position: absolute\n\n    height: 100%\n\n    width: 0\n\n    top: 0\n\n
-    \   left: 0\n\n    transition: $transition\n\n    z-index: -5\n\n   \n\n@for $i
-    from 1 through 10\n\n  .share:hover > h1 > span:nth-child(#{$i}):after\n\n    $delay:
-    100 * $i\n\n    $random: ($i * 5) - 30\n\n    background: white\n\n    width:
-    100%\n\n    transition: $transition\n\n    transition-delay: $delay + ms\n\n    transform:
-    rotate($random + deg)\n\n  .share:hover > h1 > span:nth-child(#{$i})\n\n    $delayTwo:
-    110 * $i\n\n    color: $background\n\n    transition-delay: $delayTwo + ms</style>\n\n.main-container\n\n
-    \ .first-container.share\n\n    h1 <span id=\"one\">A</span><span>q</span><span>u</span><span>e</span><span>l</span>
-    <span>q</span><span>u</span><span>e</span> <span>l</span><span>o</span> <span>i</span><span>n</span>t<span>e</span><span>n</span><span>t</span><span>&#243;</span>\n\n
-    \ .second-container.share\n\n    h1 <span>W</span><span>e</span> <span>M</span><span>o</span><span>v</span><span>e</span>\n\n
-    \   \n\n    Aquel que lo intentó y no lo consiguió\n\n    es superior al que ni
-    lo intentó."
+  headline: |-
+    <style> blockquote { background-position: 10px 10%; background-repeat: no-repeat no-repeat; padding: 150px 0; }
+
+    p { color: #f2f2f2; background: #ff4a4a; font-size: 75px; line-height: 74px; font-weight: 700; margin: 0 5px 24px; float: left; padding: 10px; margin: 0 5px 24px; font-family: 'Libre Baskerville', serif; }
+
+    .punchline p { background: #f2f2f2; color: #ff4a4a; }
+
+    a { color: #adadad; font-size: 25px; text-decoration: none; float: right; font-family: 'Libre Baskerville', serif; line-height: 4; }
+
+    a:hover { color: #ff4a4a; text-decoration: none; }</style>
+
+     <h1><strong>We believe that the internet should be public, open and accessible.</strong></h1>
+
+     </div>
   content: ''
   cta:
     enabled: false
