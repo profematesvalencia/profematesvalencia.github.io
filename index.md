@@ -17,7 +17,7 @@ page_sections:
     a { color: #e8d4a7; text-decoration: none; text-align: right; padding: 15px; font-size: 20px; }
     a:hover { color: #da9650; text-decoration: blink; }</style>
 
-    <h1> Un mayorista.</h1>
+    <h2> Un mayorista.</h2>
   content: ''
   cta:
     enabled: false
