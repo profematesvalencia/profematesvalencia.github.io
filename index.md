@@ -44,8 +44,8 @@ page_sections:
     \        url('[http://tangledindesign.com/codepen/fonts/Calluna-Regular-webfont.svg#CallunaRegular](http://tangledindesign.com/codepen/fonts/Calluna-Regular-webfont.svg#CallunaRegular
     \"http://tangledindesign.com/codepen/fonts/Calluna-Regular-webfont.svg#CallunaRegular\")')
     format('svg');\n\n}\n\nbody {\n\n    background: #333;\n\n    color: #fff;\n\n}\n\n
-    \   .container {\n\n        width: 590px;\n\n        margin: 140px auto;\n\n        position:
-    relative;\n\n    }\n\n    blockquote {\n\n        width: 56px;\n\n        font:
+    \   .container {\n\n        width: 50px;\n\n        margin: 140px auto;\n\n        position:
+    relative;\n\n    }\n\n    blockquote {\n\n        width: 565px;\n\n        font:
     2.65em CallunaRegular;\n\n        letter-spacing: .075em;\n\n        float: left;\n\n
     \       padding: 45px 0 30px 25px;\n\n        margin: 0;\n\n        border-top:
     2px dotted #858585;\n\n        border-bottom: 2px dotted #858585;\n\n        -webkit-transform:
