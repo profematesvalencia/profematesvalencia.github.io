@@ -11,29 +11,19 @@ page_sections:
   block: hero-2
   slug: features
   headline: |-
-    <style> .knockout {
+    <style>
 
-      background: url(http://i.pinimg.com/originals/36/2d/87/362d87b00aec0ef94733712db80b9f02.jpg) -80px -80px;
+    blockquote { background-position: 10px 10%; background-repeat: no-repeat no-repeat; padding: 150px 0; }
 
-      color: red;
+    p { color: #f2f2f2; background: #ff4a4a; font-size: 75px; line-height: 74px; font-weight: 700; margin: 0 5px 24px; float: left; padding: 10px; margin: 0 5px 24px; font-family: 'Libre Baskerville', serif; }
 
-      -webkit-text-fill-color: transparent;
+    .punchline p { background: #f2f2f2; color: #ff4a4a; }
 
-      -webkit-background-clip: text;
+    a { color: #adadad; font-size: 25px; text-decoration: none; float: right; font-family: 'Libre Baskerville', serif; line-height: 4; }
 
-      font-weight: bold;
+    a:hover { color: #ff4a4a; text-decoration: none; }
 
-      font-size: 100px;
-
-      font-family: arial, helvetica;
-
-      width: 600px;
-
-      margin: 50px auto;
-
-      text-align: center;
-
-    }</style>
+    </style>
 
     <div class="knockout"><a href="" rel="Like cool shit? visit my site">Instrúyete hoy para que seas parte del día de mañana</a></div>
   content: ''
