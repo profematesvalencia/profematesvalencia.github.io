@@ -33,7 +33,7 @@ page_sections:
 
       width: 400px;
 
-      font-size: 48px;
+      font-size: 96px;
 
       line-height: 56px;
 
@@ -49,7 +49,7 @@ page_sections:
 
       text-align: right;
 
-      font-size: 24px;
+      font-size: 48px;
 
       line-height: 40px;
 
