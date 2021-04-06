@@ -10,69 +10,22 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<style>\n\n@font-face {\n\n    font-family: 'Sketch Block';\n\n    src:
-    url('[http://tangledindesign.com/codepen/fonts/sketch_block-webfont.eot](http://tangledindesign.com/codepen/fonts/sketch_block-webfont.eot
-    \"http://tangledindesign.com/codepen/fonts/sketch_block-webfont.eot\")');\n\n
-    \   src: url('[http://tangledindesign.com/codepen/fonts/sketch_block-webfont.eot?#iefix](http://tangledindesign.com/codepen/fonts/sketch_block-webfont.eot?#iefix
-    \"http://tangledindesign.com/codepen/fonts/sketch_block-webfont.eot?#iefix\")')
-    format('embedded-opentype'),\n\n         url('[http://tangledindesign.com/codepen/fonts/sketch_block-webfont.woff](http://tangledindesign.com/codepen/fonts/sketch_block-webfont.woff
-    \"http://tangledindesign.com/codepen/fonts/sketch_block-webfont.woff\")') format('woff'),\n\n
-    \        url('[http://tangledindesign.com/codepen/fonts/sketch_block-webfont.ttf](http://tangledindesign.com/codepen/fonts/sketch_block-webfont.ttf
-    \"http://tangledindesign.com/codepen/fonts/sketch_block-webfont.ttf\")') format('truetype'),\n\n
-    \        url('[http://tangledindesign.com/codepen/fonts/sketch_block-webfont.svg#SketchBlockBold](http://tangledindesign.com/codepen/fonts/sketch_block-webfont.svg#SketchBlockBold
-    \"http://tangledindesign.com/codepen/fonts/sketch_block-webfont.svg#SketchBlockBold\")')
-    format('svg');\n\n}\n\n@font-face {\n\n    font-family: 'Museo 700';\n\n    src:
-    url('[http://tangledindesign.com/codepen/fonts/Museo700-Regular-webfont.eot](http://tangledindesign.com/codepen/fonts/Museo700-Regular-webfont.eot
-    \"http://tangledindesign.com/codepen/fonts/Museo700-Regular-webfont.eot\")');\n\n
-    \   src: url('[http://tangledindesign.com/codepen/fonts/Museo700-Regular-webfont.eot?#iefix](http://tangledindesign.com/codepen/fonts/Museo700-Regular-webfont.eot?#iefix
-    \"http://tangledindesign.com/codepen/fonts/Museo700-Regular-webfont.eot?#iefix\")')
-    format('embedded-opentype'),\n\n         url('[http://tangledindesign.com/codepen/fonts/Museo700-Regular-webfont.woff](http://tangledindesign.com/codepen/fonts/Museo700-Regular-webfont.woff
-    \"http://tangledindesign.com/codepen/fonts/Museo700-Regular-webfont.woff\")')
-    format('woff'),\n\n         url('[http://tangledindesign.com/codepen/fonts/Museo700-Regular-webfont.ttf](http://tangledindesign.com/codepen/fonts/Museo700-Regular-webfont.ttf
-    \"http://tangledindesign.com/codepen/fonts/Museo700-Regular-webfont.ttf\")') format('truetype'),\n\n
-    \        url('[http://tangledindesign.com/codepen/fonts/Museo700-Regular-webfont.svg#SketchBlockBold](http://tangledindesign.com/codepen/fonts/Museo700-Regular-webfont.svg#SketchBlockBold
-    \"http://tangledindesign.com/codepen/fonts/Museo700-Regular-webfont.svg#SketchBlockBold\")')
-    format('svg');\n\n}\n\n@font-face {\n\n    font-family: 'CallunaRegular';\n\n
-    \   src: url('[http://tangledindesign.com/codepen/fonts/Calluna-Regular-webfont.eot](http://tangledindesign.com/codepen/fonts/Calluna-Regular-webfont.eot
-    \"http://tangledindesign.com/codepen/fonts/Calluna-Regular-webfont.eot\")');\n\n
-    \   src: url('[http://tangledindesign.com/codepen/fonts/Calluna-Regular-webfont.eot?#iefix](http://tangledindesign.com/codepen/fonts/Calluna-Regular-webfont.eot?#iefix
-    \"http://tangledindesign.com/codepen/fonts/Calluna-Regular-webfont.eot?#iefix\")')
-    format('embedded-opentype'),\n\n         url('[http://tangledindesign.com/codepen/fonts/Calluna-Regular-webfont.woff](http://tangledindesign.com/codepen/fonts/Calluna-Regular-webfont.woff
-    \"http://tangledindesign.com/codepen/fonts/Calluna-Regular-webfont.woff\")') format('woff'),\n\n
-    \        url('[http://tangledindesign.com/codepen/fonts/Calluna-Regular-webfont.ttf](http://tangledindesign.com/codepen/fonts/Calluna-Regular-webfont.ttf
-    \"http://tangledindesign.com/codepen/fonts/Calluna-Regular-webfont.ttf\")') format('truetype'),\n\n
-    \        url('[http://tangledindesign.com/codepen/fonts/Calluna-Regular-webfont.svg#CallunaRegular](http://tangledindesign.com/codepen/fonts/Calluna-Regular-webfont.svg#CallunaRegular
-    \"http://tangledindesign.com/codepen/fonts/Calluna-Regular-webfont.svg#CallunaRegular\")')
-    format('svg');\n\n}\n\nbody {\n\n    background: #333;\n\n    color: #fff;\n\n}\n\n
-    \   .container {\n\n        width: 50px;\n\n        margin: 140px auto;\n\n        position:
-    relative;\n\n    }\n\n    blockquote {\n\n        width: 565px;\n\n        font:
-    2.65em CallunaRegular;\n\n        letter-spacing: .075em;\n\n        float: left;\n\n
-    \       padding: 45px 0 30px 25px;\n\n        margin: 0;\n\n        border-top:
-    2px dotted #858585;\n\n        border-bottom: 2px dotted #858585;\n\n        -webkit-transform:
-    rotate(-3deg);\n\n        -moz-transform: rotate(-3deg);\n\n    }\n\n    .container:before
-    {\n\n        content: \"“\";\n\n        font-size: 13em;\n\n        position:
-    absolute;\n\n        left: -100px;\n\n        color: #666;\n\n    }\n\n    .container:after
-    {\n\n        content: \"”\";\n\n        font-size: 13em;\n\n        position:
-    absolute;\n\n        right: -100px;\n\n        top: 150px;\n\n        color: #666;\n\n
-    \   }\n\n        blockquote:first-line {\n\n            font: 1.85em \"Sketch
-    Block\";\n\n            color: #fff79e;\n\n        }\n\n        blockquote:first-letter
-    {\n\n            font-size: 2.9em;\n\n            text-transform: lowercase;\n\n
-    \           float: left;\n\n            line-height: .52em;\n\n            margin-right:
-    -18px;\n\n            position: relative;\n\n            z-index: 1;\n\n        }\n\n
-    \       blockquote strong:first-child {\n\n            margin-left: 8px;\n\n            letter-spacing:
-    0;\n\n        }\n\n        blockquote strong:last-child {\n\n            font:
-    2em \"Museo 700\";\n\n            text-transform: uppercase;\n\n            letter-spacing:
-    0;\n\n        }\n\n        blockquote em {\n\n            border-bottom: 2px dotted
-    #858585;\n\n          padding-left: 5px;\n\n        }\n\n        blockquote +
-    b {\n\n            float: right;\n\n            margin-top: 10px;\n\n            font:
-    1.6em CallunaRegular;\n\n            letter-spacing: .15em;\n\n        }\n\n        blockquote
-    + b:first-letter {\n\n            color: #fff79e;\n\n            font-size: 1.3em;\n\n
-    \           font-style: italic;\n\n            letter-spacing: .25em;\n\n        }\n\n
-    \       @-moz-document url-prefix() { \n\n            blockquote:first-letter
-    {\n\n                margin-top: -29px;\n\n            }\n\n        }\n\n</style>\n\n<article
-    class=\"container\">\n\n        <blockquote>\n\n            <strong>Imagination</strong>
-    is <em>more important</em> than <strong>knowledge</strong>\n\n        </blockquote>\n\n
-    \       <b>Einstein, A.</b>\n\n    </article>"
+  headline: |-
+    <style>h1 { color: #111; font-family: 'Helvetica Neue', sans-serif; font-size: 275px; font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: center; }
+    h2 { color: #111; font-family: 'Open Sans', sans-serif; font-size: 30px; font-weight: 300; line-height: 32px; margin: 0 0 72px; text-align: center; }
+    p { color: #685206; font-family: 'Helvetica Neue', sans-serif; font-size: 14px; line-height: 24px; margin: 0 0 24px; text-align: justify; text-justify: inter-word; }</style>
+
+    <article class="container">
+
+            <blockquote>
+
+                <strong>Imagination</strong> is <em>more important</em> than <strong>knowledge</strong>
+
+            </blockquote>
+
+            <b>Einstein, A.</b>
+
+        </article>
   content: ''
   cta:
     enabled: false
