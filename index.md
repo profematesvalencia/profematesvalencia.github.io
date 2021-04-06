@@ -30,7 +30,7 @@ page_sections:
     padding-left:12px;\n\n}\n\n \n\n.blockquote h4:first-letter {\n\n margin-left:-12px;\n\n}\n\n</style>\n\n<div
     class=\"blockquote-wrapper\">\n\n <div class=\"blockquote\">\n\n <h1>\n\nAquel
     que lo intentó y no lo consiguió <span style=\"color:#ffffff\">es superior</span>
-    al que ni lo intentó.\n\n </h1>\n\n <h4>—Jared Spool<br><em>Web Site Usability:
+    al que ni lo intentó.\n\n </h1>\n\n <h4>—Arquímedes<br><em>Web Site Usability:
     A Designer's Guide</em></h4>\n\n </div>\n\n</div>"
   content: ''
   cta:
