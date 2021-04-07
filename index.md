@@ -10,46 +10,33 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: |-
-    <style>
-
-    /* Blockquote main style */
-
-    .blockquote { position: relative; font-family: 'Barlow Condensed', sans-serif; max-width: 620px; margin: 80px auto; align-self: center;}
-
-    /* Blockquote header */
-
-    .blockquote h1 { font-family: 'Abril Fatface', cursive; position: relative; /* for pseudos */ color: #e74848; font-size:4rem; font-weight: 600; line-height: 1; margin: 0; border: 3px solid #fff; border: solid 3px; border-radius:20px; padding: 25px;}
-
-    /* Blockquote right double quotes */
-
-    .blockquote h1:after { content:""; position: absolute; border: 3px solid #e74848; border-radius: 0 50px 0 0; width: 60px; height: 60px; bottom: -62px; left: 50px; border-bottom: none; border-left: none; z-index: 3; }
-
-    .blockquote h1:before { content:""; position: absolute; width: 80px; border: 3px solid #292a2b; bottom: -3px; left: 50px; z-index: 2;}
-
-    /* increase header size after 600px */
-
-    @media all and (min-width: 600px) { .blockquote h1 { font-size: 3.7rem; line-height: 1.2; }}
-
-    /* Blockquote subheader */
-
-    .blockquote h4 { position: relative; color: #ffffff; font-size: 1.5rem; font-weight: 500; line-height: 1.2; margin: 0; padding-top: 15px; z-index: 1; margin-left:150px; padding-left:12px;}
-
-    .blockquote h4:first-letter {margin-left:-12px;}
-
-    </style>
-
-    <div class="blockquote-wrapper">
-
-    <div class="blockquote">
-
-    <h1>Aquel que lo intentó y no lo consiguió <span style="color:#ffffff">es superior</span> al que ni lo intentó.</h1>
-
-    <h4>- Arquímedes.<br><em>Astrónomo, físico y matemático griego</em></h4>
-
-     </div>
-
-    </div>
+  headline: "<style>\n\n.Iam {\n\n  padding: 2em 5em;\n\n  font: normal 40px/50px
+    Montserrat, sans-serif;\n\n  color: #999;\n\n}\n\n.Iam p {\n\n  height: 50px;\n\n
+    \ float: left;\n\n  margin-right: 0.3em;\n\n}\n\n.Iam b {\n\n  float: left;\n\n
+    \ overflow: hidden;\n\n  position: relative;\n\n  height: 50px;\n\n  top: 40px;\n\n}\n\n.Iam
+    .innerIam {\n\n  display: inline-block;\n\n  color: #e74c3c;\n\n  position: relative;\n\n
+    \ white-space: nowrap;\n\n  top: 0;\n\n  left: 0;\n\n/*animation*/\n\n\\-webkit-animation:move
+    10s;\n\n   -moz-animation:move 10s;\n\n    -ms-animation:move 10s;\n\n     -o-animation:move
+    10s;\n\n        animation:move 10s;\n\n/*animation-iteration-count*/\n\n\\-webkit-animation-iteration-count:infinite;\n\n
+    \  -moz-animation-iteration-count:infinite;\n\n    -ms-animation-iteration-count:infinite;\n\n
+    \    -o-animation-iteration-count:infinite;\n\n        animation-iteration-count:infinite;\n\n/*animation-delay*/\n\n\\-webkit-animation-delay:2s;\n\n
+    \  -moz-animation-delay:2s;\n\n    -ms-animation-delay:2s;\n\n     -o-animation-delay:2s;\n\n
+    \       animation-delay:2s;\n\n}\n\n@keyframes move{\n\n0%  { top: 0px; }\n\n20%
+    { top: -50px; }\n\n40% { top: -100px; }\n\n60% { top: -150px; }\n\n80% { top:
+    -200px; }\n\n}\n\n@-webkit-keyframes move {\n\n    0%  { top: 0px; }\n\n    20%
+    { top: -50px; }\n\n    40% { top: -100px; }\n\n    60% { top: -150px; }\n\n    80%
+    { top: -200px; }\n\n}\n\n@-moz-keyframes move {\n\n    0%  { top: 0px; }\n\n    20%
+    { top: -50px; }\n\n    40% { top: -100px; }\n\n    60% { top: -150px; }\n\n    80%
+    { top: -200px; }\n\n}\n\n@-o-keyframes move {\n\n    0%  { top: 0px; }\n\n    20%
+    { top: -50px; }\n\n    40% { top: -100px; }\n\n    60% { top: -150px; }\n\n    80%
+    { top: -200px; }\n\n}\n\n@keyframes move {\n\n    0%  { top: 0px; }\n\n    20%
+    { top: -50px; }\n\n    40% { top: -100px; }\n\n    60% { top: -150px; }\n\n    80%
+    { top: -200px; }\n\n}\n\n</style>\n\n<head>\n\n    <link rel=\"stylesheet\" type=\"text/css\"
+    href=\"style.css\">\n\n    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700'
+    rel='stylesheet' type='text/css'>\n\n</head>\n\n<body>\n\n<div class=\"Iam\">\n\n<p>This
+    is</p>\n\n<b>\n\n  <div class=\"innerIam\">\n\n    leggera<br /> \n\n    a theme
+    in progress<br />\n\n    built on bootstrap<br />\n\n    how I learn stuff<br
+    />\n\n    how we do it\n\n    </div>\n\n</b>\n\n</div>\n\n</body>"
   content: ''
   cta:
     enabled: false
