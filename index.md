@@ -31,7 +31,7 @@ page_sections:
     { top: -150px; }\n\n80% { top: -200px; }\n\n}\n\n</style>\n\n<head>\n\n<link rel=\"stylesheet\"
     type=\"text/css\" href=\"style.css\">\n\n<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700'
     rel='stylesheet' type='text/css'>\n\n</head>\n\n<body>\n\n<div class=\"Iam\">\n\n<p>Tu
-    profesor particular de </p>\n\n<b>\n\n<div class=\"innerIam\">\n\nmatemáticas<br
+    profesor particular de </p>\n\n<div class=\"innerIam\">\n\n<b>\n\nmatemáticas<br
     />   \n\nfísica<br /> \n\nestadística\n\n</div>\n\n</b>\n\n</div>\n\n</body>"
   content: ''
   cta:
