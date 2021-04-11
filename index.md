@@ -13,7 +13,7 @@ page_sections:
   headline: "<style>\n\n.block-hero-2 .column.text p {\n\nfont: bold 40px/50px Montserrat,
     sans-serif\n\n}\n\n.Iam {\n\nfont: normal 40px/50px Montserrat, sans-serif;\n\ncolor:
     #999;\n\n}\n\n@media (max-width: 320px) {\n\n.Iam {\n\npadding: 2em -1em;\n\n}\n\n}\n\n@media
-    (min-width: 321px) and (max-width: 375px) {\n\n.Iam {\n\npadding: 2em 2em;\n\n}\n\n}\n\n.Iam
+    (min-width: 321px) and (max-width: 375px) {\n\n.Iam {\n\npadding: 2em 1em;\n\n}\n\n}\n\n.Iam
     p {\n\nheight: 50px;\n\nfloat: left;\n\nmargin-right: 0.3em;\n\n}\n\n.Iam b {\n\nfloat:
     left;\n\noverflow: hidden;\n\nposition: relative;\n\nheight: 50px;\n\ntop: 20px;\n\n}\n\n.Iam
     .innerIam {\n\ndisplay: inline-block;\n\ncolor: #e74c3c;\n\nposition: relative;\n\nwhite-space:
