@@ -99,8 +99,8 @@ page_sections:
   heading: "¿Como te puedo ayudar?"
 - template: detail-content
   block: text-1
-  headline: <img style="width:85%; height:auto; border-radius:60%;}" src="https://profematesvalencia.net/uploads/1/3/5/5/135504880/marcel_orig.jpg"
-    alt="Girl in a jacket" width="500" height="600">
+  headline: <img style="width:85%; height:auto; border-radius:60%;}" src="/uploads/2021/04/11/marcel-orig.jpg"
+    alt="teacher" width="500" height="600">
   content: <p><strong>Una de mis principales cualidades es la importancia que le doy
     al proceso de aprendizaje. Las personas aprendemos de diversas formas y es labor
     del profesor identificar cuales son los métodos que mejores resultados generan,
