@@ -17,7 +17,7 @@ page_sections:
     p {\n\nheight: 50px;\n\nfloat: left;\n\nmargin-right: 0.3em;\n\n}\n\n.Iam b {\n\nfloat:
     left;\n\noverflow: hidden;\n\nposition: relative;\n\nheight: 50px;\n\ntop: 20px;\n\n}\n\n.Iam
     .innerIam {\n\ndisplay: inline-block;\n\ncolor: #e74c3c;\n\nposition: relative;\n\nwhite-space:
-    nowrap;\n\ntop: 0;\n\nleft: 10px;\n\n/_animation_/\n\n\\-webkit-animation:move
+    nowrap;\n\ntop: 0;\n\nleft: -10px;\n\n/_animation_/\n\n\\-webkit-animation:move
     10s;\n\n\\-moz-animation:move 10s;\n\n\\-ms-animation:move 10s;\n\n -o-animation:move
     10s;\n\n    animation:move 10s;\n\n/_animation-iteration-count_/\n\n\\-webkit-animation-iteration-count:infinite;\n\n\\-moz-animation-iteration-count:infinite;\n\n\\-ms-animation-iteration-count:infinite;\n\n
     -o-animation-iteration-count:infinite;\n\n    animation-iteration-count:infinite;\n\n/_animation-delay_/\n\n\\-webkit-animation-delay:2s;\n\n\\-moz-animation-delay:2s;\n\n\\-ms-animation-delay:2s;
