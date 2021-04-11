@@ -101,9 +101,9 @@ page_sections:
   block: text-1
   headline: <img style="width:85%; height:auto; border-radius:60%;}" src="/uploads/2021/04/11/marcel_orig.png"
     alt="teacher">
-  content: '<p><strong>Una de mis principales cualidades es la importancia que le
-    doy al proceso de aprendizaje. Las personas aprendemos de diversas formas y es
-    labor del profesor identificar cuales son los métodos que mejores resultados generan,
+  content: <p><strong>Una de mis principales cualidades es la importancia que le doy
+    al proceso de aprendizaje. Las personas aprendemos de diversas formas y es labor
+    del profesor identificar cuales son los métodos que mejores resultados generan,
     siendo lo mas importante el volver atrás para solucionar o reforzar algunos conceptos
     clave.</strong></p><p><strong>No tiene mucho sentido aprender, por ejemplo, a
     derivar, si es que no comprendemos bien que es una función, ya que no haríamos
@@ -113,9 +113,7 @@ page_sections:
     el saber de forma efectiva a mis aprendices. Me es gratificante ver que comprenden
     lo que les explico.</strong></p><p><strong>Académicamente, cuento con bases muy
     sólidas para enseñar distintas disciplinas, y, profesionalmente, con la habilidad
-    de lograr que asimiles el material impartido.</strong></p><p></p><p>&lt;iframe
-    src="https://calendar.google.com/calendar/embed?src=eddymoreno10%40gmail.com&amp;ctz=Europe%2FMadrid"
-    style="border: 0" width="800" height="600" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;</p>'
+    de lograr que asimiles el material impartido.</strong></p>
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Nicaragua
