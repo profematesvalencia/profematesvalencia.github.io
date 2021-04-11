@@ -14,10 +14,10 @@ page_sections:
     sans-serif\n\n}\n\n.Iam {\n\nfont: normal 40px/50px Montserrat, sans-serif;\n\ncolor:
     #999;\n\n}\n\n@media (max-width: 320px) {\n\n.Iam {\n\npadding: 2em -1em;\n\n}\n\n}\n\n@media
     (min-width: 321px) and (max-width: 345px) {\n\n.Iam {\n\npadding: 2em 0em;\n\n}\n\n}\n\n.Iam
-    p {\n\nheight: 50px;\n\nfloat: left;\n\n}\n\n.Iam b {\n\noverflow: hidden;\n\nposition:
-    relative;\n\nheight: 50px;\n\ntop: 20px;\n\n}\n\n.Iam .innerIam {\n\ndisplay:
-    inline-block;\n\ncolor: #e74c3c;\n\nposition: relative;\n\nwhite-space: nowrap;\n\ntop:
-    0;\n\nleft: 0;\n\n/_animation_/\n\n\\-webkit-animation:move 10s;\n\n\\-moz-animation:move
+    p {\n\nheight: 50px;\n\nfloat: left;\n\nmargin-right: 0.3em;\n\n}\n\n.Iam b {\n\nfloat:
+    left;\n\nposition: relative;\n\nheight: 50px;\n\ntop: 20px;\n\n}\n\n.Iam .innerIam
+    {\n\ndisplay: inline-block;\n\ncolor: #e74c3c;\n\nposition: relative;\n\nwhite-space:
+    nowrap;\n\ntop: 0;\n\nleft: 0;\n\n/_animation_/\n\n\\-webkit-animation:move 10s;\n\n\\-moz-animation:move
     10s;\n\n\\-ms-animation:move 10s;\n\n -o-animation:move 10s;\n\n    animation:move
     10s;\n\n/_animation-iteration-count_/\n\n\\-webkit-animation-iteration-count:infinite;\n\n\\-moz-animation-iteration-count:infinite;\n\n\\-ms-animation-iteration-count:infinite;\n\n
     -o-animation-iteration-count:infinite;\n\n    animation-iteration-count:infinite;\n\n/_animation-delay_/\n\n\\-webkit-animation-delay:2s;\n\n\\-moz-animation-delay:2s;\n\n\\-ms-animation-delay:2s;
