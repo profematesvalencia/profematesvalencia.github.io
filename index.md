@@ -129,15 +129,11 @@ page_sections:
   media:
     image: ''
     alt_text: ''
-- template: full-width-media-element
-  block: media-1
-  slug: ''
-  image: ''
-  caption: ''
 - template: detail-content
   block: text-1
   headline: ''
-  content: ''
+  content: '<p>&lt;iframe src="https://calendar.google.com/calendar/embed?src=eddymoreno10%40gmail.com&amp;ctz=Europe%2FMadrid"
+    style="border: 0" width="800" height="600" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;</p>'
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Nicaragua
