@@ -10,7 +10,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<style>\n\n.Iam {\n\npadding: 2em 5em;\n\nfont: normal 40px/50px Montserrat,
+  headline: "<style>\n\n.Iam {\n\npadding: 2em 5em;\n\nfont: normal 40px Montserrat,
     sans-serif;\n\ncolor: #999;\n\n}\n\n.Iam p {\n\nheight: 50px;\n\nfloat: left;\n\nmargin-right:
     0.3em;\n\n}\n\n.Iam b {\n\nfloat: left;\n\noverflow: hidden;\n\nposition: relative;\n\nheight:
     50px;\n\ntop: 40px;\n\n}\n\n.Iam .innerIam {\n\ndisplay: inline-block;\n\ncolor:
