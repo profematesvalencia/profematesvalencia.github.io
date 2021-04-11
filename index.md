@@ -126,6 +126,14 @@ page_sections:
   media:
     image: ''
     alt_text: ''
+- template: 1-column-text
+  block: one-column-1
+  slug: '<iframe src="https://calendar.google.com/calendar/u/0?cid=ZWRkeW1vcmVubzEwQGdtYWlsLmNvbQ"
+    style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>'
+  headline: '<iframe src="https://calendar.google.com/calendar/u/0?cid=ZWRkeW1vcmVubzEwQGdtYWlsLmNvbQ"
+    style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>'
+  content: '&lt;iframe src="https://calendar.google.com/calendar/u/0?cid=ZWRkeW1vcmVubzEwQGdtYWlsLmNvbQ"
+    style="border: 0" width="800" height="600" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;'
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Nicaragua
