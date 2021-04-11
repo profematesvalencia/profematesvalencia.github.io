@@ -10,8 +10,8 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<style>\n\n.block-hero-2 .column.text p {\n\nfont: bold 40px/50px Montserrat,
-    sans-serif\n\n}\n\n.Iam {\n\npadding: 2em 5em;\n\nfont: normal40px/50px Montserrat,
+  headline: "<style>\n\n.block-hero-2 .column.text p {\n\nfont: normal 40px/50px Montserrat,
+    sans-serif\n\n}\n\n.Iam {\n\npadding: 2em 5em;\n\nfont: normal 40px/50px Montserrat,
     sans-serif;\n\ncolor: #999;\n\n}\n\n.Iam p {\n\nheight: 50px;\n\nfloat: left;\n\nmargin-right:
     0.3em;\n\n}\n\n.Iam b {\n\nfloat: left;\n\noverflow: hidden;\n\nposition: relative;\n\nheight:
     50px;\n\ntop: 40px;\n\n}\n\n.Iam .innerIam {\n\ndisplay: inline-block;\n\ncolor:
@@ -31,7 +31,7 @@ page_sections:
     { top: -150px; }\n\n80% { top: -200px; }\n\n}\n\n</style>\n\n<head>\n\n<link rel=\"stylesheet\"
     type=\"text/css\" href=\"style.css\">\n\n<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700'
     rel='stylesheet' type='text/css'>\n\n</head>\n\n<body>\n\n<div class=\"Iam\">\n\n<p>Tu
-    profesor particular de </p>\n\n<div class=\"innerIam\">\n\n<b>\n\nmatemáticas<br
+    profesor particular de </p>\n\n<b>\n\n<div class=\"innerIam\">\n\nmatemáticas<br
     />   \n\nfísica<br /> \n\nestadística\n\n</div>\n\n</b>\n\n</div>\n\n</body>"
   content: ''
   cta:
