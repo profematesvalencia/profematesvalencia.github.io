@@ -17,7 +17,7 @@ page_sections:
     (min-width: 376px) and (max-width: 425px) {\n\n.Iam {\n\npadding: 2em 1em;\n\n}\n\n}\n\n@media
     (min-width: 426px) and (max-width: 768px) {\n\n.Iam {\n\npadding: 2em 1.5em;\n\n}\n\n}\n\n@media
     (min-width: 769px) and (max-width: 1024px)  {\n\n.Iam {\n\npadding: 1em 5em;\n\n}\n\n}\n\n@media
-    (min-width: 1025px)  {\n\n.Iam {\n\npadding: 1em 5em;\n\n}\n\n}\n\n.Iam p {\n\nheight:
+    (min-width: 1025px)  {\n\n.Iam {\n\npadding: 1em 7em;\n\n}\n\n}\n\n.Iam p {\n\nheight:
     50px;\n\nfloat: left;\n\nmargin-right: 0.3em;\n\n}\n\n.Iam b {\n\nfloat: left;\n\noverflow:
     hidden;\n\nposition: relative;\n\nheight: 50px;\n\ntop: 20px;\n\n}\n\n.Iam .innerIam
     {\n\ndisplay: inline-block;\n\ncolor: #e74c3c;\n\nposition: relative;\n\nwhite-space:
