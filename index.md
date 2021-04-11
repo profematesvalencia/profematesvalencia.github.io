@@ -117,11 +117,12 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  slug: '<iframe src="https://calendar.google.com/calendar/embed?src=eddymoreno10%40gmail.com&ctz=Europe%2FMadrid"
+  slug: '<iframe src="https://calendar.google.com/calendar/u/0?cid=ZWRkeW1vcmVubzEwQGdtYWlsLmNvbQ"
     style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>'
   headline: '&lt;iframe src="https://calendar.google.com/calendar/u/0?cid=ZWRkeW1vcmVubzEwQGdtYWlsLmNvbQ"
     style="border: 0" width="800" height="600" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;'
-  content: '&lt;iframe src="https://calendar.google.com/calendar/embed?src=eddymoreno10%40gmail.com&amp;ctz=Europe%2FMadrid"
+  content: '&lt;iframe src="<a href="https://calendar.google.com/calendar/u/0?cid=ZWRkeW1vcmVubzEwQGdtYWlsLmNvbQ"
+    title="https://calendar.google.com/calendar/u/0?cid=ZWRkeW1vcmVubzEwQGdtYWlsLmNvbQ">https://calendar.google.com/calendar/u/0?cid=ZWRkeW1vcmVubzEwQGdtYWlsLmNvbQ</a>"
     style="border: 0" width="800" height="600" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;'
   media:
     image: ''
