@@ -113,7 +113,7 @@ page_sections:
     el saber de forma efectiva a mis aprendices. Me es gratificante ver que comprenden
     lo que les explico.</strong></p><p><strong>Académicamente, cuento con bases muy
     sólidas para enseñar distintas disciplinas, y, profesionalmente, con la habilidad
-    de lograr que asimiles el material impartido.</strong></p>
+    de lograr que asimiles el material impartido.</strong></p><p></p><p>https://calendar.google.com/calendar/embed?src=eddymoreno10%40gmail.com&amp;ctz=Europe%2FMadrid</p>
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Nicaragua
