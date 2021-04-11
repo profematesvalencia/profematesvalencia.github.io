@@ -99,7 +99,7 @@ page_sections:
   heading: "¿Como te puedo ayudar?"
 - template: detail-content
   block: text-1
-  headline: <img style="width:85%; height:auto; border-radius:60%;}" src="/uploads/2021/04/11/marcel-orig.jpg"
+  headline: <img style="width:85%; height:auto; border-radius:60%;}" src="/uploads/2021/04/11/marcel_orig.png"
     alt="teacher">
   content: <p><strong>Una de mis principales cualidades es la importancia que le doy
     al proceso de aprendizaje. Las personas aprendemos de diversas formas y es labor
