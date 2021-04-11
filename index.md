@@ -16,8 +16,8 @@ page_sections:
     0.3em;\n\n}\n\n.Iam b {\n\nfloat: left;\n\noverflow: hidden;\n\nposition: relative;\n\nheight:
     50px;\n\ntop: 20px;\n\n}\n\n.Iam .innerIam {\n\ndisplay: inline-block;\n\ncolor:
     #e74c3c;\n\nposition: relative;\n\nwhite-space: nowrap;\n\ntop: 0;\n\nleft: 0;\n\n/_animation_/\n\n\\-webkit-animation:move
-    8s;\n\n\\-moz-animation:move 8s;\n\n\\-ms-animation:move 8s;\n\n -o-animation:move
-    8s;\n\n    animation:move 8s;\n\n/_animation-iteration-count_/\n\n\\-webkit-animation-iteration-count:infinite;\n\n\\-moz-animation-iteration-count:infinite;\n\n\\-ms-animation-iteration-count:infinite;\n\n
+    9s;\n\n\\-moz-animation:move 9s;\n\n\\-ms-animation:move 9s;\n\n -o-animation:move
+    9s;\n\n    animation:move 9s;\n\n/_animation-iteration-count_/\n\n\\-webkit-animation-iteration-count:infinite;\n\n\\-moz-animation-iteration-count:infinite;\n\n\\-ms-animation-iteration-count:infinite;\n\n
     -o-animation-iteration-count:infinite;\n\n    animation-iteration-count:infinite;\n\n/_animation-delay_/\n\n\\-webkit-animation-delay:2s;\n\n\\-moz-animation-delay:2s;\n\n\\-ms-animation-delay:2s;
     \  \n\n\\-o-animation-delay:2s;      \n\nanimation-delay:2s;\n\n}\n\n@keyframes
     move{\n\n0%  { top: 0px; }\n\n20% { top: -50px; }\n\n40% { top: -100px; }\n\n/*60%
@@ -31,7 +31,7 @@ page_sections:
     }  40% { top: -100px; }  \n\n/*60% { top: -150px; }  80% { top: -200px; } */\n\n}\n\n</style>\n\n<head>\n\n<link
     rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">\n\n<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700'
     rel='stylesheet' type='text/css'>\n\n</head>\n\n<body>\n\n<div class=\"Iam\">\n\n<p>Tu
-    profesor particular de </p>\n\n<b>\n\n<div class=\"innerIam\">\n\nmatemáticas<br
+    profesor particular de </p>\n\n<b>\n\n<div class=\"innerIam\">\n\nmatemática<br
     />   \n\nfísica<br /> \n\nestadística\n\n</div>\n\n</b>\n\n</div>\n\n</body>"
   content: ''
   cta:
