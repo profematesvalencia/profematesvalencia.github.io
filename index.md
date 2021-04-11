@@ -32,10 +32,9 @@ page_sections:
     move {\n\n0%  { top: 0px; }\n\n20% { top: -50px; }\n\n40% { top: -100px; }\n\n60%
     { top: -150px; }\n\n80% { top: -200px; }\n\n}\n\n</style>\n\n<head>\n\n<link rel=\"stylesheet\"
     type=\"text/css\" href=\"style.css\">\n\n<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700'
-    rel='stylesheet' type='text/css'>\n\n</head>\n\n<body>\n\n<p class=\"Iamnot\">This
-    is</p>\n\n<div class=\"Iam\">\n\n<p>This is</p>\n\n<b>\n\n<div class=\"innerIam\">\n\nleggera<br
-    /> \n\na theme in progress<br />\n\nbuilt on bootstrap<br />\n\nhow I learn stuff<br
-    />\n\nhow we do it\n\n</div>\n\n</b>\n\n</div>\n\n</body>"
+    rel='stylesheet' type='text/css'>\n\n</head>\n\n<body>\n\n<div class=\"Iam\">\n\n<p>Tu
+    profesor particular de </p>\n\n<b>\n\n<div class=\"innerIam\">\n\nmatemáticas<br
+    />   \n\nfísica<br /> \n\nEstadística<br /> \n\n</div>\n\n</b>\n\n</div>\n\n</body>"
   content: ''
   cta:
     enabled: false
