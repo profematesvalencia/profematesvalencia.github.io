@@ -114,6 +114,12 @@ page_sections:
     lo que les explico.</strong></p><p><strong>Académicamente, cuento con bases muy
     sólidas para enseñar distintas disciplinas, y, profesionalmente, con la habilidad
     de lograr que asimiles el material impartido.</strong></p>
+- template: 1-column-text
+  block: one-column-1
+  content: '&lt;iframe src="https://calendar.google.com/calendar/embed?src=eddymoreno10%40gmail.com&amp;ctz=Europe%2FMadrid"
+    style="border: 0" width="800" height="600" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;'
+  headline: ''
+  slug: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Nicaragua
