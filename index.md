@@ -14,7 +14,7 @@ page_sections:
     sans-serif\n\n}\n\n.Iam {\n\npadding: 2em 5em;\n\nfont: normal 40px/50px Montserrat,
     sans-serif;\n\ncolor: #999;\n\n}\n\n.Iam p {\n\nheight: 50px;\n\nfloat: left;\n\nmargin-right:
     0.3em;\n\n}\n\n.Iam b {\n\nfloat: left;\n\noverflow: hidden;\n\nposition: relative;\n\nheight:
-    50px;\n\ntop: 30px;\n\n}\n\n.Iam .innerIam {\n\ndisplay: inline-block;\n\ncolor:
+    50px;\n\ntop: 25px;\n\n}\n\n.Iam .innerIam {\n\ndisplay: inline-block;\n\ncolor:
     #e74c3c;\n\nposition: relative;\n\nwhite-space: nowrap;\n\ntop: 0;\n\nleft: 0;\n\n/_animation_/\n\n\\-webkit-animation:move
     10s;\n\n\\-moz-animation:move 10s;\n\n\\-ms-animation:move 10s;\n\n -o-animation:move
     10s;\n\n    animation:move 10s;\n\n/_animation-iteration-count_/\n\n\\-webkit-animation-iteration-count:infinite;\n\n\\-moz-animation-iteration-count:infinite;\n\n\\-ms-animation-iteration-count:infinite;\n\n
