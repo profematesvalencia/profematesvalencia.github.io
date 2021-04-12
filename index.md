@@ -119,16 +119,16 @@ page_sections:
   heading: "¿Como te puedo ayudar?"
 - template: detail-content
   block: text-1
-  headline: '<h2 style="text-align: center; display: block;">Metodología de enseñanza</h2><style>@media
-    (min-width:320px) {.centered-image {width:70%;  display: block;   margin-left:
-    auto;   margin-right: auto; }}</style><br><br><br><img class="centered-image"
+  headline: '<style>@media (min-width:320px) {.centered-image {width:70%;  display:
+    block;   margin-left: auto;   margin-right: auto; }}</style> <h2 style="text-align:
+    center;">Metodología de enseñanza</h2><br><br><br><div><img class="centered-image"
     src="/uploads/2021/04/11/marcel_orig.png" alt="teacher">'
   content: |-
-    <style> </style><p>Una de mis principales cualidades es la importancia que le doy al proceso de aprendizaje. Todos aprendemos a ritmos distintos y es labor del docente identificar cuales son los métodos que generan mejores resultados, siendo lo mas importante el volver atrás para solucionar o reforzar algunos conceptos clave.</p>
+    <p>Una de mis principales cualidades es la importancia que le doy al proceso de aprendizaje. Todos aprendemos a ritmos distintos y es labor del docente identificar cuales son los métodos que generan mejores resultados, siendo lo mas importante el volver atrás para solucionar o reforzar algunos conceptos clave.</p>
 
     <p>Mi experiencia me ha permitido conocer bien las necesidades de los estudiantes y me hace muy feliz ver como logro traspasar el saber de forma efectiva a mis aprendices. Me es gratificante ver que comprenden lo que les explico.</p>
 
-    <p>Académicamente, cuento con bases muy sólidas para enseñar distintas disciplinas, y, profesionalmente, con la habilidad de lograr que asimiles el material impartido.</p>
+    <p>Académicamente, cuento con bases muy sólidas para enseñar distintas disciplinas, y, profesionalmente, con la habilidad de lograr que asimiles el material impartido.</p></div>
 - template: 1-column-text
   block: one-column-1
   content: ''
