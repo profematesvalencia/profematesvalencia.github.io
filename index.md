@@ -130,7 +130,7 @@ page_sections:
     {flex: auto!important;} .centered-image {width: 50%;  display: block;   margin-left:
     auto;   margin-right: auto; padding-bottom: 10%;}} @media (min-width: 769px) and
     (max-width: 1024px) {.block-text-1 .headline {flex: auto!important;} .centered-image
-    {width: 50%;  display: block;   margin-left: auto;   margin-right: auto; padding-bottom:
+    {width: 40%;  display: block;   margin-left: auto;   margin-right: auto; padding-bottom:
     7%; padding-top: 2%}} @media (min-width: 1025px) {.block-text-1 .headline {flex:
     auto!important;} .centered-image {width: 30%;  display: block;   margin-left:
     auto;   margin-right: auto; padding-bottom: 5%; padding-top: 1%}}</style><div
