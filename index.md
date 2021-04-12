@@ -126,7 +126,7 @@ page_sections:
     auto;   margin-right: auto; padding-bottom: 10%;}} @media (min-width: 769px) and
     (max-width: 1024px) {.block-text-1 .headline {flex: auto!important;} .centered-image
     {width: 50%;  display: block;   margin-left: auto;   margin-right: auto; padding-bottom:
-    7%; padding-top: 5%}}</style><h2 style="text-align: center; width: 100%; display:
+    7%; padding-top: 2%}}</style><h2 style="text-align: center; width: 100%; display:
     block;">Metodología de enseñanza</h2><br><br><img class="centered-image" src="/uploads/2021/04/11/marcel_orig.png"
     alt="teacher"><p>Una de mis principales cualidades es la importancia que le doy
     al proceso de aprendizaje. Todos aprendemos a ritmos distintos y es labor del
