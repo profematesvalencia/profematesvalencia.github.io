@@ -114,18 +114,6 @@ page_sections:
     lo que les explico.</strong></p><p><strong>Académicamente, cuento con bases muy
     sólidas para enseñar distintas disciplinas, y, profesionalmente, con la habilidad
     de lograr que asimiles el material impartido.</strong></p>
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  slug: '<iframe src="https://calendar.google.com/calendar/u/0?cid=ZWRkeW1vcmVubzEwQGdtYWlsLmNvbQ"
-    style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>'
-  headline: '&lt;iframe src="https://calendar.google.com/calendar/u/0?cid=ZWRkeW1vcmVubzEwQGdtYWlsLmNvbQ"
-    style="border: 0" width="800" height="600" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;'
-  content: '&lt;iframe src="https://calendar.google.com/calendar/u/0?cid=ZWRkeW1vcmVubzEwQGdtYWlsLmNvbQ"
-    style="border: 0" width="800" height="600" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;'
-  media:
-    image: ''
-    alt_text: ''
 - template: 1-column-text
   block: one-column-1
   content: ''
