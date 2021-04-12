@@ -61,7 +61,7 @@ page_sections:
   media_alignment: Left
   slug: bio
   headline: |-
-    <div id="quien">&bspn</div>
+    <div id="quien">&nbsp;</div>
 
     <style>
 
