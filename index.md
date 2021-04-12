@@ -132,7 +132,10 @@ page_sections:
   headline: '<style>@media (max-width: 320px) {.responsive-iframe-container {padding-bottom:
     120%;}} @media (min-width: 321px) and (max-width: 375px)  {.responsive-iframe-container
     {padding-bottom: 110%;}} @media (min-width: 376px) and (max-width: 425px) {.responsive-iframe-container
-    {padding-bottom: 100%;}} .responsive-iframe-container {     position: relative;     height:
+    {padding-bottom: 100%;}} @media (min-width: 426px) and (max-width: 768px)  {.responsive-iframe-container
+    {padding-bottom: 70%;}} @media (min-width: 769px) and (max-width: 1024px)  {.responsive-iframe-container
+    {padding-bottom: 60%;}} @media (min-width: 1025px)  {.responsive-iframe-container
+    {padding-bottom: 40%;}} .responsive-iframe-container {     position: relative;     height:
     0;     overflow: auto; }   .responsive-iframe-container iframe,   .vresponsive-iframe-container
     object,  .vresponsive-iframe-container embed {     position: absolute;     top:
     0;     left: 0;     width: 141%;     height: 100%; }</style><div class="responsive-iframe-container"><iframe
