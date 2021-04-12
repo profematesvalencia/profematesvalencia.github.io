@@ -119,10 +119,10 @@ page_sections:
   heading: "¿Como te puedo ayudar?"
 - template: detail-content
   block: text-1
-  headline: '<style>@media (min-width:320px) {.centered-image {width:70%;  display:
-    block;   margin-left: auto;   margin-right: auto; }}</style><h2 style="float:
-    center;">Metodología de enseñanza</h2><br><br><br><img class="centered-image"
-    src="/uploads/2021/04/11/marcel_orig.png" alt="teacher">'
+  headline: '<style>@media (min-width:320px) {.centered-image {width:70%;    margin-left:
+    auto;   margin-right: auto; }}</style><h2 style="float: center;">Metodología de
+    enseñanza</h2><br><br><br><img class="centered-image" src="/uploads/2021/04/11/marcel_orig.png"
+    alt="teacher">'
   content: |-
     <style> </style><p>Una de mis principales cualidades es la importancia que le doy al proceso de aprendizaje. Todos aprendemos a ritmos distintos y es labor del docente identificar cuales son los métodos que generan mejores resultados, siendo lo mas importante el volver atrás para solucionar o reforzar algunos conceptos clave.</p>
 
