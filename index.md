@@ -9,6 +9,8 @@ page_sections:
   navigation:
   - link_text: ''
     link: "¿Quien soy?"
+  - link_text: "¿Como te puedo ayudar?"
+    link: ''
 - template: hero-banner-w-image
   block: hero-2
   slug: features
