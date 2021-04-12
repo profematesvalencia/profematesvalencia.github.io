@@ -134,7 +134,7 @@ page_sections:
     {padding-bottom: 110%;}} @media (min-width: 376px) and (max-width: 425px) {.responsive-iframe-container
     {padding-bottom: 100%;}} @media (min-width: 426px) and (max-width: 768px)  {.responsive-iframe-container
     {padding-bottom: 70%;}} @media (min-width: 769px) and (max-width: 1024px)  {.responsive-iframe-container
-    {padding-bottom: 60%;}} @media (min-width: 1025px)  {.responsive-iframe-container
+    {padding-bottom: 50%;}} @media (min-width: 1025px)  {.responsive-iframe-container
     {padding-bottom: 40%;}} .responsive-iframe-container {     position: relative;     height:
     0;     overflow: auto; }   .responsive-iframe-container iframe,   .vresponsive-iframe-container
     object,  .vresponsive-iframe-container embed {     position: absolute;     top:
