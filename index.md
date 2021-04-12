@@ -16,7 +16,8 @@ page_sections:
     link_text: Disponibilidad horaria
   logo: "/uploads/2021/03/24/logo_large.png"
   cta:
-    url: https://wa.me/+34635122143/?text=Hola profematesvalencia.net,%me%encuentro%interesado%en%recibir%clases%contigo%:)
+    url: https://wa.me/+34635122143/?text=Hola profematesvalencia.net, me encuentro
+      interesado en recibir clases contigo :)
     button_text: "<style>.button.small {font-size: 0.8rem;} .button.primary {background-color:
       #000;}</style>Contactame"
 - template: hero-banner-w-image
