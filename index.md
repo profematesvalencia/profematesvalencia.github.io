@@ -6,7 +6,9 @@ page_sections:
 - template: navigation-header
   block: header-1
   logo: "/uploads/2021/03/24/logo_large.png"
-  navigation: []
+  navigation:
+  - link_text: ''
+    link: "¿Quien soy?"
 - template: hero-banner-w-image
   block: hero-2
   slug: features
