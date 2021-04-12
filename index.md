@@ -8,12 +8,12 @@ page_sections:
   logo: "/uploads/2021/03/24/logo_large.png"
   navigation:
   - link_text: "¿Quien soy?"
-    link: ''
+    link: "#quien"
   - link_text: "¿Como te puedo ayudar?"
-    link: ''
+    link: "#ayuda"
   - link: "#metodologia"
     link_text: Metodología de enseñanza
-  - link: ''
+  - link: "#disponibilidad"
     link_text: Disponibilidad horaria
 - template: hero-banner-w-image
   block: hero-2
