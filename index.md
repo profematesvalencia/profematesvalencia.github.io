@@ -119,7 +119,8 @@ page_sections:
       para proponerte ejercicios del mismo nivel y así asegures una excelente calificación.​
   content: "<h1></h1>"
   heading_text: '<style> h3 {font-size: 1.1rem; font-weight: 600;} p {font-size:1.1rem;
-    font-weight: 500!important;}</style><h2 id="ayuda">¿Como te puedo ayudar?</h2>'
+    font-weight: 500!important;}</style><div id="ayuda">&nbsp;</div><h2>¿Como te puedo
+    ayudar?</h2>'
   heading: "¿Como te puedo ayudar?"
 - template: detail-content
   block: text-1
