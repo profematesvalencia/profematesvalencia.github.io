@@ -13,8 +13,8 @@ page_sections:
     link: ''
   - link: ''
     link_text: Metodología de enseñanza
-  - link: Disponibilidad horaria
-    link_text: ''
+  - link: ''
+    link_text: Disponibilidad horaria
 - template: hero-banner-w-image
   block: hero-2
   slug: features
