@@ -138,7 +138,7 @@ page_sections:
     {padding-bottom: 50%;}} .responsive-iframe-container {     position: relative;     height:
     0;     overflow: auto; }   .responsive-iframe-container iframe,   .vresponsive-iframe-container
     object,  .vresponsive-iframe-container embed {     position: absolute;     top:
-    0;     left: 0;     width: 141%;     height: 100%; }</style><h2>Disponibilidad</h2><br><div
+    0;     left: 0;     width: 141%;     height: 100%; }</style><h2>Disponibilidad</h2><br><br><br><div
     class="responsive-iframe-container"><iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FMadrid&amp;src=bWFyY2VsLnNvdWxvZHJlQGdtYWlsLmNvbQ&amp;color=%23D50000&amp;showTitle=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=WEEK"
     style="border-width:0" height="600" frameborder="0" scrolling="no"></iframe> </div>'
 - template: simple-footer
