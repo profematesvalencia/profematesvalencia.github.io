@@ -121,7 +121,7 @@ page_sections:
   block: text-1
   headline: '<style>p {text-align: center;} @media (max-width:425x) {.centered-image
     {width:70%;  display: block;   margin-left: auto;   margin-right: auto; padding-bottom:
-    15%;}} @media (min-width: 426px) and (max-width: 768px) {.centered-image {width:100%;  display:
+    15%;}} @media (min-width: 426px) and (max-width: 768px) {.centered-image {width:85%;  display:
     block;   margin-left: auto;   margin-right: auto; padding-bottom: 15%;}}</style><h2
     style="text-align: center; width: 100%; ">Metodología de enseñanza</h2><br><br><img
     class="centered-image" src="/uploads/2021/04/11/marcel_orig.png" alt="teacher"><p>Una
