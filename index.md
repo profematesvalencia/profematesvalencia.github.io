@@ -8,12 +8,12 @@ page_sections:
   logo: "/uploads/2021/03/24/logo_large.png"
   navigation:
   - link_text: "¿Quien soy?"
-    link: "#quien"
+    link: "#quien-soy"
   - link_text: "¿Como te puedo ayudar?"
-    link: "#ayuda"
+    link: "#como-puedo-ayudar"
   - link: "#metodologia"
     link_text: Metodología de enseñanza
-  - link: "#disponibilidad"
+  - link: "#disponibilidad-horaria"
     link_text: Disponibilidad horaria
 - template: hero-banner-w-image
   block: hero-2
@@ -61,7 +61,7 @@ page_sections:
   media_alignment: Left
   slug: bio
   headline: |-
-    <div id="quien">&nbsp;</div>
+    <div id="quien-soy"> </div>
 
     <style>
 
@@ -119,8 +119,8 @@ page_sections:
       para proponerte ejercicios del mismo nivel y así asegures una excelente calificación.​
   content: "<h1></h1>"
   heading_text: '<style> h3 {font-size: 1.1rem; font-weight: 600;} p {font-size:1.1rem;
-    font-weight: 500!important;}</style><div id="ayuda">&nbsp;</div><h2>¿Como te puedo
-    ayudar?</h2>'
+    font-weight: 500!important;}</style><div id="como-puedo-ayudar">&nbsp;</div><h2>¿Como
+    te puedo ayudar?</h2>'
   heading: "¿Como te puedo ayudar?"
 - template: detail-content
   block: text-1
@@ -159,7 +159,7 @@ page_sections:
     {padding-bottom: 50%;}} .responsive-iframe-container {     position: relative;     height:
     0;     overflow: auto; }   .responsive-iframe-container iframe,   .vresponsive-iframe-container
     object,  .vresponsive-iframe-container embed {     position: absolute;     top:
-    0;     left: 0;     width: 141%;     height: 100%; }</style><div id="disponibilidad">&nbsp;</div><h2>Disponibilidad
+    0;     left: 0;     width: 141%;     height: 100%; }</style><div id="disponibilidad-horaria">&nbsp;</div><h2>Disponibilidad
     horaria</h2><br><br><br><div class="responsive-iframe-container"><iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FMadrid&amp;src=bWFyY2VsLnNvdWxvZHJlQGdtYWlsLmNvbQ&amp;color=%23D50000&amp;showTitle=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=WEEK"
     style="border-width:0" height="600" frameborder="0" scrolling="no"></iframe> </div>'
 - template: simple-footer
