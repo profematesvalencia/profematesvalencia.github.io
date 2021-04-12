@@ -164,7 +164,7 @@ page_sections:
     style="border-width:0" height="600" frameborder="0" scrolling="no"></iframe> </div>'
 - template: simple-footer
   block: footer-1
-  content: '&lt;text&gt;Desde Nicaragua con ❤︎&lt;/text&gt;&lt;br&gt;<br>&lt;text&gt;Diseñado
-    por <a href="http://eddzequiel.github.io/" target="_blank">Eddy Moreno</a>&lt;/text&gt;'
+  content: Diseñado con ❤︎ por <a href="http://eddzequiel.github.io/" target="_blank">Eddy
+    Moreno</a><br>
 
 ---
