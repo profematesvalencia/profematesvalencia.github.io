@@ -164,6 +164,6 @@ page_sections:
     style="border-width:0" height="600" frameborder="0" scrolling="no"></iframe> </div>'
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎ in Nicaragua
+  content: "**Desde Nicaragua con ❤︎ Desarrollado por** [**Eddy Moreno. **](http://eddzequiel.github.io/)"
 
 ---
