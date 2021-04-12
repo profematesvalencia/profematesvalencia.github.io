@@ -7,8 +7,8 @@ page_sections:
   block: header-1
   logo: "/uploads/2021/03/24/logo_large.png"
   navigation:
-  - link_text: ''
-    link: "¿Quien soy?"
+  - link_text: "¿Quien soy?"
+    link: ''
   - link_text: "¿Como te puedo ayudar?"
     link: ''
 - template: hero-banner-w-image
