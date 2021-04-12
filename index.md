@@ -120,8 +120,8 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: '<style>p {text-align: center;} @media (max-width:425px) {.centered-image
-    {width:70%;  display: block;   margin-left: auto;   margin-right: auto; padding-bottom:
-    15%;}} @media (min-width: 426px) and (max-width: 768px) {.block-text-1 .headline
+    {width:50%;  display: block;   margin-left: auto;   margin-right: auto; padding-bottom:
+    10%;}} @media (min-width: 426px) and (max-width: 768px) {.block-text-1 .headline
     {flex: auto!important;} .centered-image {width: 70%;  display: block;   margin-left:
     auto;   margin-right: auto; padding-bottom: 15%;}}</style><h2 style="text-align:
     center; width: 100%; display: block;">Metodología de enseñanza</h2><br><br><img
