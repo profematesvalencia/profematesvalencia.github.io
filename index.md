@@ -129,11 +129,11 @@ page_sections:
   block: one-column-1
   content: ''
   slug: ''
-  headline: '<style>   .responsive-iframe-container {     position: relative;     padding-bottom:
-    120%;     padding-top: 30px;     height: 0;     overflow: auto; }   @media (max-width:
-    320px) {.vresponsive-iframe-container object  .vresponsive-iframe-container embed
-    {     position: absolute;     top: 0;     left: 0;     width: 141%;     height:
-    100%; }}  </style><div class="responsive-iframe-container"><iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FMadrid&amp;src=bWFyY2VsLnNvdWxvZHJlQGdtYWlsLmNvbQ&amp;color=%23D50000&amp;showTitle=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=WEEK"
+  headline: '<style>.responsive-iframe-container {     position: relative;     padding-bottom:
+    120%;     padding-top: 30px;     height: 0;     overflow: auto; }   .responsive-iframe-container
+    iframe,   .vresponsive-iframe-container object,  .vresponsive-iframe-container
+    embed {     position: absolute;     top: 0;     left: 0;     width: 141%;     height:
+    100%; }</style><div class="responsive-iframe-container"><iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FMadrid&amp;src=bWFyY2VsLnNvdWxvZHJlQGdtYWlsLmNvbQ&amp;color=%23D50000&amp;showTitle=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=WEEK"
     style="border-width:0"frameborder="0" scrolling="no"></iframe> </div>'
 - template: simple-footer
   block: footer-1
