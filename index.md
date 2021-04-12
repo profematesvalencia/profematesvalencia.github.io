@@ -21,11 +21,11 @@ page_sections:
   headline: "<style>\n\nhtml {  \nscroll-behavior: smooth;  \n}\n\n.block-hero-2 .column.text
     p {\n\nfont: bold 40px/50px Montserrat, sans-serif\n\n}\n\n.Iam {\n\nfont: normal
     40px/50px Montserrat, sans-serif;\n\ncolor: #999;\n\n}\n\n@media (max-width: 1024px)
-    {ul  .nav-item {display: none;}}\n\n@media (max-width: 320px) {\n\n.Iam {\n\npadding:
-    2em -1em;\n\n}\n\n}\n\n@media (min-width: 321px) and (max-width: 375px) {\n\n.Iam
-    {\n\npadding: 2em 0.75em;\n\n}\n\n}\n\n@media (min-width: 376px) and (max-width:
-    425px) {\n\n.Iam {\n\npadding: 2em 1em;\n\n}\n\n}\n\n@media (min-width: 426px)
-    and (max-width: 768px) {\n\n.Iam {\n\npadding: 2em 1.5em;\n\n}\n\n}\n\n@media
+    {.block-header-1 .nav-item a {display: none;}}\n\n@media (max-width: 320px) {\n\n.Iam
+    {\n\npadding: 2em -1em;\n\n}\n\n}\n\n@media (min-width: 321px) and (max-width:
+    375px) {\n\n.Iam {\n\npadding: 2em 0.75em;\n\n}\n\n}\n\n@media (min-width: 376px)
+    and (max-width: 425px) {\n\n.Iam {\n\npadding: 2em 1em;\n\n}\n\n}\n\n@media (min-width:
+    426px) and (max-width: 768px) {\n\n.Iam {\n\npadding: 2em 1.5em;\n\n}\n\n}\n\n@media
     (min-width: 769px) and (max-width: 1024px)  {\n\n.Iam {\n\npadding: 1em 5em;\n\n}\n\n}\n\n@media
     (min-width: 1025px)  {\n\n.Iam {\n\npadding: 1em 5em;\n\n}\n\n}\n\n.Iam p {\n\nheight:
     50px;\n\nfloat: left;\n\nmargin-right: 0.3em;\n\ntext-align: initial;\n\n}\n\n.Iam
