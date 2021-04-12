@@ -120,8 +120,7 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: '<h2 style="text-align: center; display: block;">Metodología de enseñanza</h2>'
-  content: |-
-    <style>@media (min-width:320px) {.centered-image {width:70%;  display: block;   margin-left: auto;   margin-right: auto; }}</style>
+  content: |2-
 
     <img class="centered-image" src="/uploads/2021/04/11/marcel_orig.png" alt="teacher">
 
