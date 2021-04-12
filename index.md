@@ -43,8 +43,8 @@ page_sections:
     -200px; } */\n\n}\n\n@keyframes move {\n\n0%  { top: 0px; }  20% { top: -50px;
     }  40% { top: -100px; }\n\n/*60% { top: -150px; }  80% { top: -200px; } */\n\n}\n\n</style>\n\n<head>\n\n<link
     rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">\n\n<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700'
-    rel='stylesheet' type='text/css'>\n\n</head>\n\n<body>\n\n<div class=\"Iam\">\n\n<p><strong>Tu
-    profesor particular de</strong> </p>\n\n<b>\n\n<div class=\"innerIam\">\n\nmatemáticas<br
+    rel='stylesheet' type='text/css'>\n\n</head>\n\n<body>\n\n<div class=\"Iam\">\n\n<p>Tu
+    profesor particular de &nbsp;&nbsp;</p>\n\n<b>\n\n<div class=\"innerIam\">\n\nmatemáticas<br
     />\n\nfísica<br />\n\nestadística\n\n</div>\n\n</b>\n\n</div>\n\n</body>"
   content: ''
   cta:
