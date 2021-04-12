@@ -129,12 +129,16 @@ page_sections:
   block: one-column-1
   content: ''
   slug: ''
-  headline: '<style>/* Responsive iFrame */  .responsive-iframe-container { position:
-    relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;
-    }  .responsive-iframe-container iframe, .vresponsive-iframe-container object,
-    .vresponsive-iframe-container embed { position: absolute; top: 0; left: 0; width:
-    100%; height: 100%; }</style><iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FMadrid&amp;src=bWFyY2VsLnNvdWxvZHJlQGdtYWlsLmNvbQ&amp;color=%23D50000&amp;showTitle=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=WEEK"
-    style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>'
+  headline: '<style> @media (max-width: 550px) {    .big-container {        display:
+    none;    } } @media (min-width: 550px) {    .small-container {        display:
+    none;    } } /* Responsive iFrame */ .responsive-iframe-container {    position:
+    relative;    padding-bottom: 56.25%;    padding-top: 30px;    height: 0;    overflow:
+    hidden; } .responsive-iframe-container iframe,    .vresponsive-iframe-container
+    object,   .vresponsive-iframe-container embed {    position: absolute;    top:
+    0;    left: 0;    width: 100%;    height: 100%; } </style><div class="responsive-iframe-container
+    big-container"><iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FMadrid&amp;src=bWFyY2VsLnNvdWxvZHJlQGdtYWlsLmNvbQ&amp;color=%23D50000&amp;showTitle=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=WEEK"
+    style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+    </div>'
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Nicaragua
