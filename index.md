@@ -123,9 +123,9 @@ page_sections:
   content: |-
     <style> </style><p>Una de mis principales cualidades es la importancia que le doy al proceso de aprendizaje. Todos aprendemos a ritmos distintos y es labor del docente identificar cuales son los métodos que generan mejores resultados, siendo lo mas importante el volver atrás para solucionar o reforzar algunos conceptos clave.</p>
 
-    <p><strong>Mi experiencia me ha permitido conocer bien las necesidades de los estudiantes y me hace muy feliz ver como logro traspasar el saber de forma efectiva a mis aprendices. Me es gratificante ver que comprenden lo que les explico.</strong></p>
+    <p>Mi experiencia me ha permitido conocer bien las necesidades de los estudiantes y me hace muy feliz ver como logro traspasar el saber de forma efectiva a mis aprendices. Me es gratificante ver que comprenden lo que les explico.</p>
 
-    <p><strong>Académicamente, cuento con bases muy sólidas para enseñar distintas disciplinas, y, profesionalmente, con la habilidad de lograr que asimiles el material impartido.</strong></p>
+    <p>Académicamente, cuento con bases muy sólidas para enseñar distintas disciplinas, y, profesionalmente, con la habilidad de lograr que asimiles el material impartido.</p>
 - template: 1-column-text
   block: one-column-1
   content: ''
