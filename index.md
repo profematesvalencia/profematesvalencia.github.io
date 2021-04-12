@@ -21,7 +21,7 @@ page_sections:
   headline: "<style>\n\nhtml {  \nscroll-behavior: smooth;  \n}\n\n.block-hero-2 .column.text
     p {\n\nfont: bold 40px/50px Montserrat, sans-serif\n\n}\n\n.Iam {\n\nfont: normal
     40px/50px Montserrat, sans-serif;\n\ncolor: #999;\n\n}\n\n@media (max-width: 1024px)
-    { .nav-item {display: none;}}\n\n@media (max-width: 320px) {\n\n.Iam {\n\npadding:
+    {ul  .nav-item {display: none;}}\n\n@media (max-width: 320px) {\n\n.Iam {\n\npadding:
     2em -1em;\n\n}\n\n}\n\n@media (min-width: 321px) and (max-width: 375px) {\n\n.Iam
     {\n\npadding: 2em 0.75em;\n\n}\n\n}\n\n@media (min-width: 376px) and (max-width:
     425px) {\n\n.Iam {\n\npadding: 2em 1em;\n\n}\n\n}\n\n@media (min-width: 426px)
