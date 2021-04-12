@@ -57,12 +57,7 @@ page_sections:
     la Universitat de València.<br><br>En este año 2021 daré comienzo a un doctorado
     en optimización y estadística que ofrece en conjunto la Universitat Politécnica
     de València y la UV.
-  content: "&lt;style&gt;<br>@media (max-width: 320px) {<br>.Iam {padding: 2em -1em;<br>}<br>}<br><br>@media
-    (min-width: 321px) and (max-width: 375px) {<br>.Iam {<br>padding: 2em 0.75em;<br>}<br>}<br><br>@media
-    (min-width: 376px) and (max-width: 425px) {<br>.Iam {<br>padding: 2em 1em;<br>}<br>}<br><br>@media
-    (min-width: 426px) and (max-width: 768px) {<br>.Iam {padding: 2em 1.5em;<br>}<br>}<br><br>@media
-    (min-width: 769px) and (max-width: 1024px) {<br>.Iam {padding: 1em 5em;<br>}<br>}<br><br>@media
-    (min-width: 1025px) {<br>.Iam {padding: 1em 5em;<br>}<br>}<br>&lt;/style&gt;"
+  content: ''
   media:
     image: "/uploads/2021/03/10/industrial.png"
     alt_text: ingeniería industrial
