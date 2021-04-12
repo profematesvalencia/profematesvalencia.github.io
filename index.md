@@ -52,16 +52,11 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: bio
-  headline: "<p>&lt;style&gt;<br>@media (max-width: 320px) {.Iam {padding: 2em -1em;}}@media
-    (min-width: 321px) and (max-width: 375px) {.Iam {padding: 2em 0.75em;}}@media
-    (min-width: 376px) and (max-width: 425px) {.Iam {padding: 2em 1em;}}@media (min-width:
-    426px) and (max-width: 768px) {.Iam {padding: 2em 1.5em;}}@media (min-width: 769px)
-    and (max-width: 1024px)  {.Iam {padding: 1em 5em;}}@media (min-width: 1025px)
-    \ {.Iam {padding: 1em 5em;}}&lt;/style&gt;</p><p>Soy ingeniero industrial e ingeniero
-    en aviación comercial de la Universidad Técnica Federico Santa María (Chile) con
-    un master en gestión de la calidad en la Universitat de València.<br><br>En este
-    año 2021 daré comienzo a un doctorado en optimización y estadística que ofrece
-    en conjunto la Universitat Politécnica de València y la UV.</p>"
+  headline: "<p>Soy ingeniero industrial e ingeniero en aviación comercial de la Universidad
+    Técnica Federico Santa María (Chile) con un master en gestión de la calidad en
+    la Universitat de València.<br><br>En este año 2021 daré comienzo a un doctorado
+    en optimización y estadística que ofrece en conjunto la Universitat Politécnica
+    de València y la UV.</p>"
   content: ''
   media:
     image: "/uploads/2021/03/10/industrial.png"
