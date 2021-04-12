@@ -120,7 +120,7 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: '<style>p {text-align: center;} @media (max-width:425px) {.block-text-1
-    .headline {flex: auto;} .centered-image {width:70%;  display: block;   margin-left:
+    .headline {flex: auto!important;} .centered-image {width:70%;  display: block;   margin-left:
     auto;   margin-right: auto; padding-bottom: 15%;}} @media (min-width: 426px) and
     (max-width: 768px) {.centered-image {width: 80%;  display: block;   margin-left:
     auto;   margin-right: auto; padding-bottom: 15%;}}</style><h2 style="text-align:
