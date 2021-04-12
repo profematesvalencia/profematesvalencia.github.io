@@ -127,7 +127,7 @@ page_sections:
   headline: '<style>p {text-align: center;} @media (max-width:425px) {.centered-image
     {width:65%;  display: block;   margin-left: auto;   margin-right: auto; padding-bottom:
     10%;}} @media (min-width: 426px) and (max-width: 768px) {.block-text-1 .headline
-    {flex: auto!important;} .centered-image {width: 60%;  display: block;   margin-left:
+    {flex: auto!important;} .centered-image {width: 50%;  display: block;   margin-left:
     auto;   margin-right: auto; padding-bottom: 10%;}} @media (min-width: 769px) and
     (max-width: 1024px) {.block-text-1 .headline {flex: auto!important;} .centered-image
     {width: 50%;  display: block;   margin-left: auto;   margin-right: auto; padding-bottom:
