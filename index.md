@@ -61,7 +61,7 @@ page_sections:
 
     @media (min-width: 376px) and (max-width: 768px) {h2 {font-size: 24px;} .block-feature-2 .column.text {margin-bottom: 0rem;}}
 
-    @media (min-width: 769px) and (max-width: 1024px)  {h2 {font-size: 26px;} .block-feature-2 .column.text {margin-bottom: 0rem;}}
+    @media (min-width: 769px) and (max-width: 1024px)  {h2 {font-size: 25px;} .block-feature-2 .column.text {margin-bottom: 0rem;}}
 
     @media (min-width: 1025px)  {.Iam {padding: 1em 5em;}}</style>
 
