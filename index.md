@@ -3,18 +3,21 @@ layout: blocks
 title: Homepage
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
-- template: navigation-header
-  block: header-1
-  logo: "/uploads/2021/03/24/logo_large.png"
+- template: navigation-header-w-button
+  block: header-2
   navigation:
-  - link_text: "¿Quien soy?"
-    link: "#quien-soy"
-  - link_text: "¿Como te puedo ayudar?"
-    link: "#como-puedo-ayudar"
+  - link: " #quien-soy"
+    link_text: "¿Quien soy?"
+  - link: "#como-puedo-ayudar"
+    link_text: "¿Como te puedo ayudar?  "
   - link: "#metodologia"
     link_text: Metodología de enseñanza
   - link: "#disponibilidad-horaria"
     link_text: Disponibilidad horaria
+  logo: "/uploads/2021/03/24/logo_large.png"
+  cta:
+    url: ''
+    button_text: ''
 - template: hero-banner-w-image
   block: hero-2
   slug: features
