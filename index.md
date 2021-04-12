@@ -132,7 +132,7 @@ page_sections:
   headline: '<style>@media (max-width: 320px) {.responsive-iframe-container {padding-bottom:
     120%;}} @media (min-width: 321px) and (max-width: 375px)  {.responsive-iframe-container
     {padding-bottom: 110%;}} @media (min-width: 376px) and (max-width: 425px) {padding-bottom:
-    100px;}} .responsive-iframe-container {     position: relative;     height: 0;     overflow:
+    100%;}} .responsive-iframe-container {     position: relative;     height: 0;     overflow:
     auto; }   .responsive-iframe-container iframe,   .vresponsive-iframe-container
     object,  .vresponsive-iframe-container embed {     position: absolute;     top:
     0;     left: 0;     width: 141%;     height: 100%; }</style><div class="responsive-iframe-container"><iframe
