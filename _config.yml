@@ -6,8 +6,8 @@ description: Una de mis principales cualidades es la importancia que le doy al p
   de aprendizaje. Todos aprendemos a ritmos distintos y es labor del docente identificar
   cuales son los métodos que generan mejores resultados, siendo lo mas importante
   el volver atrás para solucionar o reforzar algunos conceptos clave.
-baseurl: ''
-url: ''
+baseurl: profematesvalencia
+url: profematesvalencia.net
 defaults:
 - scope:
     path: ''
