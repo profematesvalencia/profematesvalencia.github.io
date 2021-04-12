@@ -114,8 +114,8 @@ page_sections:
       que te pediré los apuntes y guías de ejercicios que te hayan sido entregados,
       para proponerte ejercicios del mismo nivel y así asegures una excelente calificación.​
   content: "<h1></h1>"
-  heading_text: "<style> h3 {font-size: 1.1rem; weight: 600;} p {font-size:1.1rem;
-    weight: 500!important;}</style><h2>¿Como te puedo ayudar?</h2>"
+  heading_text: "<style> h3 {font-size: 1.1rem; font-weight: 600;} p {font-size:1.1rem;
+    font-weight: 500!important;}</style><h2>¿Como te puedo ayudar?</h2>"
   heading: "¿Como te puedo ayudar?"
 - template: detail-content
   block: text-1
