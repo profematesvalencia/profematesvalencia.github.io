@@ -67,7 +67,7 @@ page_sections:
 
     Soy Marcel Soulodre, ingeniero industrial e ingeniero en aviación comercial de la Universidad Técnica Federico Santa María (Chile) con un master en gestión de la calidad en la Universitat de València.
 
-    En este año 2021 daré comienzo a un doctorado en optimización y estadística que ofrece en conjunto la Universitat Politécnica de València y la UV.
+    En este año 2021 daré comienzo a un doctorado en optimización y estadística que ofrece la Universitat Politécnica de València.
   content: ''
   media:
     image: "/uploads/2021/03/10/industrial.png"
