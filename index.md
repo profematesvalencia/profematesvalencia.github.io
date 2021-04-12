@@ -133,7 +133,7 @@ page_sections:
     0; overflow: hidden;   }   .responsiveCal iframe {   position: absolute; top:0;
     left: 0; width: 100%; height: 100%;   }</style><div class="responsiveCal"><iframe
     src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FMadrid&amp;src=bWFyY2VsLnNvdWxvZHJlQGdtYWlsLmNvbQ&amp;color=%23D50000&amp;showTitle=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=WEEK"
-    style="border-width:0" frameborder="0" scrolling="no"></iframe> </div>'
+    style="border-width:0"frameborder="0" scrolling="no"></iframe> </div>'
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Nicaragua
