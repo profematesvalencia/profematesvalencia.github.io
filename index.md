@@ -11,6 +11,8 @@ page_sections:
     link: ''
   - link_text: "¿Como te puedo ayudar?"
     link: ''
+  - link: ''
+    link_text: Metodología de enseñanza
 - template: hero-banner-w-image
   block: hero-2
   slug: features
