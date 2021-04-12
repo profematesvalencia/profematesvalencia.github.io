@@ -118,7 +118,7 @@ page_sections:
   heading: "¿Como te puedo ayudar?"
 - template: detail-content
   block: text-1
-  headline: <img style="width:65%; height:auto; border-radius:60%;}" src="/uploads/2021/04/11/marcel_orig.png"
+  headline: <img style="width:65%; height:auto;}" src="/uploads/2021/04/11/marcel_orig.png"
     alt="teacher">
   content: |-
     <style> </style><p><strong>Una de mis principales cualidades es la importancia que le doy al proceso de aprendizaje. Todos aprendemos a ritmos distintos y es labor del docente identificar cuales son los métodos que generan mejores resultados, siendo lo mas importante el volver atrás para solucionar o reforzar algunos conceptos clave.</strong></p>
