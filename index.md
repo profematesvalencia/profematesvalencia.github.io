@@ -133,16 +133,16 @@ page_sections:
     {width: 50%;  display: block;   margin-left: auto;   margin-right: auto; padding-bottom:
     7%; padding-top: 2%}} @media (min-width: 1025px) {.block-text-1 .headline {flex:
     auto!important;} .centered-image {width: 30%;  display: block;   margin-left:
-    auto;   margin-right: auto; padding-bottom: 5%; padding-top: 1%}}</style><h2 id="metodologia"
-    style="text-align: center; width: 100%; display: block;">Metodología de enseñanza</h2><br><br><img
-    class="centered-image" src="/uploads/2021/04/11/marcel_orig.png" alt="teacher"><p>Una
-    de mis principales cualidades es la importancia que le doy al proceso de aprendizaje.
-    Todos aprendemos a ritmos distintos y es labor del docente identificar cuales
-    son los métodos que generan mejores resultados, siendo lo mas importante el volver
-    atrás para solucionar o reforzar algunos conceptos clave.</p><br><p>Mi experiencia
-    me ha permitido conocer bien las necesidades de los estudiantes y me hace muy
-    feliz ver como logro traspasar el saber de forma efectiva a mis aprendices. Me
-    es gratificante ver que comprenden lo que les explico.</p><br><p>Académicamente,
+    auto;   margin-right: auto; padding-bottom: 5%; padding-top: 1%}}</style><div
+    id="metodologia">&nbsp;</div><h2 style="text-align: center; width: 100%; display:
+    block;">Metodología de enseñanza</h2><br><br><img class="centered-image" src="/uploads/2021/04/11/marcel_orig.png"
+    alt="teacher"><p>Una de mis principales cualidades es la importancia que le doy
+    al proceso de aprendizaje. Todos aprendemos a ritmos distintos y es labor del
+    docente identificar cuales son los métodos que generan mejores resultados, siendo
+    lo mas importante el volver atrás para solucionar o reforzar algunos conceptos
+    clave.</p><br><p>Mi experiencia me ha permitido conocer bien las necesidades de
+    los estudiantes y me hace muy feliz ver como logro traspasar el saber de forma
+    efectiva a mis aprendices. Me es gratificante ver que comprenden lo que les explico.</p><br><p>Académicamente,
     cuento con bases muy sólidas para enseñar distintas disciplinas, y, profesionalmente,
     con la habilidad de lograr que asimiles el material impartido.</p>'
   content: ''
