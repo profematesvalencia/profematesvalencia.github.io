@@ -119,8 +119,12 @@ page_sections:
   heading: "¿Como te puedo ayudar?"
 - template: detail-content
   block: text-1
-  headline: '<h2 style="text-align: center;">Metodología de enseñanza</h2>'
-  content: |2-
+  headline: '<style>@media (min-width:320px) {.centered-image {width:70%;  display:
+    block;   margin-left: auto;   margin-right: auto; }}</style><h2 style="text-align:
+    center; width: 100%; display: block;">Metodología de enseñanza</h2><br><br><br><img
+    class="centered-image" src="/uploads/2021/04/11/marcel_orig.png" alt="teacher">'
+  content: |-
+    <style>@media (min-width:320px) {.centered-image {width:70%;  display: block;   margin-left: auto;   margin-right: auto; }}</style>
 
     <img class="centered-image" src="/uploads/2021/04/11/marcel_orig.png" alt="teacher">
 
