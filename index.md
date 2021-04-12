@@ -55,7 +55,7 @@ page_sections:
   headline: |-
     <style>
 
-    @media (max-width: 320px) {.Iam {padding: 2em -1em;}}
+    @media (max-width: 320px) {.h2 span.light {font-size: 20px;}}
 
     @media (min-width: 321px) and (max-width: 375px) {.Iam {padding: 2em 0.75em;}}
 
