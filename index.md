@@ -17,8 +17,7 @@ page_sections:
   logo: "/uploads/2021/03/24/logo_large.png"
   cta:
     url: https://api.whatsapp.com/send?phone=+34635122143&Hola profematesvalencia.net,
-      me encuentro interesado en recibir clases contigo :)=urlencodedtext"<a href="https://api.whatsapp.com/send?phone=+34635122143&Hola
-      profematesvalencia.net, me encuentro interesado en recibir clases contigo :)=urlencodedtext"
+      me encuentro interesado en recibir clases contigo :)=urlencodedtext
     button_text: "<style>.button.small {font-size: 0.8rem;} .button.primary {background-color:
       #000;}</style>Contactame"
 - template: hero-banner-w-image
