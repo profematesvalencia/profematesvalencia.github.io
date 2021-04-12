@@ -119,13 +119,9 @@ page_sections:
   heading: "¿Como te puedo ayudar?"
 - template: detail-content
   block: text-1
-  headline: '<style>p {text-align: center;} @media (max-width:320px) {.centered-image
+  headline: '<style>p {text-align: center;} @media (max-width:425x) {.centered-image
     {width:70%;  display: block;   margin-left: auto;   margin-right: auto; padding-bottom:
-    15%;}} @media (min-width: 321px) and (max-width: 375px) {.centered-image {width:70%;  display:
-    block;   margin-left: auto;   margin-right: auto; padding-bottom: 15%;}} @media
-    (min-width: 376px) and (max-width: 425px) {.centered-image {width:70%;  display:
-    block;   margin-left: auto;   margin-right: auto; padding-bottom: 15%;}} @media
-    (min-width: 426px) and (max-width: 768px) {.centered-image {width:70%;  display:
+    15%;}} @media (min-width: 426px) and (max-width: 768px) {.centered-image {width:70%;  display:
     block;   margin-left: auto;   margin-right: auto; padding-bottom: 15%;}} @media
     (min-width: 769px) and (max-width: 1024px)  {.centered-image {width:70%;  display:
     block;   margin-left: auto;   margin-right: auto; padding-bottom: 15%;}} @media
