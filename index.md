@@ -55,9 +55,9 @@ page_sections:
   headline: |-
     <style>
 
-    @media (max-width: 320px) {h2 {font-size: 18px;} .block-feature-2 .column.text {margin-bottom: 10rem;}}
+    @media (max-width: 320px) {h2 {font-size: 18px;} .block-feature-2 .column.text {margin-bottom: 0rem;}}
 
-    @media (min-width: 321px) and (max-width: 375px) {.Iam {padding: 2em 0.75em;}}
+    @media (min-width: 321px) and (max-width: 375px) {h2 {font-size: 20px;} .block-feature-2 .column.text {margin-bottom: 0rem;}}
 
     @media (min-width: 376px) and (max-width: 425px) {.Iam {padding: 2em 1em;}}
 
