@@ -122,8 +122,8 @@ page_sections:
   headline: '<style>p {text-align: center;} @media (max-width:425px) {.centered-image
     {width:35%;  display: block;   margin-left: auto;   margin-right: auto; padding-bottom:
     10%;}} @media (min-width: 426px) and (max-width: 768px) {.block-text-1 .headline
-    {flex: auto!important;} .centered-image {width: 70%;  display: block;   margin-left:
-    auto;   margin-right: auto; padding-bottom: 12%;}}</style><h2 style="text-align:
+    {flex: auto!important;} .centered-image {width: 60%;  display: block;   margin-left:
+    auto;   margin-right: auto; padding-bottom: 10%;}}</style><h2 style="text-align:
     center; width: 100%; display: block;">Metodología de enseñanza</h2><br><br><img
     class="centered-image" src="/uploads/2021/04/11/marcel_orig.png" alt="teacher"><p>Una
     de mis principales cualidades es la importancia que le doy al proceso de aprendizaje.
