@@ -59,7 +59,7 @@ page_sections:
 
     @media (min-width: 321px) and (max-width: 375px) {h2 {font-size: 20px;} .block-feature-2 .column.text {margin-bottom: 0rem;}}
 
-    @media (min-width: 376px) and (max-width: 425px) {h2 {font-size: 22px;} .block-feature-2 .column.text {margin-bottom: 0rem;}}
+    @media (min-width: 376px) and (max-width: 425px) {h2 {font-size: 23px;} .block-feature-2 .column.text {margin-bottom: 0rem;}}
 
     @media (min-width: 426px) and (max-width: 768px) {.Iam {padding: 2em 1.5em;}}
 
