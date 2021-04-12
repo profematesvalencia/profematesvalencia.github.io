@@ -17,7 +17,7 @@ page_sections:
   logo: "/uploads/2021/03/24/logo_large.png"
   cta:
     url: ''
-    button_text: ''
+    button_text: "<style></style>Contactame"
 - template: hero-banner-w-image
   block: hero-2
   slug: features
