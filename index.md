@@ -170,7 +170,6 @@ page_sections:
     style="border-width:0" height="600" frameborder="0" scrolling="no"></iframe> </div>'
 - template: simple-footer
   block: footer-1
-  content: Diseñado con ❤︎ por <a href="http://eddzequiel.github.io/" target="_blank">Eddy
-    Moreno</a><br>
+  content: "Diseñado con \U0001F5A4 por <a href=\"http://eddzequiel.github.io/\" title=\"\">Ezequiel</a><br>"
 
 ---
