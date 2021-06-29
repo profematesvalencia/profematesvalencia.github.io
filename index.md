@@ -150,7 +150,7 @@ page_sections:
     superen.  Apuntes de las clases: En el caso de clases online, al final de la clase
     te enviaré los apuntes en un documento en PDF. No quiero que desvíes esfuerzos
     en copiar ejercicios.</p>'
-  content: "**Saber hacer**: \n\n¿Te ha pasado que entiendes la materia, pero que
+  content: "**Saber hacer**: \n\n# ¿Te ha pasado que entiendes la materia, pero que
     al momento de enfrentarte a un ejercicio de quedas en blanco? La experiencia me
     ha enseñado que mi tarea no termina cuando entiendes un ejercicio, sino que realmente
     termina cuando lo sabes hacer sin que yo te diga cómo. Eso es lo que realmente
