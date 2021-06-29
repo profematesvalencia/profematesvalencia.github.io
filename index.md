@@ -165,15 +165,18 @@ page_sections:
     0;     left: 0;     width: 141%;     height: 100%; }</style><div id="disponibilidad-horaria">&nbsp;</div><h2>Disponibilidad
     horaria</h2><br><br><br><div class="responsive-iframe-container"><iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FMadrid&amp;src=bWFyY2VsLnNvdWxvZHJlQGdtYWlsLmNvbQ&amp;color=%23D50000&amp;showTitle=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=WEEK"
     style="border-width:0" height="600" frameborder="0" scrolling="no"></iframe> </div>'
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: "![](/uploads/2021/06/29/logo.png)"
-  slug: ''
-  content: ''
-  media:
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/2021/06/29/logo.png"
+  image:
     image: ''
     alt_text: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: simple-footer
   block: footer-1
   content: "Diseñado con \U0001F5A4 por <a href=\"http://eddzequiel.github.io/\" title=\"\">Ezequiel</a><br>"
