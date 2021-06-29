@@ -99,9 +99,8 @@ page_sections:
   col_1:
     headline: Clases presenciales
     slug: ''
-    content: Es la forma más tradicional de enseñar. Nos reunimos, te enseño la teoría,
-      te muestro algunos ejercicios y después el protagonista eres tú. Lo más importante
-      es que desarrolles la tan importante capacidad de saber que hacer en cada caso.
+    content: Es la forma más tradicional de aprender. Muchas veces atendemos más de
+      esta forma. Nos reunimos en un lugar que te acomode y solucionaremos tus problemas.
   col_2:
     headline: Clases en línea
     slug: ''
