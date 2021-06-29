@@ -150,7 +150,7 @@ page_sections:
     superen.  Apuntes de las clases: En el caso de clases online, al final de la clase
     te enviaré los apuntes en un documento en PDF. No quiero que desvíes esfuerzos
     en copiar ejercicios.</p>'
-  content: '![](/uploads/2021/06/29/factibilidad.JPG "Mis áreas de conocimiento")'
+  content: "![](/uploads/2021/06/29/factibilidad.PNG)"
 - template: 1-column-text
   block: one-column-1
   content: ''
