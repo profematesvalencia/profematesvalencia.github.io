@@ -115,7 +115,8 @@ page_sections:
     slug: ''
     content: Muchos de mis alumnos buscan como prepararse para un examen. Es por esto
       que te pediré los apuntes y guías de ejercicios que te hayan sido entregados,
-      para proponerte ejercicios del mismo nivel y así asegures una excelente calificación.​
+      para proponerte ejercicios del mismo nivel y así asegures una excelente calificación.​<br><br><img
+      src="/uploads/2021/06/29/factibilidad.PNG">
   content: "<h1></h1>"
   heading_text: '<style> h3 {font-size: 1.1rem; font-weight: 600;} p {font-size:1.1rem;
     font-weight: 500!important;}</style><div id="¿Cómo-puedo-ayudar?">&nbsp;</div><h2>¿Cómo
@@ -150,7 +151,7 @@ page_sections:
     superen.  Apuntes de las clases: En el caso de clases online, al final de la clase
     te enviaré los apuntes en un documento en PDF. No quiero que desvíes esfuerzos
     en copiar ejercicios.</p>'
-  content: "![](/uploads/2021/06/29/factibilidad.PNG)"
+  content: ''
 - template: 1-column-text
   block: one-column-1
   content: ''
