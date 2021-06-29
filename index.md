@@ -189,8 +189,9 @@ page_sections:
     0;     overflow: auto; }   .responsive-iframe-container iframe,   .vresponsive-iframe-container
     object,  .vresponsive-iframe-container embed {     position: absolute;     top:
     0;     left: 0;     width: 141%;     height: 100%; }</style><div id="disponibilidad-horaria">&nbsp;</div><h2>Disponibilidad
-    horaria</h2><br><br><br><div class="responsive-iframe-container"><iframe src="https://youtu.be/IQRuDfixUPo"
-    style="border-width:0" height="600" frameborder="0" scrolling="no"></iframe> </div>'
+    horaria</h2><br><br><br><div class="responsive-iframe-container"><iframe src="
+    https://youtu.be/IQRuDfixUPo " style="border-width:0" height="600" frameborder="0"
+    scrolling="no"></iframe> </div>'
   slug: ''
 - template: simple-footer
   block: footer-1
