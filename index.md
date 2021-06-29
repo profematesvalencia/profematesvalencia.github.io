@@ -179,19 +179,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   content: <a href="https://youtu.be/lQRuDfixUPo" title="https://youtu.be/lQRuDfixUPo">https://youtu.be/lQRuDfixUPo</a><br>
-  headline: '<style>@media (max-width: 320px) {.responsive-iframe-container {padding-bottom:
-    120%;}} @media (min-width: 321px) and (max-width: 375px)  {.responsive-iframe-container
-    {padding-bottom: 110%;}} @media (min-width: 376px) and (max-width: 425px) {.responsive-iframe-container
-    {padding-bottom: 100%;}} @media (min-width: 426px) and (max-width: 768px)  {.responsive-iframe-container
-    {padding-bottom: 70%;}} @media (min-width: 769px) and (max-width: 1024px)  {.responsive-iframe-container
-    {padding-bottom: 50%;}} @media (min-width: 1025px)  {.responsive-iframe-container
-    {padding-bottom: 50%;}} .responsive-iframe-container {     position: relative;     height:
-    0;     overflow: auto; }   .responsive-iframe-container iframe,   .vresponsive-iframe-container
-    object,  .vresponsive-iframe-container embed {     position: absolute;     top:
-    0;     left: 0;     width: 141%;     height: 100%; }</style><div id="disponibilidad-horaria">&nbsp;</div><h2>Disponibilidad
-    horaria</h2><br><br><br><div class="responsive-iframe-container"><iframe src="
-    https://youtu.be/IQRuDfixUPo " style="border-width:0" height="600" frameborder="0"
-    scrolling="no"></iframe> </div>'
+  headline: Ve mis videos en youtube
   slug: ''
 - template: simple-footer
   block: footer-1
