@@ -150,21 +150,7 @@ page_sections:
     superen.  Apuntes de las clases: En el caso de clases online, al final de la clase
     te enviaré los apuntes en un documento en PDF. No quiero que desvíes esfuerzos
     en copiar ejercicios.</p>'
-  content: "**Saber hacer**: \n\n# ¿Te ha pasado que entiendes la materia, pero que
-    al momento de enfrentarte a un ejercicio de quedas en blanco? La experiencia me
-    ha enseñado que mi tarea no termina cuando entiendes un ejercicio, sino que realmente
-    termina cuando lo sabes hacer sin que yo te diga cómo. Eso es lo que realmente
-    quiero para ti.\n\n**Coaching motivacional**: \n\nMuchas veces no le damos importancia
-    a la arista sicológica o emocional. Comprendo que puedas tener rechazo a estudiar
-    matemáticas, pero permíteme mostrarte la belleza de los números. Trabajaremos
-    juntos para que estudiar sea agradable para ti. La ansiedad y el nerviosismo no
-    son nuestros amigos, pero lograremos superarlo.\n\n**Apoyo y orientación entre
-    clases**: Puedes preguntarme lo que quieras entre clases, siempre estaré para
-    orientarte cuando estés estudiando. Esto no tiene ningún costo adicional. Es una
-    ayuda que disfruto darla a mis alumnos con la esperanza que cada día se superen.
-    Apuntes de las clases: En el caso de clases online, al final de la clase te enviaré
-    los apuntes en un documento en PDF. No quiero que desvíes esfuerzos en copiar
-    ejercicios."
+  content: "![](/uploads/2021/06/29/factibilidad.JPG)"
 - template: 1-column-text
   block: one-column-1
   content: ''
