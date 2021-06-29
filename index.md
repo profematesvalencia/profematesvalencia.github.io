@@ -11,7 +11,7 @@ page_sections:
   - link: "#como-puedo-ayudar"
     link_text: "¿Cómo te puedo ayudar?  "
   - link: "#metodologia"
-    link_text: Metodología de enseñanza
+    link_text: "¿Por qué tomar clases conmigo?"
   - link: "#disponibilidad-horaria"
     link_text: Disponibilidad horaria
   logo: "/uploads/2021/06/29/logo.png"
