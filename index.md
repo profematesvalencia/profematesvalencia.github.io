@@ -9,7 +9,7 @@ page_sections:
   - link: " #quien-soy"
     link_text: "¿Quien soy?"
   - link: "#como-puedo-ayudar"
-    link_text: "¿Como te puedo ayudar?  "
+    link_text: "¿Cómo te puedo ayudar?  "
   - link: "#metodologia"
     link_text: Metodología de enseñanza
   - link: "#disponibilidad-horaria"
