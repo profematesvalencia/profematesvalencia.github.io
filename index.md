@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Bienvenido
+title: Clases de matemáticas, física y probabilidad & estadística
 date: 2021-04-12T14:26:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
@@ -137,9 +137,7 @@ page_sections:
   content: ''
 - template: 3-column-text
   block: three-column-1
-  heading_text: '<style> h3 {font-size: 1.1rem; font-weight: 600;} p {font-size:1.1rem;
-    font-weight: 500!important;}</style><div id="¿Cómo-puedo-ayudar?">&nbsp;</div><h2>¿Por
-    qué tomar clases conmigo??</h2>'
+  heading_text: ''
   col_1:
     headline: Saber hacer
     content: "¿Te ha pasado que entiendes la materia, pero que al momento de enfrentarte
