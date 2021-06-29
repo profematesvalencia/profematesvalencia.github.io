@@ -79,7 +79,7 @@ page_sections:
     de la calidad en la Universitat de València."
   content: ''
   media:
-    image: "/uploads/2021/03/10/industrial.png"
+    image: "/uploads/2021/06/29/logo.png"
     alt_text: ingeniería industrial
 - template: content-feature
   block: feature-1
