@@ -104,10 +104,12 @@ page_sections:
   col_2:
     headline: Clases en línea
     slug: ''
-    content: Dada la situación actual, he diseñado una efectiva metodología de realizar
-      clases no presenciales, en donde ves en tiempo real lo que escribo en mi dispositivo
-      digital de enseñanza. Al final de la sesión te envío los apuntes que realicemos
-      en conjunto por medio de un archivo PDF.
+    content: La pandemia nos ha enseñado a trabajar de otra forma, ya no es necesario
+      coincidir en tiempo y espacio. Esta opción nos servirá en el caso que estemos
+      lejos. Realmente no es un impedimento. Es muy simple. Agendamos la hora y te
+      envío una cita a tu correo electrónico y con tan solo un click, podremos vernos
+      y conversar. Cuando comienza la clase te compartiré mi pantalla y verás lo que
+      escribo “de mi puño y letra” (lápiz, no ratón)
   col_3:
     headline: Preparación parcial
     slug: ''
