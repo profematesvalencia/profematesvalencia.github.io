@@ -89,9 +89,10 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: classes
-  headline: Desde el año 2005, me he dedicado a impartir clases particulares de matemáticas,
-    física y química a estudiantes de ESO, bachillerato y de la universidad para superar
-    deficiencias en áreas numéricas y preparación de exámenes.
+  headline: |-
+    Laboralmente, me desempeñé como analista y posteriormente como encargado de un departamento en una prestigiosa y reconocida aerolínea chileno-brasileña, trabajando activamente con modelos matemáticos y probabilísticos.
+
+    Tengo las habilidades necesarias para traspasarte todos los conocimientos que necesitas y reencantarte con los números.
   content: ''
   media:
     image: "/uploads/2021/03/10/particulares.png"
