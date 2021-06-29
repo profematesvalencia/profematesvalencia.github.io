@@ -149,6 +149,27 @@ page_sections:
     te enviaré los apuntes en un documento en PDF. No quiero que desvíes esfuerzos
     en copiar ejercicios.</p>'
   content: ''
+- template: 3-column-text
+  block: three-column-1
+  heading_text: '<style> h3 {font-size: 1.1rem; font-weight: 600;} p {font-size:1.1rem;
+    font-weight: 500!important;}</style><div id="¿Cómo-puedo-ayudar?">&nbsp;</div><h2>¿Por
+    qué tomar clases conmigo??</h2>'
+  col_1:
+    headline: Saber hacer
+    content: "¿Te ha pasado que entiendes la materia, pero que al momento de enfrentarte
+      a un ejercicio de quedas en blanco?<br><br>La experiencia me ha enseñado que
+      mi tarea no termina cuando entiendes un ejercicio, sino que realmente termina
+      cuando lo sabes hacer sin que yo te diga cómo. Eso es lo que realmente quiero
+      para ti."
+    slug: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
 - template: 1-column-text
   block: one-column-1
   content: ''
