@@ -134,16 +134,16 @@ page_sections:
     auto!important;} .centered-image {width: 30%;  display: block;   margin-left:
     auto;   margin-right: auto; padding-bottom: 5%; padding-top: 1%}}</style><div
     id="metodologia">&nbsp;</div><h2 style="text-align: center; width: 100%; display:
-    block;">Metodología de enseñanza</h2><br><br><img class="centered-image" src="/uploads/2021/04/11/marcel_orig.png"
-    alt="teacher"><p>Saber hacer: ¿Te ha pasado que entiendes la materia, pero que
-    al momento de enfrentarte a un ejercicio de quedas en blanco?   La experiencia
-    me ha enseñado que mi tarea no termina cuando entiendes un ejercicio, sino que
-    realmente termina cuando lo sabes hacer sin que yo te diga cómo. Eso es lo que
-    realmente quiero para ti.</p><br><p>Coaching motivacional: Muchas veces no le
-    damos importancia a la arista sicológica o emocional. Comprendo que puedas tener
-    rechazo a estudiar matemáticas, pero permíteme mostrarte la belleza de los números.
-    Trabajaremos juntos para que estudiar sea agradable para ti. La ansiedad y el
-    nerviosismo no son nuestros amigos, pero lograremos superarlo. </p><br><p>Apoyo
+    block;">¿Por qué tomar clases conmigo?</h2><br><br><img class="centered-image"
+    src="/uploads/2021/04/11/marcel_orig.png" alt="teacher"><p>Saber hacer: ¿Te ha
+    pasado que entiendes la materia, pero que al momento de enfrentarte a un ejercicio
+    de quedas en blanco?   La experiencia me ha enseñado que mi tarea no termina cuando
+    entiendes un ejercicio, sino que realmente termina cuando lo sabes hacer sin que
+    yo te diga cómo. Eso es lo que realmente quiero para ti.</p><br><p>Coaching motivacional:
+    Muchas veces no le damos importancia a la arista sicológica o emocional. Comprendo
+    que puedas tener rechazo a estudiar matemáticas, pero permíteme mostrarte la belleza
+    de los números. Trabajaremos juntos para que estudiar sea agradable para ti. La
+    ansiedad y el nerviosismo no son nuestros amigos, pero lograremos superarlo. </p><br><p>Apoyo
     y orientación entre clases:  Puedes preguntarme lo que quieras entre clases, siempre
     estaré para orientarte cuando estés estudiando.   Esto no tiene ningún costo adicional.
     Es una ayuda que disfruto darla a mis alumnos con la esperanza que cada día se
