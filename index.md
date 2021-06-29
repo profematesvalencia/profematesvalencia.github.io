@@ -174,8 +174,8 @@ page_sections:
     headline: Apoyo entre clases
     slug: ''
     content: Puedes preguntarme lo que quieras entre clases, siempre estaré para orientarte
-      cuando estés estudiando. Esto no tiene ningún costo adicional. Es una ayuda
-      que disfruto darla a mis alumnos con la esperanza que cada día se superen.
+      cuando estés estudiando. <br><br>Esto no tiene ningún costo adicional. Es una
+      ayuda que disfruto darla a mis alumnos con la esperanza que cada día se superen.
 - template: 1-column-text
   block: one-column-1
   content: ''
