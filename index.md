@@ -111,12 +111,9 @@ page_sections:
       y conversar. Cuando comienza la clase te compartiré mi pantalla y verás lo que
       escribo “de mi puño y letra” (lápiz, no ratón)
   col_3:
-    headline: Preparación parcial
+    headline: Asignaturas y niveles
     slug: ''
-    content: Muchos de mis alumnos buscan como prepararse para un examen. Es por esto
-      que te pediré los apuntes y guías de ejercicios que te hayan sido entregados,
-      para proponerte ejercicios del mismo nivel y así asegures una excelente calificación.​<img
-      src="/uploads/2021/06/29/factibilidad.JPG"><br>
+    content: <img src="/uploads/2021/06/29/factibilidad.JPG"><br>
   content: "<h1></h1>"
   heading_text: '<style> h3 {font-size: 1.1rem; font-weight: 600;} p {font-size:1.1rem;
     font-weight: 500!important;}</style><div id="¿Cómo-puedo-ayudar?">&nbsp;</div><h2>¿Cómo
