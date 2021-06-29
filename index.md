@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Bienvenido
-date: 2021-04-12 14:26:00 +0000
+date: 2021-04-12T14:26:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -66,26 +66,21 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: bio
-  headline: |-
-    <div id="quien-soy"> </div>
-
-    <style>
-
-    @media (max-width: 320px) {h2 {font-size: 18px;} .block-feature-2 .column.text {margin-bottom: 0rem;}}
-
-    @media (min-width: 321px) and (max-width: 375px) {h2 {font-size: 20px;} .block-feature-2 .column.text {margin-bottom: 0rem;}}
-
-    @media (min-width: 376px) and (max-width: 768px) {h2 {font-size: 24px;} .block-feature-2 .column.text {margin-bottom: 0rem;}}
-
-    @media (min-width: 769px) and (max-width: 1024px)  {h2 {font-size: 25px;} .block-feature-2 .column.text {margin-bottom: 0rem;}}
-
-    @media (min-width: 1025px)  {.Iam {padding: 1em 5em;}}
-
-    </style>
-
-    Soy Marcel Soulodre, ingeniero industrial e ingeniero en aviación comercial de la Universidad Técnica Federico Santa María (Chile) con un master en gestión de la calidad en la Universitat de València.
-
-    En este año 2021 daré comienzo a un doctorado en optimización y estadística que ofrece la Universitat Politécnica de València.
+  headline: "<div id=\"quien-soy\"> </div>\n\n<style>\n\n@media (max-width: 320px)
+    {h2 {font-size: 18px;} .block-feature-2 .column.text {margin-bottom: 0rem;}}\n\n@media
+    (min-width: 321px) and (max-width: 375px) {h2 {font-size: 20px;} .block-feature-2
+    .column.text {margin-bottom: 0rem;}}\n\n@media (min-width: 376px) and (max-width:
+    768px) {h2 {font-size: 24px;} .block-feature-2 .column.text {margin-bottom: 0rem;}}\n\n@media
+    (min-width: 769px) and (max-width: 1024px)  {h2 {font-size: 25px;} .block-feature-2
+    .column.text {margin-bottom: 0rem;}}\n\n@media (min-width: 1025px)  {.Iam {padding:
+    1em 5em;}}\n\n</style>\n\nHola \U0001F60A. ¡Gracias por visitar mi página! Mi
+    nombre es Marcel Soulodre. Soy ingeniero industrial e ingeniero en aviación comercial
+    de la Universidad Técnica Federico Santa María (Chile) con un máster en gestión
+    de la calidad en la Universitat de València.\n\nLaboralmente, me desempeñé como
+    analista y posteriormente como encargado de un departamento en una prestigiosa
+    y reconocida aerolínea chileno-brasileña, trabajando activamente con modelos matemáticos
+    y probabilísticos.\n\nTengo las habilidades necesarias para traspasarte todos
+    los conocimientos que necesitas y reencantarte con los números."
   content: ''
   media:
     image: "/uploads/2021/03/10/industrial.png"
