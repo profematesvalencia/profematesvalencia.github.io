@@ -108,8 +108,8 @@ page_sections:
       coincidir en tiempo y espacio. Esta opción nos servirá en el caso que estemos
       lejos. <br><br>Realmente no es un impedimento, es muy simple. Agendamos la hora
       y te envío una cita a tu correo electrónico y con tan solo un click, podremos
-      vernos y conversar. Cuando comienza la clase te compartiré mi pantalla y verás
-      lo que escribo “de mi puño y letra” (lápiz, no ratón)
+      vernos y conversar. <br><br>Cuando comience la clase te compartiré mi pantalla
+      y verás lo que escribo “<em>de mi puño y letra</em>” (lápiz, no ratón)
   col_3:
     headline: Asignaturas y niveles
     slug: ''
