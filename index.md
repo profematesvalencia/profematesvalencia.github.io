@@ -163,9 +163,13 @@ page_sections:
       para ti."
     slug: ''
   col_2:
-    headline: ''
+    headline: Coaching motivacional
     slug: ''
-    content: ''
+    content: Muchas veces no le damos importancia a la arista sicológica o emocional.
+      Comprendo que puedas tener rechazo a estudiar matemáticas, pero permíteme mostrarte
+      la belleza de los números.<br><br>Trabajaremos juntos para que estudiar sea
+      agradable para ti. La ansiedad y el nerviosismo no son nuestros amigos, pero
+      lograremos superarlo.
   col_3:
     headline: ''
     slug: ''
