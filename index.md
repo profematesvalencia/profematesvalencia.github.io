@@ -76,7 +76,7 @@ page_sections:
     1em 5em;}}\n\n</style>\n\nHola \U0001F60A. ¡Gracias por visitar mi página! Mi
     nombre es Marcel Soulodre. Soy ingeniero industrial e ingeniero en aviación comercial
     de la Universidad Técnica Federico Santa María (Chile) con un máster en gestión
-    de la calidad en la Universitat de València."
+    de la calidad en la Universitat de València y actualmente cursando el MBA en la misma universidad."
   content: ''
   media:
     image: "/uploads/2021/06/29/logo.png"
