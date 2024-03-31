@@ -141,7 +141,7 @@ page_sections:
   col_1:
     headline: Saber hacer
     content: "¿Te ha pasado que entiendes la materia, pero que al momento de enfrentarte
-      a un ejercicio de quedas en blanco?<br><br>La experiencia me ha enseñado que
+      a un ejercicio te quedas en blanco?<br><br>La experiencia me ha enseñado que
       mi tarea no termina cuando entiendes un ejercicio, sino que realmente termina
       cuando lo sabes hacer sin que yo te diga cómo. Eso es lo que realmente quiero
       para ti."
