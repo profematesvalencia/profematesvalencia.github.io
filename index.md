@@ -14,7 +14,7 @@ page_sections:
     link_text: "¿Por qué tomar clases conmigo?"
   - link: "#disponibilidad-horaria"
     link_text: Revisa mi agenda
-  logo: "/uploads/2021/06/29/favicon-2.png"
+  logo: "/uploads/2021/06/29/logo.png"
   cta:
     url: https://wa.me/+34635122143/?text=Hola profematesvalencia.net, me encuentro
       interesado en recibir clases contigo y me gustaría solicitar mas información
